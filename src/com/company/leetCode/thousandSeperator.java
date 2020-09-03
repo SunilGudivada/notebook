@@ -1,4 +1,7 @@
-/** https://leetcode.com/contest/biweekly-contest-33/problems/thousand-separator/ */
+/** https://leetcode.com/contest/biweekly-contest-33/problems/thousand-separator/
+ *
+ * Using StringBuilder ( insert function to insert by provding the index to be added ( "." )
+ * */
 package com.company.leetCode;
 
 public class thousandSeperator {
