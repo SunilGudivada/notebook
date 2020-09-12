@@ -47,7 +47,7 @@ public class bullsAndCows {
   public static void main(String[] args) {
     System.out.println(get("1807", "7810").equals("1A3B")); // 1A3B
     System.out.println(get("1123", "0111").equals("1A1B")); // 1A1B
-    System.out.println(get("11", "10").equals("1A0B")); // 1A1B
+    System.out.println(get("11", "10").equals("1A0B")); // 1A0B
     System.out.println(get("1122", "2211").equals("0A4B")); // 0A4B
   }
 }

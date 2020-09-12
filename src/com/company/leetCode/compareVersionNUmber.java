@@ -32,6 +32,6 @@ public class compareVersionNUmber {
     return 0;
   }
   public static void main(String[] args){
-    System.out.println(compareVersions("1.1.08","1.1.8"));
+    System.out.println(compareVersions("1.5","1.1.8"));
   }
 }
