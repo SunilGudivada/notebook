@@ -1,5 +1,7 @@
 package com.company.leetCode;
 
+import java.util.Collections;
+
 class Solution {
 
   //two liner
