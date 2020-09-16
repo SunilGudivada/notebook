@@ -30,14 +30,14 @@ public class countBitsFlip {
       a = a >> 1;
       b = b >> 1;
     }
-    while (a > 0) {
-      a = a >> 1;
-      count++;
-    }
-    while (b > 0) {
-      b = b >> 1;
-      count++;
-    }
+//    while (a > 0) {
+//      a = a >> 1;
+//      count++;
+//    }
+//    while (b > 0) {
+//      b = b >> 1;
+//      count++;
+//    }
     return count;
   }
 
