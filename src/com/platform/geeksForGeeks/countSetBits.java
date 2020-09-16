@@ -1,4 +1,4 @@
-package com.company.geeksForGeeks;
+package com.platform.geeksForGeeks;
 
 // Function to count set bits in the given number x
 // n: input to count the number of set bits

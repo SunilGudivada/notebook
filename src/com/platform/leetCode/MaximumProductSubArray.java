@@ -1,8 +1,4 @@
-package com.company.leetCode;
-
-import jdk.dynalink.beans.StaticClass;
-
-import java.util.HashSet;
+package com.platform.leetCode;
 
 public class MaximumProductSubArray {
 

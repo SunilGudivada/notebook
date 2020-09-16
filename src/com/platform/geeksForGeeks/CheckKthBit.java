@@ -1,4 +1,4 @@
-package com.company.geeksForGeeks;
+package com.platform.geeksForGeeks;
 
 /*
 * Given a number N and a bit number K, check if Kth bit of N is set or not.

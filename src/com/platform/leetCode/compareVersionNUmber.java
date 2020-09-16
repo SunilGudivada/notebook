@@ -1,4 +1,4 @@
-package com.company.leetCode;
+package com.platform.leetCode;
 
 public class compareVersionNUmber {
   public static int compareVersions(String version1, String version2){

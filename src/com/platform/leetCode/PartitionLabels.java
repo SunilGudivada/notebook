@@ -1,7 +1,6 @@
-package com.company.leetCode;
+package com.platform.leetCode;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Scanner;
 

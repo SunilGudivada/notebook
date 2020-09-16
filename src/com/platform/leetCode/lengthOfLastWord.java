@@ -1,6 +1,4 @@
-package com.company.leetCode;
-
-import java.util.Collections;
+package com.platform.leetCode;
 
 class Solution {
 

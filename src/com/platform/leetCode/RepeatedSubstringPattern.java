@@ -1,4 +1,4 @@
-package com.company.leetCode;
+package com.platform.leetCode;
 
 public class RepeatedSubstringPattern {
   public static boolean repeatedSubstringPattern(String s) {

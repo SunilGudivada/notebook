@@ -1,4 +1,4 @@
-package com.company.leetCode;
+package com.platform.leetCode;
 
 public class imageOverlap {
   protected int shiftAndCount(int xShift, int yShift, int[][] M, int[][] R) {

@@ -1,4 +1,4 @@
-package com.company.geeksForGeeks;
+package com.platform.geeksForGeeks;
 
 /**
  * Bit Difference You are given two numbers A and B. The task is to count the number of bits needed

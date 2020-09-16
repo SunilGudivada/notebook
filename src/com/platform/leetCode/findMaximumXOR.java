@@ -1,4 +1,4 @@
-package com.company.leetCode;
+package com.platform.leetCode;
 
 /**
  * Given a non-empty array of numbers, a0, a1, a2, … , an-1, where 0 ≤ ai < 2^31.

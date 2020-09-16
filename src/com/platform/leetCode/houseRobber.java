@@ -1,4 +1,4 @@
-package com.company.leetCode;
+package com.platform.leetCode;
 
 public class houseRobber {
   public static int get(int[] nums){

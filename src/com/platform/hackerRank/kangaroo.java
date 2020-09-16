@@ -1,6 +1,6 @@
 /** https://www.hackerrank.com/challenges/kangaroo/problem */
 
-package com.company.hackerRank;
+package com.platform.hackerRank;
 
 class kangaroo {
 

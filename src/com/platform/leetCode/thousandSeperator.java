@@ -2,7 +2,7 @@
  *
  * Using StringBuilder ( insert function to insert by provding the index to be added ( "." )
  * */
-package com.company.leetCode;
+package com.platform.leetCode;
 
 public class thousandSeperator {
   public static String dotSeperator(int n) {
