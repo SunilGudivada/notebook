@@ -1,4 +1,4 @@
-package com.platform.geeksForGeeks;
+package com.platform.geeksForGeeks.recursion;
 
 /**
  * Count Total Digits in a Number You are given a number n. You need to find the count of digits in

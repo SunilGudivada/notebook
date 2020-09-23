@@ -1,4 +1,4 @@
-package com.platform.geeksForGeeks;
+package com.platform.geeksForGeeks.recursion;
 
 /**
  * Digital Root You are given a number n. You need to find the digital root of n. DigitalRoot of a

@@ -1,4 +1,4 @@
-package com.platform.geeksForGeeks;
+package com.platform.geeksForGeeks.recursion;
 
 public class josephusRecursion {
   static int josephus(int n, int k) {

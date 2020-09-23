@@ -1,4 +1,4 @@
-package com.platform.geeksForGeeks;
+package com.platform.geeksForGeeks.recursion;
 
 /**
  * Power Using Recursion You are given two numbers n and p. You need to find np.

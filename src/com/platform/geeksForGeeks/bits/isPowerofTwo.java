@@ -1,4 +1,4 @@
-package com.platform.geeksForGeeks;
+package com.platform.geeksForGeeks.bits;
 
 /**
  * Power of 2 Given a positive integer N. The task is to check if N is a power of 2. More formally,

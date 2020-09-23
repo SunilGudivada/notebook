@@ -1,4 +1,4 @@
-package com.platform.geeksForGeeks;
+package com.platform.geeksForGeeks.bits;
 
 /**
  * Longest Consecutive 1's Given a number N. The task is to find the length of the longest

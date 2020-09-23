@@ -1,4 +1,4 @@
-package com.platform.geeksForGeeks;
+package com.platform.geeksForGeeks.recursion;
 
 /**
  * Tower Of Hanoi - The tower of Hanoi is a famous puzzle where we have three rods and N disks. The

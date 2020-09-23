@@ -1,4 +1,4 @@
-package com.platform.geeksForGeeks;
+package com.platform.geeksForGeeks.bits;
 
 /**
  * Number is sparse or not Given a number N. The task is to check whether it is sparse or not. A

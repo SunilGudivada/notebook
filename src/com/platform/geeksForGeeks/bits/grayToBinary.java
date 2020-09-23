@@ -1,4 +1,4 @@
-package com.platform.geeksForGeeks;
+package com.platform.geeksForGeeks.bits;
 
 /**
  * Gray to Binary equivalent Given N in Gray code equivalent. Find its binary equivalent. Note: We

@@ -1,4 +1,4 @@
-package com.platform.geeksForGeeks;
+package com.platform.geeksForGeeks.bits;
 
 /**
  * Swap all odd and even bits Given an unsigned integer N. The task is to swap all odd bits with

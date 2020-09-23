@@ -1,4 +1,4 @@
-package com.platform.geeksForGeeks;
+package com.platform.geeksForGeeks.bits;
 
 /**
  * Sum of Digits of a Number You are given a number n. You need to find the sum of digits of n.

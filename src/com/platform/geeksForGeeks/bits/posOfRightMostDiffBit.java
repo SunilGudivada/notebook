@@ -1,4 +1,4 @@
-package com.platform.geeksForGeeks;
+package com.platform.geeksForGeeks.bits;
 
 /*  function to find position of rightmost different bit
 *   m, n : Integers to find rightmost different bits

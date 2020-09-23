@@ -1,4 +1,4 @@
-package com.platform.geeksForGeeks;
+package com.platform.geeksForGeeks.bits;
 
 /**
  * Binary To Gray Code equivalent You are given a decimal number N. You need to find the gray code
