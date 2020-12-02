@@ -101,7 +101,7 @@ public class product_all_elements_except_that_element_562 {
         arr[i] = (int) (EPS + Math.pow(10.00, sum - Math.log10(arr[i])));
       }
     }
-//    print(arr);
+    print(arr);
   }
 
   public static void main(String[] args) {
