@@ -1,6 +1,8 @@
 package com.platform.practiseJava;
 
 import java.util.*;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 public class java8 {
@@ -78,28 +80,62 @@ public class java8 {
         .sorted((p1, p2) -> (p1.name).compareTo(p2.name))
         .forEach(s -> System.out.println(s.name));
 
-    System.out.println("\n .anyMatch() contains Sunil");
+    System.out.println("\n.anyMatch() contains Sunil");
     System.out.println(
         students.stream().distinct().anyMatch(student -> student.getName().contains("Sunil")));
 
-    System.out.println("\n .allMatch() contains Sunil");
+    System.out.println("\n.allMatch() contains Sunil");
     System.out.println(
         students.stream().distinct().allMatch(student -> student.getName().contains("Sunil")));
 
-    System.out.println("\n .dropWhile() age > 25");
+    System.out.println("\n.dropW4hile() age > 25");
     students.stream()
         .distinct()
         .sorted(Comparator.comparing(p -> (p.age)))
-        .dropWhile(student -> student.getAge() >23)
+        .dropWhile(student -> student.getAge() > 23)
         .forEach(student -> System.out.println(student.name));
 
-    System.out.println(" \n Generate Random Number using streams");
+    System.out.println(" \nGenerate Random Number using streams");
     Stream.generate(() -> new Random().nextInt(100))
         .limit(20)
         .sorted(Integer::compareTo)
         .forEach(num -> System.out.print(num + " "));
-  }
 
+    List<Integer> numbers =
+        Stream.generate(() -> new Random().nextInt(100)).limit(30).collect(Collectors.toList());
+
+    System.out.println("\n \n \nOperations on below numbers");
+    numbers.forEach(num -> System.out.print(num + " "));
+
+    // Number of Elements
+    System.out.println("\n \nNumber of elements: " + numbers.stream().count());
+
+    // Maximum Number
+    System.out.println("Maximum number: " + numbers.stream().mapToInt(n -> n).max().getAsInt());
+
+    // Minimum Number
+    System.out.println("Minimum number: " + numbers.stream().mapToInt(n -> n).min().getAsInt());
+
+    // Sum of all number
+    System.out.println("Sum of all numbers: " + numbers.stream().mapToInt(n -> n).sum());
+
+    // Average of all numbers
+    System.out.println(
+        "Average of all Numbers ( #.## ): "
+            + Math.round(numbers.stream().mapToInt(n -> n).average().getAsDouble() * 100d) / 100d);
+
+    // frequency of numbers
+    System.out.println("Frequency of numbers: ");
+    numbers.stream()
+        .collect(Collectors.groupingBy(s -> s, Collectors.counting()))
+        .forEach((k, v) -> System.out.print(k + " - " + v + " | "));
+
+    // find index of a number
+    System.out.println(
+        "\nIndex of a numbers ( 15 ) : "
+            + Arrays.toString(
+                IntStream.range(0, numbers.size()).filter(i -> numbers.get(i) == 15).toArray()));
+  }
 
   public static void main(String[] args) {
     //      parallelVsSequential();
