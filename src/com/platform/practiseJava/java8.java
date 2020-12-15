@@ -138,7 +138,7 @@ public class java8 {
   }
 
   public static void main(String[] args) {
-    //      parallelVsSequential();
-    workingWithStreams();
+          parallelVsSequential();
+//    workingWithStreams();
   }
 }

@@ -28,25 +28,55 @@ public class Functions {
 
   /**
    * Level Order Traversal
-   * @param root Node of the Tree
    *
+   * @param root Node of the Tree
    */
   public void levelOrder(Node root) {
     if (root == null) return;
     Queue<Node> q = new LinkedList<>();
     q.add(root);
-    while(!q.isEmpty()){
-      Node curr=q.poll();
-      System.out.print(curr.data+" ");
-      if(curr.left!=null)
-        q.add(curr.left);
-      if(curr.right!=null)
-        q.add(curr.right);
+    while (!q.isEmpty()) {
+      Node curr = q.poll();
+      System.out.print(curr.data + " ");
+      if (curr.left != null) q.add(curr.left);
+      if (curr.right != null) q.add(curr.right);
     }
   }
 
   public int height(Node root) {
     if (root == null) return 0;
     return Math.max(height(root.left), height(root.right)) + 1;
+  }
+
+  public void zigzag(Node root) {
+    if (root == null) return;
+    Stack<Node> q = new Stack<>();
+    Stack<Node> s = new Stack<>();
+
+    boolean isEven = true;
+
+    q.add(root);
+
+    while (!q.isEmpty() || !s.isEmpty()) {
+
+      if (isEven) {
+        Node curr = q.pop();
+        System.out.print(curr.data + " ");
+        if (curr.left != null) s.push(curr.left);
+        if (curr.right != null) s.push(curr.right);
+      } else {
+        Node curr = s.pop();
+        System.out.print(curr.data + " ");
+        if (curr.right != null) q.push(curr.right);
+        if (curr.left != null) q.push(curr.left);
+      }
+
+      if (q.isEmpty() && !s.isEmpty()) {
+        isEven = false;
+      }
+      if (s.isEmpty() && !q.isEmpty()) {
+        isEven = true;
+      }
+    }
   }
 }

@@ -41,5 +41,8 @@ public class Main {
     functions.levelOrder(root);
 
     System.out.println("\n\nHeight of the Binary Tree: "+ functions.height(root));
+
+    System.out.println("\n Zig Zag Traversal of a Binary Tree: ");
+    functions.zigzag(root);
   }
 }
