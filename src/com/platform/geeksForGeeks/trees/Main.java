@@ -7,7 +7,7 @@ public class Main {
      *                 10
      *              20    30
      *           40   50    60
-     *                       70
+     *                  70    80
      */
     Node root = new Node(10);
     Node node1 = new Node(20);
@@ -16,6 +16,7 @@ public class Main {
     Node node4 = new Node(50);
     Node node5 = new Node(60);
     Node node6 = new Node(70);
+    Node node7 = new Node(80);
 
     root.left = node1;
     root.right = node2;
@@ -24,7 +25,8 @@ public class Main {
     node1.right = node4;
 
     node2.right = node5;
-    node5.right = node6;
+    node4.right = node6;
+    node5.right = node7;
 
     Functions functions = new Functions();
 
