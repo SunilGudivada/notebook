@@ -4,7 +4,8 @@ import java.util.Arrays;
 import java.util.function.BiFunction;
 
 /**
- * range search time complexity : O(log n) tree construction time complexity is O(n) Space
+ * range search time complexity : O(log n)
+ * tree construction time complexity is O(n) Space
  * complexity : O(n)
  */
 public class SegmentTree {
@@ -84,6 +85,9 @@ public class SegmentTree {
 
   @Override
   public String toString() {
-    return "Given Tree: "+Arrays.toString(originalArray)+"\nSegment Tree: " + Arrays.toString(treeArray);
+    return "Given Tree: "
+        + Arrays.toString(originalArray)
+        + "\nSegment Tree: "
+        + Arrays.toString(treeArray);
   }
 }
