@@ -194,5 +194,15 @@ public class Main {
     System.out.println("\nAfter:::In order Traversal");
     functions.inOrder(MIRROR_ROOT_NODE);
 
+
+    System.out.print("\n\n Is Valid BST");
+    Node VALID_BST_NODE = new Node(10);
+    VALID_BST_NODE.left = new Node(10);
+//    VALID_BST_NODE.right = new Node(25);
+//
+//    VALID_BST_NODE.left.left = new Node(2);
+//    VALID_BST_NODE.left.right = new Node(22);
+
+    System.out.print(Functions.isBST(VALID_BST_NODE));
   }
 }

@@ -95,15 +95,18 @@ public class Functions {
     return GCD(a, b - a);
   }
 
-  public static boolean isValidBST(Node root){
-
-
-    return true;
+  public static boolean isBST(Node root) {
+    return isValidBST(root, null, null);
   }
 
-  public static Node mirrorImage(Node node){
-    if (node == null)
-      return null;
+  public static boolean isValidBST(Node root, Integer min, Integer max) {
+    if (root == null) return true;
+    if ((min != null && root.data <= min) || (max != null && root.data >= max)) return false;
+    return isValidBST(root.left, min, root.data) && isValidBST(root.right, root.data, max);
+  }
+
+  public static Node mirrorImage(Node node) {
+    if (node == null) return null;
 
     Node left = mirrorImage(node.left);
     Node right = mirrorImage(node.right);
@@ -112,6 +115,4 @@ public class Functions {
     node.right = left;
     return node;
   }
-
 }
-
