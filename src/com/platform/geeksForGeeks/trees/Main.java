@@ -124,9 +124,6 @@ public class Main {
     System.out.println("\n\nPost Order Traversal of a AVL Tree : ");
     functions.postOrder(AVL_ROOT_NODE[0]);
 
-    System.out.println("\n\n Deleting a root Node ( 50 ) in AVL Tree ");
-//    AVL_OBJ.delete(AVL_ROOT_NODE[0], 50);
-
     System.out.println("\n\nLevel Order Traversal of a AVL Tree : ");
     functions.levelOrder(AVL_ROOT_NODE[0]);
 
@@ -184,6 +181,18 @@ public class Main {
     System.out.println("Output in range 1, 6 is " + GCD_SEGMENT_TREE.findOutputIn(1, 6));
     System.out.println("Output in range 5, 6 is " + GCD_SEGMENT_TREE.findOutputIn(5, 6));
     System.out.println("Output in range 1, 4 is " + GCD_SEGMENT_TREE.findOutputIn(1, 4));
+
+
+    System.out.println("Mirror Image of a Tree");
+    Node MIRROR_ROOT_NODE = new Node(10);
+    MIRROR_ROOT_NODE.left = new Node(20);
+    MIRROR_ROOT_NODE.right = new Node(30);
+    MIRROR_ROOT_NODE.right.right = new Node(40);
+    System.out.println("\nBefore:::In order Traversal");
+    functions.inOrder(MIRROR_ROOT_NODE);
+    Functions.mirrorImage(MIRROR_ROOT_NODE);
+    System.out.println("\nAfter:::In order Traversal");
+    functions.inOrder(MIRROR_ROOT_NODE);
 
   }
 }
