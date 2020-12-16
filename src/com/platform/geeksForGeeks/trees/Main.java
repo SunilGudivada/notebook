@@ -1,5 +1,9 @@
 package com.platform.geeksForGeeks.trees;
 
+import java.util.Random;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
 public class Main {
   public static void main(String[] args) {
 
@@ -85,6 +89,101 @@ public class Main {
     System.out.println("\n\nLevel Order Traversal of a Binary Search Tree : ");
     functions.levelOrder(BST_ROOT_NODE);
 
+
+    System.out.println("\n\n\n******************************");
+    System.out.println("AVL Tree");
+    System.out.println("******************************");
+
+
+    AVLTree AVL_OBJ = new AVLTree();
+
+    Node[] AVL_ROOT_NODE = {null};
+
+    Stream.generate(() -> new Random().nextInt(100)).limit(30).distinct().collect(Collectors.toList()).forEach(s -> AVL_ROOT_NODE[0] = AVL_OBJ.insert(AVL_ROOT_NODE[0], s));
+
+//    AVL_ROOT_NODE = AVL_OBJ.insert(AVL_ROOT_NODE, 20);
+//    AVL_ROOT_NODE = AVL_OBJ.insert(AVL_ROOT_NODE, 30);
+//    AVL_ROOT_NODE = AVL_OBJ.insert(AVL_ROOT_NODE, 40);
+//    AVL_ROOT_NODE = AVL_OBJ.insert(AVL_ROOT_NODE, 50);
+//    AVL_ROOT_NODE = AVL_OBJ.insert(AVL_ROOT_NODE, 60);
+//    AVL_ROOT_NODE = AVL_OBJ.insert(AVL_ROOT_NODE, 70);
+//    AVL_ROOT_NODE = AVL_OBJ.insert(AVL_ROOT_NODE, 80);
+//    AVL_ROOT_NODE = AVL_OBJ.insert(AVL_ROOT_NODE, 90);
+
+//        functions.inOrder(AVL_ROOT_NODE[0]);
+
+
+    System.out.println("\nHeight of a AVL Tree : "+ functions.height(AVL_ROOT_NODE[0]));
+
+    System.out.println("\nIn Order Traversal of a AVL Tree : ");
+    functions.inOrder(AVL_ROOT_NODE[0]);
+
+    System.out.println("\n\nPre Order Traversal of a AVL Tree : ");
+    functions.preOrder(AVL_ROOT_NODE[0]);
+
+    System.out.println("\n\nPost Order Traversal of a AVL Tree : ");
+    functions.postOrder(AVL_ROOT_NODE[0]);
+
+    System.out.println("\n\n Deleting a root Node ( 50 ) in AVL Tree ");
+//    AVL_OBJ.delete(AVL_ROOT_NODE[0], 50);
+
+    System.out.println("\n\nLevel Order Traversal of a AVL Tree : ");
+    functions.levelOrder(AVL_ROOT_NODE[0]);
+
+
+    System.out.println("\n\n\n******************************");
+    System.out.println("Segment Tree");
+    System.out.println("******************************");
+
+
+    int[] array = new int[] {1, 2, 3, 4, 5, 6};
+
+    System.out.println("MINIMUM SEGMENT TREE");
+    SegmentTree MIN_SEGMENT_TREE = new SegmentTree(array, Integer::min, 0);
+    MIN_SEGMENT_TREE.build();
+    System.out.println(MIN_SEGMENT_TREE);
+
+    System.out.println("Output in range 1, 3 is " + MIN_SEGMENT_TREE.findOutputIn(1, 3));
+    System.out.println("Output in range 2, 5 is " + MIN_SEGMENT_TREE.findOutputIn(2, 5));
+    System.out.println("Output in range 1, 6 is " + MIN_SEGMENT_TREE.findOutputIn(1, 6));
+    System.out.println("Output in range 5, 6 is " + MIN_SEGMENT_TREE.findOutputIn(5, 6));
+    System.out.println("Output in range 1, 4 is " + MIN_SEGMENT_TREE.findOutputIn(1, 4));
+    System.out.println();
+
+    System.out.println("MAXIMUM SEGMENT TREE");
+    SegmentTree MAX_SEGMENT_TREE = new SegmentTree(array, Integer::max, 0);
+    MAX_SEGMENT_TREE.build();
+    System.out.println(MAX_SEGMENT_TREE);
+
+    System.out.println("Output in range 1, 3 is " + MAX_SEGMENT_TREE.findOutputIn(1, 3));
+    System.out.println("Output in range 2, 5 is " + MAX_SEGMENT_TREE.findOutputIn(2, 5));
+    System.out.println("Output in range 1, 6 is " + MAX_SEGMENT_TREE.findOutputIn(1, 6));
+    System.out.println("Output in range 5, 6 is " + MAX_SEGMENT_TREE.findOutputIn(5, 6));
+    System.out.println("Output in range 1, 4 is " + MAX_SEGMENT_TREE.findOutputIn(1, 4));
+    System.out.println();
+
+    System.out.println("SUM SEGMENT TREE");
+    SegmentTree SUM_SEGMENT_TREE = new SegmentTree(array, Integer::sum, 0);
+    SUM_SEGMENT_TREE.build();
+    System.out.println(SUM_SEGMENT_TREE);
+
+    System.out.println("Output in range 1, 3 is " + SUM_SEGMENT_TREE.findOutputIn(1, 3));
+    System.out.println("Output in range 2, 5 is " + SUM_SEGMENT_TREE.findOutputIn(2, 5));
+    System.out.println("Output in range 1, 6 is " + SUM_SEGMENT_TREE.findOutputIn(1, 6));
+    System.out.println("Output in range 5, 6 is " + SUM_SEGMENT_TREE.findOutputIn(5, 6));
+    System.out.println("Output in range 1, 4 is " + SUM_SEGMENT_TREE.findOutputIn(1, 4));
+    System.out.println();
+
+    System.out.println("GCD SEGMENT TREE");
+    SegmentTree GCD_SEGMENT_TREE = new SegmentTree(array, Functions::GCD, 0);
+    GCD_SEGMENT_TREE.build();
+    System.out.println(GCD_SEGMENT_TREE);
+
+    System.out.println("Output in range 1, 3 is " + GCD_SEGMENT_TREE.findOutputIn(1, 3));
+    System.out.println("Output in range 2, 5 is " + GCD_SEGMENT_TREE.findOutputIn(2, 5));
+    System.out.println("Output in range 1, 6 is " + GCD_SEGMENT_TREE.findOutputIn(1, 6));
+    System.out.println("Output in range 5, 6 is " + GCD_SEGMENT_TREE.findOutputIn(5, 6));
+    System.out.println("Output in range 1, 4 is " + GCD_SEGMENT_TREE.findOutputIn(1, 4));
 
   }
 }

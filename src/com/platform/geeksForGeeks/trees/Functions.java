@@ -48,6 +48,11 @@ public class Functions {
     return Math.max(height(root.left), height(root.right)) + 1;
   }
 
+  public static int getBalanceFactor(Node node){
+    Functions functions = new Functions();
+    return functions.height(node.left) - functions.height(node.right);
+  }
+
   public void zigzag(Node root) {
     if (root == null) return;
     Stack<Node> q = new Stack<>();
@@ -78,5 +83,20 @@ public class Functions {
         isEven = true;
       }
     }
+  }
+
+  static int GCD(int a, int b)
+  {
+    if (a == 0)
+      return b;
+    if (b == 0)
+      return a;
+
+    if (a == b)
+      return a;
+
+    if (a > b)
+      return GCD(a-b, b);
+    return GCD(a, b-a);
   }
 }
