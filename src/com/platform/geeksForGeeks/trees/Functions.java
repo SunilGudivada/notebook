@@ -43,7 +43,7 @@ public class Functions {
     }
   }
 
-  public int height(Node root) {
+  public static int height(Node root) {
     if (root == null) return 0;
     return Math.max(height(root.left), height(root.right)) + 1;
   }
@@ -114,5 +114,15 @@ public class Functions {
     node.left = right;
     node.right = left;
     return node;
+  }
+
+  public static boolean isTreeBalanced(Node node) {
+    if (node == null) return true;
+    int lheight = height(node.left);
+    int rheight = height(node.right);
+    if(Math.abs(lheight-rheight) < 1 && isTreeBalanced(node.left) && isTreeBalanced(node.right)){
+      return true;
+    }
+    return false;
   }
 }
