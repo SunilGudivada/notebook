@@ -1,13 +1,19 @@
 package com.platform.leetCode.problems;
 
 import java.util.Arrays;
-import java.util.stream.Collectors;
 
 public class _26_removeDuplicates {
   public int removeDuplicates(int[] nums) {
-    nums = Arrays.stream(nums).distinct().toArray();
-    System.out.println(Arrays.toString(nums));
-    return nums.length;
+    int i = 0, j = 0;
+    while (j < nums.length) {
+      if (nums[i] == nums[j]) {
+        j++;
+      } else {
+        nums[++i] = nums[j++];
+      }
+    }
+    System.gc();
+    return ++i;
   }
   public static void main(String[] args) {
     _26_removeDuplicates obj = new _26_removeDuplicates();
