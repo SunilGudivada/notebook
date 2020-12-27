@@ -12,7 +12,6 @@ public class _26_removeDuplicates {
         nums[++i] = nums[j++];
       }
     }
-    System.gc();
     return ++i;
   }
   public static void main(String[] args) {

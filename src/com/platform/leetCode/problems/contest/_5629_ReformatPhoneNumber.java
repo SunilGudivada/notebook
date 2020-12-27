@@ -1,4 +1,4 @@
-package com.platform.leetCode.problems;
+package com.platform.leetCode.problems.contest;
 
 public class _5629_ReformatPhoneNumber {
   public String reformatNumber(String number) {
