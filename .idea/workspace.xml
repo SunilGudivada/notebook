@@ -19,14 +19,16 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6513715-6a07-4f33-9fd7-6dd17bc956de" name="Default Changelist" comment="Added readme changes" />
     <list id="96e69991-b7d6-4dd9-aab1-6d90dc9636c0" name="Revert &quot;Added readme changes&quot;" comment="Revert &quot;Added readme changes&quot;&#10;&#10;This reverts commit 68f8f286" />
+    <list id="16990c01-2f2f-4e9a-a87f-318bcc82840c" name="Revert &quot;Added readme changes&quot;-2" comment="Revert &quot;Added readme changes&quot;&#10;&#10;This reverts commit 035bc6fb" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,13 +174,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599139399357</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Added leet code problems">
-      <created>1600272750294</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1600272750294</updated>
     </task>
     <task id="LOCAL-00010" summary="Added leet code problems">
       <created>1600275609071</created>
@@ -516,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609312104181</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Added readme changes">
+      <created>1609315766737</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1609315766737</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -564,12 +566,12 @@
     <MESSAGE value="Added reach a number problem - leetcode" />
     <MESSAGE value="Added Dynamic Programming problems - geeks for geeks" />
     <MESSAGE value="Revert &quot;Added readme changes&quot;&#10;&#10;This reverts commit 035bc6fb" />
-    <MESSAGE value="Added readme changes" />
     <MESSAGE value="Revert &quot;Added readme changes&quot;&#10;&#10;This reverts commit 68f8f286" />
     <MESSAGE value="Revert &quot;Added readme changes&quot;&#10;&#10;This reverts commit 71ca8dca" />
     <MESSAGE value="Revert &quot;Revert &quot;Added readme changes&quot;&quot;&#10;&#10;This reverts commit f398ccea" />
     <MESSAGE value="Revert &quot;Added readme changes&quot;&#10;&#10;This reverts commit 2bf492bd" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Added readme changes&quot;&#10;&#10;This reverts commit 2bf492bd" />
+    <MESSAGE value="Added readme changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added readme changes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="460" y="281" key="#Notifications" timestamp="1609311244123">
