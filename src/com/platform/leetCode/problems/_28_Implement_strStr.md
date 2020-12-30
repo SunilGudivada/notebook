@@ -44,4 +44,4 @@ Constraints:
 
 
 > #### Recommended: Please solve it in your code editor first, before moving on to the solution.
-  [![Website shields.io](https://img.shields.io/badge/28-solution-green.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/src/com/platform/leetCode/problems/_28_Implement_strStr.java)
+  [![Website shields.io](https://img.shields.io/badge/28-solution-green.svg)](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_28_Implement_strStr.java)
