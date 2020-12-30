@@ -10,14 +10,6 @@ filename: index
 This project contains the list of coding problems, and their solutions that are from different websites like Hacker Rank, Leet Code ( Contests and Problems ), Spoj, Geeks for Geeks
 
 
-  
-### Leet Code
-
-**Dynamic Programming**
-
-|# | Problem | Link |
-|--|--|--|
-| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) |[Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/dp/_62_uniquePaths.java) |
 
 
  [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/sunilGudivada/Data-Structures-and-Algorithms) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/compare) [![GitHub issues](https://img.shields.io/github/issues/SunilGudivada/Data-Structures-and-Algorithms.svg)](https://GitHub.com/SunilGudivada/Data-Structures-and-Algorithms/issues/)
