@@ -1,4 +1,4 @@
-# Data structures and Algorithms  [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/sunilGudivada/badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/compare)
+# Data structures and Algorithms  [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/sunilGudivada/Data-Structures-and-Algorithms) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/compare)
 
   
 This project contains the list of coding problems, and their solutions that are from different websites like Hacker Rank, Leet Code ( Contests and Problems ), Spoj, Geeks for Geeks
