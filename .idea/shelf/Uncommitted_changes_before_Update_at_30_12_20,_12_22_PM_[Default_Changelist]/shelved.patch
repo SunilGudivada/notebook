@@ -1,0 +1,17 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Coding Practise Problems\n\nThis project contains the list of coding problems, and \ntheir solutions that are from different websites \nlike Hacker Rank, Leet Code, Spoj, Geeks for Geeks
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- README.md	(revision e1459274fc319ef772af610541d9f2f4af2d49b4)
++++ README.md	(date 1609311078148)
+@@ -2,4 +2,4 @@
+ 
+ This project contains the list of coding problems, and 
+ their solutions that are from different websites 
+-like Hacker Rank, Leet Code, Spoj, Geeks for Geeks
+\ No newline at end of file
++like Hacker Rank, Leet Code ( Contests and Problems ), Spoj, Geeks for Geeks
+\ No newline at end of file

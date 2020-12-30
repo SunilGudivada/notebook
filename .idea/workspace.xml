@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6513715-6a07-4f33-9fd7-6dd17bc956de" name="Default Changelist" comment="Added readme changes" />
+    <list id="96e69991-b7d6-4dd9-aab1-6d90dc9636c0" name="Revert &quot;Added readme changes&quot;" comment="Revert &quot;Added readme changes&quot;&#10;&#10;This reverts commit 68f8f286" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="90359ab1-be3b-4da7-81a8-15046e83f4be" />
+  </component>
+  <component name="ProjectId" id="1h0E1ovaMaI4aRnWYXIbTh86gad" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/platform/leetCode/problems" />
+      <recent name="$PROJECT_DIR$/src/com/platform/leetCode/docs" />
+      <recent name="$PROJECT_DIR$/src/com/platform/leetCode" />
+      <recent name="$PROJECT_DIR$/src/com/platform/dailyCodingProblem/utility" />
+      <recent name="$PROJECT_DIR$/src/com/company/leetCode" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.platform.practiseJava" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ReachaGIvenScore">
+    <configuration name="CoinChange_MinimumNumberofCoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.platform.geeksForGeeks.dynamicProgramming.CoinChange_MinimumNumberofCoins" />
+      <module name="Coding-Practise-Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platform.geeksForGeeks.dynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoinChange_NumberofWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.platform.geeksForGeeks.dynamicProgramming.CoinChange_NumberofWays" />
+      <module name="Coding-Practise-Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platform.geeksForGeeks.dynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountWaystoReachNthStair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.platform.geeksForGeeks.dynamicProgramming.CountWaystoReachNthStair" />
+      <module name="Coding-Practise-Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platform.geeksForGeeks.dynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReachaGIvenScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.platform.geeksForGeeks.dynamicProgramming.ReachaGIvenScore" />
+      <module name="Coding-Practise-Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platform.geeksForGeeks.dynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="waystoWriteNasSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.platform.geeksForGeeks.dynamicProgramming.waystoWriteNasSum" />
+      <module name="Coding-Practise-Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platform.geeksForGeeks.dynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CoinChange_MinimumNumberofCoins" />
+      <item itemvalue="Application.CoinChange_NumberofWays" />
+      <item itemvalue="Application.waystoWriteNasSum" />
+      <item itemvalue="Application.CountWaystoReachNthStair" />
+      <item itemvalue="Application.ReachaGIvenScore" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReachaGIvenScore" />
+        <item itemvalue="Application.CountWaystoReachNthStair" />
+        <item itemvalue="Application.waystoWriteNasSum" />
+        <item itemvalue="Application.CoinChange_NumberofWays" />
+        <item itemvalue="Application.CoinChange_MinimumNumberofCoins" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6513715-6a07-4f33-9fd7-6dd17bc956de" name="Default Changelist" comment="" />
+      <created>1599139399357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599139399357</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added leet code problems">
+      <created>1600272750294</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600272750294</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added leet code problems">
+      <created>1600275609071</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600275609071</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added daily challenge code">
+      <created>1600283666988</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600283666988</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added code refractoring">
+      <created>1600283847104</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1600283847104</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added single line solution to length of longest word">
+      <created>1600284128472</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600284128472</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added geeks for geeks problems - Bits slip">
+      <created>1600286579341</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1600286579341</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added geeks for geeks problems - isSparse">
+      <created>1600288051617</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1600288051617</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added geeks for geeks problems - Longest Consecutive 1's">
+      <created>1600288673845</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1600288673845</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added package changes">
+      <created>1600288764865</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1600288764865</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added geeks for geeks problems">
+      <created>1600363473972</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1600363473972</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Added geeks for geeks problems">
+      <created>1600611310243</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1600611310243</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added changes to geeks for geeks folder structure">
+      <created>1600870858091</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1600870858091</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Added geek for geeks array problems">
+      <created>1600885578280</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1600885578280</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Added daily coding problems">
+      <created>1601924814345</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1601924814345</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Added practise java questions">
+      <created>1606907787625</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1606907787625</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Added java 8 features">
+      <created>1607949746024</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1607949746024</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Added Zig Zag traversal Code">
+      <created>1608006072748</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1608006072748</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Added Zig Zag traversal Code">
+      <created>1608006263882</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1608006263882</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Added deletion to BST">
+      <created>1608054075919</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1608054075920</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Added AVL Tree insertion and Segment Tree finding minimum element in the query range.">
+      <created>1608130140886</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1608130140886</updated>
+    </task>
+    <task id="LOCAL-00029" summary="code refractoring">
+      <created>1608130936477</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1608130936477</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Mirror Image in Binary Tree">
+      <created>1608140693793</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1608140693793</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Added Is Valid BST">
+      <created>1608144108461</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1608144108461</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Added Leet code premium - topic wise list, company wise, level wise questions.">
+      <created>1608187781767</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1608187781767</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Added Two Sum - Leet Code">
+      <created>1608194521222</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1608194521222</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Added Dynamic Programming problems - Leet Code">
+      <created>1608394489220</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1608394489220</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Added Dynamic Programming problems - Leet Code">
+      <created>1608532492013</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1608532492013</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Added Flipkart Contest question from GEEKFORGEEKS">
+      <created>1608604946115</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1608604946115</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Added Dp Problems - Leet Code">
+      <created>1608609763061</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1608609763061</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Added Is Tree Balanced Code">
+      <created>1608704732637</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1608704732637</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Added Russian Doll Envelope - Leet Code">
+      <created>1608829425661</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1608829425662</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Added DP Problems - Leet Code">
+      <created>1608985042805</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1608985042805</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Added remove duplicates">
+      <created>1608985383902</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1608985383902</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Added contest Problems - leetcode">
+      <created>1609038078083</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1609038078083</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Added DP Problems - leetcode">
+      <created>1609064079234</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1609064079234</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Added DP Problems - leetcode">
+      <created>1609138879075</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1609138879075</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Added DP Problems - leetcode">
+      <created>1609158569481</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1609158569481</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Added reach a number problem - leetcode">
+      <created>1609167785799</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1609167785799</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Added Dynamic Programming problems - geeks for geeks">
+      <created>1609249033673</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1609249033673</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Added Dynamic Programming problems - geeks for geeks">
+      <created>1609254486323</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1609254486323</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Added readme changes">
+      <created>1609308334048</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1609308334048</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Added readme changes">
+      <created>1609308544426</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1609308544426</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Revert &quot;Added readme changes&quot;&#10;&#10;This reverts commit 035bc6fb">
+      <created>1609309058753</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1609309058754</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Added readme changes">
+      <created>1609309166311</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1609309166311</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Added readme changes">
+      <created>1609309995547</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1609309995547</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Revert &quot;Added readme changes&quot;&#10;&#10;This reverts commit 68f8f286">
+      <created>1609311540575</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1609311540575</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Revert &quot;Added readme changes&quot;&#10;&#10;This reverts commit 71ca8dca">
+      <created>1609311565986</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1609311565986</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Revert &quot;Revert &quot;Added readme changes&quot;&quot;&#10;&#10;This reverts commit f398ccea">
+      <created>1609312096990</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1609312096990</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Revert &quot;Added readme changes&quot;&#10;&#10;This reverts commit 2bf492bd">
+      <created>1609312104181</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1609312104181</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Zig Zag traversal Code" />
+    <MESSAGE value="Added deletion to BST" />
+    <MESSAGE value="Added AVL Tree insertion and Segment Tree finding minimum element in the query range." />
+    <MESSAGE value="code refractoring" />
+    <MESSAGE value="Mirror Image in Binary Tree" />
+    <MESSAGE value="Added Is Valid BST" />
+    <MESSAGE value="Added Leet code premium - topic wise list, company wise, level wise questions." />
+    <MESSAGE value="Added Two Sum - Leet Code" />
+    <MESSAGE value="Added Dynamic Programming problems - Leet Code" />
+    <MESSAGE value="Added Flipkart Contest question from GEEKFORGEEKS" />
+    <MESSAGE value="Added Dp Problems - Leet Code" />
+    <MESSAGE value="Added Is Tree Balanced Code" />
+    <MESSAGE value="Added Russian Doll Envelope - Leet Code" />
+    <MESSAGE value="Added DP Problems - Leet Code" />
+    <MESSAGE value="Added remove duplicates" />
+    <MESSAGE value="Added contest Problems - leetcode" />
+    <MESSAGE value="Added DP Problems - leetcode" />
+    <MESSAGE value="Added reach a number problem - leetcode" />
+    <MESSAGE value="Added Dynamic Programming problems - geeks for geeks" />
+    <MESSAGE value="Revert &quot;Added readme changes&quot;&#10;&#10;This reverts commit 035bc6fb" />
+    <MESSAGE value="Added readme changes" />
+    <MESSAGE value="Revert &quot;Added readme changes&quot;&#10;&#10;This reverts commit 68f8f286" />
+    <MESSAGE value="Revert &quot;Added readme changes&quot;&#10;&#10;This reverts commit 71ca8dca" />
+    <MESSAGE value="Revert &quot;Revert &quot;Added readme changes&quot;&quot;&#10;&#10;This reverts commit f398ccea" />
+    <MESSAGE value="Revert &quot;Added readme changes&quot;&#10;&#10;This reverts commit 2bf492bd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Added readme changes&quot;&#10;&#10;This reverts commit 2bf492bd" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="281" key="#Notifications" timestamp="1609311244123">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="460" y="281" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1609311244123" />
+    <state x="208" y="31" key="#Project_Structure" timestamp="1608035147215">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1608035147215" />
+    <state x="184" y="112" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606368442323">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1606368442323" />
+    <state x="425" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606370047388">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="425" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1606370047388" />
+    <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1607613879319">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1607613879319" />
+    <state x="469" y="351" width="509" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1600870682971">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="469" y="351" width="509" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1600870682971" />
+    <state x="433" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606730442499">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="433" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1606730442499" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601991823649">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1601991823649" />
+    <state x="256" y="25" key="CommitChangelistDialog2" timestamp="1609312104014">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="256" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1609312104014" />
+    <state width="471" height="466" key="DebuggerActiveHint" timestamp="1608998376327">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="471" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1608998376327" />
+    <state x="568" y="380" width="456" height="272" key="Github.Dialog.Accounts.Choose" timestamp="1609264180522">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="568" y="380" width="456" height="272" key="Github.Dialog.Accounts.Choose/0.0.1440.900@0.0.1440.900" timestamp="1609264180522" />
+    <state width="1398" height="267" key="GridCell.Tab.0.bottom" timestamp="1609264550932">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609264550932" />
+    <state width="1398" height="273" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1608437886812" />
+    <state width="1398" height="267" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1600967712440" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1602278210714" />
+    <state width="1398" height="278" key="GridCell.Tab.0.bottom/0.25.1440.790@0.25.1440.790" timestamp="1609224248145" />
+    <state width="1398" height="267" key="GridCell.Tab.0.center" timestamp="1609264550931">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1609264550931" />
+    <state width="1398" height="273" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1608437886811" />
+    <state width="1398" height="267" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1600967712440" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1602278210713" />
+    <state width="1398" height="278" key="GridCell.Tab.0.center/0.25.1440.790@0.25.1440.790" timestamp="1609224248144" />
+    <state width="1398" height="267" key="GridCell.Tab.0.left" timestamp="1609264550930">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1609264550930" />
+    <state width="1398" height="273" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1608437886811" />
+    <state width="1398" height="267" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1600967712439" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1602278210712" />
+    <state width="1398" height="278" key="GridCell.Tab.0.left/0.25.1440.790@0.25.1440.790" timestamp="1609224248144" />
+    <state width="1398" height="267" key="GridCell.Tab.0.right" timestamp="1609264550932">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609264550932" />
+    <state width="1398" height="273" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1608437886811" />
+    <state width="1398" height="267" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1600967712440" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1602278210713" />
+    <state width="1398" height="278" key="GridCell.Tab.0.right/0.25.1440.790@0.25.1440.790" timestamp="1609224248145" />
+    <state width="1398" height="273" key="GridCell.Tab.1.bottom" timestamp="1609238770991">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="273" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609238770991" />
+    <state width="1398" height="273" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1608437886813" />
+    <state width="1398" height="267" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1600967712442" />
+    <state width="1398" height="273" key="GridCell.Tab.1.center" timestamp="1609238770991">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="273" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1609238770991" />
+    <state width="1398" height="273" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1608437886812" />
+    <state width="1398" height="267" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1600967712441" />
+    <state width="1398" height="273" key="GridCell.Tab.1.left" timestamp="1609238770990">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="273" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1609238770990" />
+    <state width="1398" height="273" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1608437886812" />
+    <state width="1398" height="267" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1600967712441" />
+    <state width="1398" height="273" key="GridCell.Tab.1.right" timestamp="1609238770991">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="273" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1609238770991" />
+    <state width="1398" height="273" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1608437886812" />
+    <state width="1398" height="267" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1600967712441" />
+    <state x="144" y="90" key="MergeDialog" timestamp="1609309048612">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="90" key="MergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1609309048612" />
+    <state x="358" y="229" key="MultipleFileMergeDialog" timestamp="1609311275327">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="358" y="229" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1609311275327" />
+    <state x="342" y="153" key="NewModule_or_Project.wizard" timestamp="1609238003728">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="342" y="153" key="NewModule_or_Project.wizard/0.0.1440.900@0.0.1440.900" timestamp="1609238003728" />
+    <state x="0" y="0" width="1440" height="900" key="SettingsEditor" timestamp="1608035212650">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" width="1440" height="900" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1608035212650" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1609312284567">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1609312284567" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1607687570315">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1607687570315" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
