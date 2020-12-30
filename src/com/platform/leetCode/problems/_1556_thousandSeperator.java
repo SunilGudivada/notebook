@@ -4,7 +4,24 @@
  * */
 package com.platform.leetCode.problems;
 
-public class thousandSeperator {
+/**
+ * Given an integer n, add a dot (".") as the thousands separator and return it in string format.
+ *
+ * <p>Example 1:
+ *
+ * <p>Input: n = 987 Output: "987" Example 2:
+ *
+ * <p>Input: n = 1234 Output: "1.234" Example 3:
+ *
+ * <p>Input: n = 123456789 Output: "123.456.789" Example 4:
+ *
+ * <p>Input: n = 0 Output: "0"
+ *
+ * <p>Constraints:
+ *
+ * <p>0 <= n < 2^31
+ */
+public class _1556_thousandSeperator {
   public static String dotSeperator(int n) {
     StringBuilder sb = new StringBuilder().append(n);
     if (sb.length() < 4) return sb.toString();

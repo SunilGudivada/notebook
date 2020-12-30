@@ -17,7 +17,6 @@ public class prioritizedOrders {
 
   static List<String> prioritizedOrders(int numOrders, List<String> orderList)
   {
-    // WRITE YOUR CODE HERE
     if(numOrders >=0 && numOrders <=1000){
       List<String> originalOrders = new ArrayList();
       List<String> nonPrimeOrders = new ArrayList<>();
