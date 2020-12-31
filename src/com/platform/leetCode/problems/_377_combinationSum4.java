@@ -1,4 +1,4 @@
-package com.platform.leetCode.problems.dp;
+package com.platform.leetCode.problems;
 
 /**
  * Given an integer array with all positive numbers and no duplicates, find the number of possible

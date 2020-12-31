@@ -37,7 +37,7 @@ class TreeNode {
  *
  * <p>Each tree has at most 5000 nodes. Each node's value is between [-10^5, 10^5].
  */
-public class allElementsInTwoBinarySearchTrees {
+public class _1305_allElementsInTwoBinarySearchTrees {
 
   public static List<Integer> getAllElements(TreeNode root1, TreeNode root2) {
 

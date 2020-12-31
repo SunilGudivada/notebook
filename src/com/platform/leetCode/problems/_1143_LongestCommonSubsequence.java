@@ -1,4 +1,4 @@
-package com.platform.leetCode.problems.dp;
+package com.platform.leetCode.problems;
 
 /**
  * Given two strings text1 and text2, return the length of their longest common subsequence.

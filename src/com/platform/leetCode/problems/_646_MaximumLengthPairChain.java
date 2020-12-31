@@ -1,4 +1,4 @@
-package com.platform.leetCode.problems.dp;
+package com.platform.leetCode.problems;
 
 import java.util.Arrays;
 import java.util.Comparator;

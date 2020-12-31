@@ -1,4 +1,4 @@
-package com.platform.leetCode.problems.dp;
+package com.platform.leetCode.problems;
 
 /**
  * Given a string s, find the longest palindromic subsequence's length in s. You may assume that the

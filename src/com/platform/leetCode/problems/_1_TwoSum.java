@@ -34,7 +34,7 @@ import java.util.HashMap;
  * <p>2 <= nums.length <= 103 -109 <= nums[i] <= 109 -109 <= target <= 109 Only one valid answer
  * exists.
  */
-public class _001_TwoSum {
+public class _1_TwoSum {
   public static int[] twoSum(int[] nums, int target) {
     HashMap<Integer, Integer> map = new HashMap<>();
     for (int i = 0; i < nums.length; i++) {

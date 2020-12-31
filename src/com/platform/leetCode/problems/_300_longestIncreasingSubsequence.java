@@ -1,4 +1,4 @@
-package com.platform.leetCode.problems.dp;
+package com.platform.leetCode.problems;
 
 /**
  * Given an integer array nums, return the length of the longest strictly increasing subsequence.

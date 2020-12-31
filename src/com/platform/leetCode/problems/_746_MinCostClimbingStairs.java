@@ -1,4 +1,4 @@
-package com.platform.leetCode.problems.dp;
+package com.platform.leetCode.problems;
 
 /**
  * On a staircase, the i-th step has some non-negative cost cost[i] assigned (0 indexed).
