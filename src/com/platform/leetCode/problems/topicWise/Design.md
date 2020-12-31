@@ -1,4 +1,6 @@
-##Design
+## Design
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 146 | [LRU Cache](https:///leetCode.com/problems/lru-cache) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_146_LRUCache.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Design] | 
 | 155 | [Min Stack](https:///leetCode.com/problems/min-stack) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_155_MinStack.java)| [![Website shields.io](https://img.shields.io/badge/Easy-success.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Stack, Design] | 
 | 170 | [Two Sum III - Data structure design](https:///leetCode.com/problems/two-sum-iii-data-structure-design) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_170_TwoSumIII-Datastructuredesign.java)| [![Website shields.io](https://img.shields.io/badge/Easy-success.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Hash Table, Design] | 

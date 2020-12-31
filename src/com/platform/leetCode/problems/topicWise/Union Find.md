@@ -1,4 +1,6 @@
-##Union Find
+## Union Find
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 128 | [Longest Consecutive Sequence](https:///leetCode.com/problems/longest-consecutive-sequence) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_128_LongestConsecutiveSequence.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Array, Union Find] | 
 | 130 | [Surrounded Regions](https:///leetCode.com/problems/surrounded-regions) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_130_SurroundedRegions.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Depth-first Search, Breadth-first Search, Union Find] | 
 | 200 | [Number of Islands](https:///leetCode.com/problems/number-of-islands) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_200_NumberofIslands.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Depth-first Search, Breadth-first Search, Union Find] | 

@@ -1,4 +1,6 @@
-##Linked List
+## Linked List
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 2 | [Add Two Numbers](https:///leetCode.com/problems/add-two-numbers) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_2_AddTwoNumbers.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Linked List, Math] | 
 | 19 | [Remove Nth Node From End of List](https:///leetCode.com/problems/remove-nth-node-from-end-of-list) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_19_RemoveNthNodeFromEndofList.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Linked List, Two Pointers] | 
 | 21 | [Merge Two Sorted Lists](https:///leetCode.com/problems/merge-two-sorted-lists) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_21_MergeTwoSortedLists.java)| [![Website shields.io](https://img.shields.io/badge/Easy-success.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Linked List] | 

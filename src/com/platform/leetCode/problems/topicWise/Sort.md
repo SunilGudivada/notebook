@@ -1,4 +1,6 @@
-##Sort
+## Sort
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 56 | [Merge Intervals](https:///leetCode.com/problems/merge-intervals) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_56_MergeIntervals.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Array, Sort] | 
 | 57 | [Insert Interval](https:///leetCode.com/problems/insert-interval) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_57_InsertInterval.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Array, Sort] | 
 | 75 | [Sort Colors](https:///leetCode.com/problems/sort-colors) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_75_SortColors.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Array, Two Pointers, Sort] | 

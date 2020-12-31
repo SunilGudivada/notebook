@@ -1,4 +1,6 @@
-##Stack
+## Stack
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 20 | [Valid Parentheses](https:///leetCode.com/problems/valid-parentheses) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_20_ValidParentheses.java)| [![Website shields.io](https://img.shields.io/badge/Easy-success.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [String, Stack] | 
 | 42 | [Trapping Rain Water](https:///leetCode.com/problems/trapping-rain-water) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_42_TrappingRainWater.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Array, Two Pointers, Stack] | 
 | 71 | [Simplify Path](https:///leetCode.com/problems/simplify-path) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_71_SimplifyPath.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [String, Stack] | 

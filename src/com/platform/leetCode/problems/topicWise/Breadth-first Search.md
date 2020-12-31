@@ -1,4 +1,6 @@
-##Breadth-first Search
+## Breadth-first Search
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 101 | [Symmetric Tree](https:///leetCode.com/problems/symmetric-tree) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_101_SymmetricTree.java)| [![Website shields.io](https://img.shields.io/badge/Easy-success.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Tree, Depth-first Search, Breadth-first Search] | 
 | 102 | [Binary Tree Level Order Traversal](https:///leetCode.com/problems/binary-tree-level-order-traversal) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_102_BinaryTreeLevelOrderTraversal.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Tree, Breadth-first Search] | 
 | 103 | [Binary Tree Zigzag Level Order Traversal](https:///leetCode.com/problems/binary-tree-zigzag-level-order-traversal) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_103_BinaryTreeZigzagLevelOrderTraversal.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Stack, Tree, Breadth-first Search] | 

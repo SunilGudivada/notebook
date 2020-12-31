@@ -1,4 +1,6 @@
-##Graph
+## Graph
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 133 | [Clone Graph](https:///leetCode.com/problems/clone-graph) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_133_CloneGraph.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Depth-first Search, Breadth-first Search, Graph] | 
 | 207 | [Course Schedule](https:///leetCode.com/problems/course-schedule) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_207_CourseSchedule.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Depth-first Search, Breadth-first Search, Graph, Topological Sort] | 
 | 210 | [Course Schedule II](https:///leetCode.com/problems/course-schedule-ii) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_210_CourseScheduleII.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Depth-first Search, Breadth-first Search, Graph, Topological Sort] | 

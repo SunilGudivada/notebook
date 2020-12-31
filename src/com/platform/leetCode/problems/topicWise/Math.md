@@ -1,4 +1,6 @@
-##Math
+## Math
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 2 | [Add Two Numbers](https:///leetCode.com/problems/add-two-numbers) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_2_AddTwoNumbers.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Linked List, Math] | 
 | 7 | [Reverse Integer](https:///leetCode.com/problems/reverse-integer) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_7_ReverseInteger.java)| [![Website shields.io](https://img.shields.io/badge/Easy-success.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Math] | 
 | 8 | [String to Integer (atoi)](https:///leetCode.com/problems/string-to-integer-atoi) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_8_StringtoInteger(atoi).java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Math, String] | 

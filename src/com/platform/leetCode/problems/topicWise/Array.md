@@ -1,4 +1,6 @@
-##Array
+## Array
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 1 | [Two Sum](https:///leetCode.com/problems/two-sum) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_1_TwoSum.java)| [![Website shields.io](https://img.shields.io/badge/Easy-success.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Array, Hash Table] | 
 | 4 | [Median of Two Sorted Arrays](https:///leetCode.com/problems/median-of-two-sorted-arrays) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_4_MedianofTwoSortedArrays.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Array, Binary Search, Divide and Conquer] | 
 | 11 | [Container With Most Water](https:///leetCode.com/problems/container-with-most-water) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_11_ContainerWithMostWater.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Array, Two Pointers] | 

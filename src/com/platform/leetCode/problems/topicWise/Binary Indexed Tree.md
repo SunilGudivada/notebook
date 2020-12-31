@@ -1,4 +1,6 @@
-##Binary Indexed Tree
+## Binary Indexed Tree
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 218 | [The Skyline Problem](https:///leetCode.com/problems/the-skyline-problem) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_218_TheSkylineProblem.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Divide and Conquer, Heap, Binary Indexed Tree, Segment Tree, Line Sweep] | 
 | 307 | [Range Sum Query - Mutable](https:///leetCode.com/problems/range-sum-query-mutable) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_307_RangeSumQuery-Mutable.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Binary Indexed Tree, Segment Tree] | 
 | 308 | [Range Sum Query 2D - Mutable](https:///leetCode.com/problems/range-sum-query-2d-mutable) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_308_RangeSumQuery2D-Mutable.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Binary Indexed Tree, Segment Tree] | 

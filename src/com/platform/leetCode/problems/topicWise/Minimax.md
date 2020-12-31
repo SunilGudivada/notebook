@@ -1,4 +1,6 @@
-##Minimax
+## Minimax
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 292 | [Nim Game](https:///leetCode.com/problems/nim-game) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_292_NimGame.java)| [![Website shields.io](https://img.shields.io/badge/Easy-success.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Brainteaser, Minimax] | 
 | 294 | [Flip Game II](https:///leetCode.com/problems/flip-game-ii) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_294_FlipGameII.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Backtracking, Minimax] | 
 | 375 | [Guess Number Higher or Lower II](https:///leetCode.com/problems/guess-number-higher-or-lower-ii) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_375_GuessNumberHigherorLowerII.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Dynamic Programming, Minimax] | 

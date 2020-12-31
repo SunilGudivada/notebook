@@ -1,4 +1,6 @@
-##Ordered Map
+## Ordered Map
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 220 | [Contains Duplicate III](https:///leetCode.com/problems/contains-duplicate-iii) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_220_ContainsDuplicateIII.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Sort, Ordered Map] | 
 | 352 | [Data Stream as Disjoint Intervals](https:///leetCode.com/problems/data-stream-as-disjoint-intervals) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_352_DataStreamasDisjointIntervals.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Binary Search, Ordered Map] | 
 | 683 | [K Empty Slots](https:///leetCode.com/problems/k-empty-slots) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_683_KEmptySlots.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Ordered Map] | 

@@ -1,4 +1,6 @@
-##Bit Manipulation
+## Bit Manipulation
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 78 | [Subsets](https:///leetCode.com/problems/subsets) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_78_Subsets.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Array, Backtracking, Bit Manipulation] | 
 | 136 | [Single Number](https:///leetCode.com/problems/single-number) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_136_SingleNumber.java)| [![Website shields.io](https://img.shields.io/badge/Easy-success.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Hash Table, Bit Manipulation] | 
 | 137 | [Single Number II](https:///leetCode.com/problems/single-number-ii) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_137_SingleNumberII.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Bit Manipulation] | 

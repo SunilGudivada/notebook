@@ -1,4 +1,6 @@
-##Line Sweep
+## Line Sweep
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 218 | [The Skyline Problem](https:///leetCode.com/problems/the-skyline-problem) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_218_TheSkylineProblem.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Divide and Conquer, Heap, Binary Indexed Tree, Segment Tree, Line Sweep] | 
 | 391 | [Perfect Rectangle](https:///leetCode.com/problems/perfect-rectangle) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_391_PerfectRectangle.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Line Sweep] | 
 | 850 | [Rectangle Area II](https:///leetCode.com/problems/rectangle-area-ii) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_850_RectangleAreaII.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Segment Tree, Line Sweep] | 

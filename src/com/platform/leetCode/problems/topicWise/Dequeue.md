@@ -1,4 +1,6 @@
-##Dequeue
+## Dequeue
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 239 | [Sliding Window Maximum](https:///leetCode.com/problems/sliding-window-maximum) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_239_SlidingWindowMaximum.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Heap, Sliding Window, Dequeue] | 
 | 1670 | [Design Front Middle Back Queue](https:///leetCode.com/problems/design-front-middle-back-queue) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_1670_DesignFrontMiddleBackQueue.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Linked List, Design, Dequeue] | 
 | 1687 | [Delivering Boxes from Storage to Ports](https:///leetCode.com/problems/delivering-boxes-from-storage-to-ports) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_1687_DeliveringBoxesfromStoragetoPorts.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Two Pointers, Dynamic Programming, Segment Tree, Dequeue] | 

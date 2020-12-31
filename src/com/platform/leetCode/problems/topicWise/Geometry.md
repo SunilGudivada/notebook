@@ -1,4 +1,6 @@
-##Geometry
+## Geometry
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 587 | [Erect the Fence](https:///leetCode.com/problems/erect-the-fence) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_587_ErecttheFence.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Geometry] | 
 | 892 | [Surface Area of 3D Shapes](https:///leetCode.com/problems/surface-area-of-3d-shapes) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_892_SurfaceAreaof3DShapes.java)| [![Website shields.io](https://img.shields.io/badge/Easy-success.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Math, Geometry] | 
 | 963 | [Minimum Area Rectangle II](https:///leetCode.com/problems/minimum-area-rectangle-ii) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_963_MinimumAreaRectangleII.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Math, Geometry] | 

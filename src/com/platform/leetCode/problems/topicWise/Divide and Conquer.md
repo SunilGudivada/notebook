@@ -1,4 +1,6 @@
-##Divide and Conquer
+## Divide and Conquer
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 4 | [Median of Two Sorted Arrays](https:///leetCode.com/problems/median-of-two-sorted-arrays) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_4_MedianofTwoSortedArrays.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Array, Binary Search, Divide and Conquer] | 
 | 23 | [Merge k Sorted Lists](https:///leetCode.com/problems/merge-k-sorted-lists) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_23_MergekSortedLists.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Linked List, Divide and Conquer, Heap] | 
 | 53 | [Maximum Subarray](https:///leetCode.com/problems/maximum-subarray) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_53_MaximumSubarray.java)| [![Website shields.io](https://img.shields.io/badge/Easy-success.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Array, Divide and Conquer, Dynamic Programming] | 

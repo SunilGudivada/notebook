@@ -1,4 +1,6 @@
-##Tree
+## Tree
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 94 | [Binary Tree Inorder Traversal](https:///leetCode.com/problems/binary-tree-inorder-traversal) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_94_BinaryTreeInorderTraversal.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Hash Table, Stack, Tree] | 
 | 95 | [Unique Binary Search Trees II](https:///leetCode.com/problems/unique-binary-search-trees-ii) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_95_UniqueBinarySearchTreesII.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Dynamic Programming, Tree] | 
 | 96 | [Unique Binary Search Trees](https:///leetCode.com/problems/unique-binary-search-trees) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_96_UniqueBinarySearchTrees.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Dynamic Programming, Tree] | 

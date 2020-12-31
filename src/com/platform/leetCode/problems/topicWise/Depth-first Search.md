@@ -1,4 +1,6 @@
-##Depth-first Search
+## Depth-first Search
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 17 | [Letter Combinations of a Phone Number](https:///leetCode.com/problems/letter-combinations-of-a-phone-number) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_17_LetterCombinationsofaPhoneNumber.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [String, Backtracking, Depth-first Search, Recursion] | 
 | 98 | [Validate Binary Search Tree](https:///leetCode.com/problems/validate-binary-search-tree) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_98_ValidateBinarySearchTree.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Tree, Depth-first Search, Recursion] | 
 | 99 | [Recover Binary Search Tree](https:///leetCode.com/problems/recover-binary-search-tree) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_99_RecoverBinarySearchTree.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Tree, Depth-first Search] | 

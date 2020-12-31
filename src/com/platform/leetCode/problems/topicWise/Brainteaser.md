@@ -1,4 +1,6 @@
-##Brainteaser
+## Brainteaser
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 292 | [Nim Game](https:///leetCode.com/problems/nim-game) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_292_NimGame.java)| [![Website shields.io](https://img.shields.io/badge/Easy-success.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Brainteaser, Minimax] | 
 | 319 | [Bulb Switcher](https:///leetCode.com/problems/bulb-switcher) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_319_BulbSwitcher.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Math, Brainteaser] | 
 | 521 | [Longest Uncommon Subsequence I](https:///leetCode.com/problems/longest-uncommon-subsequence-i) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_521_LongestUncommonSubsequenceI.java)| [![Website shields.io](https://img.shields.io/badge/Easy-success.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [String, Brainteaser] | 

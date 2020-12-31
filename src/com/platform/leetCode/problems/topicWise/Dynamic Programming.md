@@ -1,4 +1,6 @@
-##Dynamic Programming
+## Dynamic Programming
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 5 | [Longest Palindromic Substring](https:///leetCode.com/problems/longest-palindromic-substring) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_5_LongestPalindromicSubstring.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [String, Dynamic Programming] | 
 | 10 | [Regular Expression Matching](https:///leetCode.com/problems/regular-expression-matching) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_10_RegularExpressionMatching.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [String, Dynamic Programming, Backtracking] | 
 | 32 | [Longest Valid Parentheses](https:///leetCode.com/problems/longest-valid-parentheses) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_32_LongestValidParentheses.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [String, Dynamic Programming] | 

@@ -1,4 +1,6 @@
-##Greedy
+## Greedy
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 44 | [Wildcard Matching](https:///leetCode.com/problems/wildcard-matching) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_44_WildcardMatching.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [String, Dynamic Programming, Backtracking, Greedy] | 
 | 45 | [Jump Game II](https:///leetCode.com/problems/jump-game-ii) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_45_JumpGameII.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Array, Greedy] | 
 | 55 | [Jump Game](https:///leetCode.com/problems/jump-game) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_55_JumpGame.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Array, Greedy] | 

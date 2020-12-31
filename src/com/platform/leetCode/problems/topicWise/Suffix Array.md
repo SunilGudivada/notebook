@@ -1,4 +1,6 @@
-##Suffix Array
+## Suffix Array
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 1044 | [Longest Duplicate Substring](https:///leetCode.com/problems/longest-duplicate-substring) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_1044_LongestDuplicateSubstring.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Hash Table, Binary Search, Suffix Array] | 
 | 1163 | [Last Substring in Lexicographical Order](https:///leetCode.com/problems/last-substring-in-lexicographical-order) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_1163_LastSubstringinLexicographicalOrder.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [String, Suffix Array] | 
 | 1698 | [Number of Distinct Substrings in a String](https:///leetCode.com/problems/number-of-distinct-substrings-in-a-string) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_1698_NumberofDistinctSubstringsinaString.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [String, Trie, Rolling Hash, Suffix Array] | 

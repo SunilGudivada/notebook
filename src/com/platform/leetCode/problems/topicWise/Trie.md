@@ -1,4 +1,6 @@
-##Trie
+## Trie
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 208 | [Implement Trie (Prefix Tree)](https:///leetCode.com/problems/implement-trie-prefix-tree) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_208_ImplementTrie(PrefixTree).java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Design, Trie] | 
 | 211 | [Design Add and Search Words Data Structure](https:///leetCode.com/problems/design-add-and-search-words-data-structure) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_211_DesignAddandSearchWordsDataStructure.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Backtracking, Depth-first Search, Design, Trie] | 
 | 212 | [Word Search II](https:///leetCode.com/problems/word-search-ii) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_212_WordSearchII.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Backtracking, Trie] | 

@@ -1,4 +1,6 @@
-##Queue
+## Queue
+|# | Problem | Code | Difficulty | Tags
+|--|--|--|--|--|
 | 346 | [Moving Average from Data Stream](https:///leetCode.com/problems/moving-average-from-data-stream) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_346_MovingAveragefromDataStream.java)| [![Website shields.io](https://img.shields.io/badge/Easy-success.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Design, Queue] | 
 | 353 | [Design Snake Game](https:///leetCode.com/problems/design-snake-game) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_353_DesignSnakeGame.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Design, Queue] | 
 | 363 | [Max Sum of Rectangle No Larger Than K](https:///leetCode.com/problems/max-sum-of-rectangle-no-larger-than-k) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_363_MaxSumofRectangleNoLargerThanK.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Binary Search, Dynamic Programming, Queue] | 
