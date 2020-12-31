@@ -1,4 +1,4 @@
-##Union Find
+## Union Find
 |# | Problem | Code | Difficulty | Tags
 |--|--|--|--|--|
 | 128 | [Longest Consecutive Sequence](https:///leetCode.com/problems/longest-consecutive-sequence) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_128_LongestConsecutiveSequence.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Array, Union Find] | 

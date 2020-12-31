@@ -1,4 +1,4 @@
-##Queue
+## Queue
 |# | Problem | Code | Difficulty | Tags
 |--|--|--|--|--|
 | 346 | [Moving Average from Data Stream](https:///leetCode.com/problems/moving-average-from-data-stream) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_346_MovingAveragefromDataStream.java)| [![Website shields.io](https://img.shields.io/badge/Easy-success.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Design, Queue] | 

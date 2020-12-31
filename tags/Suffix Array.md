@@ -1,4 +1,4 @@
-##Suffix Array
+## Suffix Array
 |# | Problem | Code | Difficulty | Tags
 |--|--|--|--|--|
 | 1044 | [Longest Duplicate Substring](https:///leetCode.com/problems/longest-duplicate-substring) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_1044_LongestDuplicateSubstring.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Hash Table, Binary Search, Suffix Array] | 

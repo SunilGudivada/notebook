@@ -1,4 +1,4 @@
-##Sort
+## Sort
 |# | Problem | Code | Difficulty | Tags
 |--|--|--|--|--|
 | 56 | [Merge Intervals](https:///leetCode.com/problems/merge-intervals) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_56_MergeIntervals.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Array, Sort] | 

@@ -1,4 +1,4 @@
-##Binary Search Tree
+## Binary Search Tree
 |# | Problem | Code | Difficulty | Tags
 |--|--|--|--|--|
 | 1038 | [Binary Search Tree to Greater Sum Tree](https:///leetCode.com/problems/binary-search-tree-to-greater-sum-tree) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_1038_BinarySearchTreetoGreaterSumTree.java)| [![Website shields.io](https://img.shields.io/badge/Medium-yellow.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Binary Search Tree] | 

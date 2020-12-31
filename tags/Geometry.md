@@ -1,4 +1,4 @@
-##Geometry
+## Geometry
 |# | Problem | Code | Difficulty | Tags
 |--|--|--|--|--|
 | 587 | [Erect the Fence](https:///leetCode.com/problems/erect-the-fence) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_587_ErecttheFence.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Geometry] | 

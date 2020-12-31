@@ -1,4 +1,4 @@
-##Dequeue
+## Dequeue
 |# | Problem | Code | Difficulty | Tags
 |--|--|--|--|--|
 | 239 | [Sliding Window Maximum](https:///leetCode.com/problems/sliding-window-maximum) | [Code](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/blob/master/src/com/platform/leetCode/problems/_239_SlidingWindowMaximum.java)| [![Website shields.io](https://img.shields.io/badge/Hard-critical.svg)](https://sunilgudivada.github.io/Data-Structures-and-Algorithms/) | [Heap, Sliding Window, Dequeue] | 
