@@ -1,4 +1,4 @@
-##1000. Minimum Cost to Merge Stones
+## 1000. Minimum Cost to Merge Stones
 <p>There are <code>N</code> piles of stones arranged in a row.&nbsp; The <code>i</code>-th pile has <code>stones[i]</code> stones.</p>
 
 <p>A <em>move</em> consists of merging <strong>exactly&nbsp;<code>K</code>&nbsp;consecutive</strong> piles into one pile, and the cost of this move is equal to the total number of stones in these <code>K</code> piles.</p>
