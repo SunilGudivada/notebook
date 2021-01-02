@@ -2,19 +2,6 @@ package com.platform.leetCode.problems;
 
 import java.util.*;
 
-class TreeNode {
-  int val;
-   TreeNode left;
-   TreeNode right;
-   TreeNode() {}
-   TreeNode(int val) { this.val = val; }
-   TreeNode(int val, TreeNode left, TreeNode right) {
-       this.val = val;
-       this.left = left;
-       this.right = right;
-   }
-
- }
 
 /**
  * Given two binary search trees root1 and root2.
