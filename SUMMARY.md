@@ -6,7 +6,13 @@
 
 ---
 
-* [Union Find](dsa.md)
+* [Union Find Data Structure](union-find-data-structure/README.md)
+  * [Dynamic Connectivity](union-find-data-structure/dynamic-connectivity.md)
+  * [Quick Find - Eager Approach](union-find-data-structure/quick-find-eager-approach.md)
+  * [Quick Find - Lazy Approach](union-find-data-structure/quick-find-lazy-approach.md)
+  * [Defects](union-find-data-structure/defects.md)
+  * [Weighted Quick Union](union-find-data-structure/weighted-quick-union.md)
+  * [Quick Union + path comparison](union-find-data-structure/quick-union-+-path-comparison.md)
 
 ## Preparation Manual
 
