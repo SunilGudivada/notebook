@@ -13,6 +13,7 @@
   * [Defects](union-find-data-structure/defects.md)
   * [Weighted Quick Union](union-find-data-structure/weighted-quick-union.md)
   * [Quick Union + path comparison](union-find-data-structure/quick-union-+-path-comparison.md)
+  * [Amortized Analysis](union-find-data-structure/amortized-analysis.md)
 
 ## Preparation Manual
 
