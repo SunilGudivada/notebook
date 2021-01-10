@@ -6,7 +6,7 @@
 
 ---
 
-* [Union Find](union-find.md)
+* [Union Find](dsa.md)
 
 ## Preparation Manual
 
