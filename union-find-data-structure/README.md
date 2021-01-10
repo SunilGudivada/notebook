@@ -1,4 +1,4 @@
-# Union Find Data Structure
+# Union Find
 
 ## WQUPC - Weighted quick-union with path compression: amortized analysis
 

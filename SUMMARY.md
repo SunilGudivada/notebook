@@ -6,7 +6,7 @@
 
 ---
 
-* [Union Find Data Structure](union-find-data-structure/README.md)
+* [Union Find](union-find-data-structure/README.md)
   * [Dynamic Connectivity](union-find-data-structure/dynamic-connectivity.md)
   * [Quick Find - Eager Approach](union-find-data-structure/quick-find-eager-approach.md)
   * [Quick Find - Lazy Approach](union-find-data-structure/quick-find-lazy-approach.md)
