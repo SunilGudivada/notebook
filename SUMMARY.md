@@ -4,6 +4,10 @@
 
 ## DSA <a id="data-structures-and-algorithms"></a>
 
+---
+
+* [Union Find](union-find.md)
+
 ## Preparation Manual
 
 * [Disclaimer](preparation-manual/disclaimer.md)
