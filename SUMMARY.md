@@ -11,6 +11,7 @@
 * [About a bunch of links](preparation-manual/about-a-bunch-of-links.md)
 * [Before you start preparing](preparation-manual/before-you-start-preparing.md)
 * [Algorithms and Coding](preparation-manual/algorithms-and-coding.md)
-* [Concurrency & Multithreading](preparation-manual/concurrency-and-multithreading.md)
+* [Concurrency and Multithreading](preparation-manual/concurrency-and-multithreading.md)
 * [Programming Language and Fundementals](preparation-manual/programming-language-and-fundementals.md)
+* [Best Practices and Experience](preparation-manual/best-practices-and-experience.md)
 

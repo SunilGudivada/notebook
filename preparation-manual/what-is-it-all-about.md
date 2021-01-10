@@ -29,5 +29,9 @@ Well, the most important point is that each next level is built on top of the pr
 
 {% page-ref page="concurrency-and-multithreading.md" %}
 
+{% page-ref page="programming-language-and-fundementals.md" %}
+
+{% page-ref page="best-practices-and-experience.md" %}
+
 
 

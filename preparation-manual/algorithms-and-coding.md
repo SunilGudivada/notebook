@@ -156,11 +156,3 @@ The advice to practice not alone, but with someone is one of the most difficult 
 * ["Beautiful Code: Leading Programmers Explain How They Think"](http://amzn.to/2cVxdLb)
 * [Effective Java \(2nd Edition\) 2nd Edition by Joshua Bloch](https://amzn.com/B00B8V09HY)
 
-##   
-
-
-
-
-
-
-

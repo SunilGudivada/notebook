@@ -2,9 +2,9 @@
 description: 'Priority: P1'
 ---
 
-# Concurrency & Multithreading
+# Concurrency and Multithreading
 
-## Concurrency & Multithreading
+## Concurrency and Multithreading
 
 Multithreading deserves its own category. If direct questions on this topic - like "_How is a mutex different from a semaphore?_ 🤔 " - usually not set, then all the same streams, and all with These related things pop out in many areas, from algorithms to system design. Sometimes interviewers after you have written the solution to the problem, they may ask "_How would you make your code thread safe?_ 🤔 "So do not be lazy and study this topic thoroughly.
 

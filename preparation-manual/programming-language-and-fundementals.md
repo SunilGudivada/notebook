@@ -45,5 +45,35 @@ If you have 1-2 years of experience, you recently graduated from university and 
 * Read at least one book about your programming language \("Effective X" will do\).
 * Search for puzzles about your programming language. When a small program is written and the reader is required to understand what the program will produce. For example, for [C ++](http://cppquiz.org/quiz/question/8)... Googles on "[C ++ quiz](http://cppquiz.org/quiz/question/8) ". [For Java](http://www.javapuzzlers.com/).
 
+## General Outlook
 
+Most of the things listed in this chapter you need to know on a general level - have a good presentation, but not necessarily deeply into the details. Be able to respond to basic questions like "So I wrote a program in C ++, what happens next?" Here you need to understand about compilers, and about machine code, and about processor instructions.
+
+The exception is if you have been working with any of these areas for a long time. In this case more solid knowledge will be expected from you.
+
+### What you need to know
+
+* That in reality things do not work quite the way they do in theory. For example, if you want store in memory HashMap, then you store not only the values, but also the data structure itself. This is called overhead. This is usually one or two additional pointers for a node. If there are a lot of values, and they are all, for example, numbers, then the overhead may appear quite substantial.
+* Databases. NoSQL vs RDBMS \(relational databases\), what is index, what is key and attribute.
+* Regular expressions and automata / grammars.
+* Computer architecture - memory, processors, registers, buses, disk, instructions
+* Operating systems - what is a thread and a process \(and how do they differ\), what are in the OS components, how the processor interacts with memory, where the operating system is from loaded when the computer is turned on, etc.
+* Networks and how the Internet works.
+* Compilers in general terms.
+* Data storage, RAID.
+* Computer security, cryptography.
+
+### Books
+
+* Books by Andrew Tanenbaum. They are big, but very well written. So read quickly for general development.
+* [List of books](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read), according to Stackoverflow contributors that every good one should read programmer. The list is huge, you should not read every book from there, but you can considered as a manual for the selection of good books.
+* [Recommended reading from the Google ](https://translate.google.com/translate?hl=en&prev=_t&sl=ru&tl=en&u=http://larrr.com/rekomenduemaya-literatura-ot-google/)- the Google allowed the publication of a list of references, which we recommend employees to read.
+
+### Links and Articles
+
+* ["for What every major computer science TM Should the know"](http://matt.might.net/articles/what-cs-majors-should-know/) . A very long list, don't take verbatim. But there are good links to materials.
+* ["the Programmer Competency the Matrix"](http://www.starling-software.com/employment/programmer-competency-matrix.html) - a huge list of knowledge, divided by levels. 
+* "[What should every programmer know about X](https://www.quora.com/topic/What-Should-Every-Programmer-Know-About-X)"... A series of articles on Quora on a variety of topics. 
+* " [Latency numbers every programmer Should the know](https://gist.github.com/jboner/2841832)" 
+* [The the Hardware / Software Interface \(University then of Washington You\) -](https://www.coursetalk.com/providers/coursera/courses/the-hardwaresoftware-interface) a course on computer architecture
 
