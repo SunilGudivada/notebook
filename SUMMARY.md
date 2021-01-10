@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Notes](README.md)
+* [Notebook](README.md)
 
 ## DSA <a id="data-structures-and-algorithms"></a>
 
