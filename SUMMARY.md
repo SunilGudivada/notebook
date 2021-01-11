@@ -6,6 +6,10 @@
 
 ---
 
+* [Algorithm analysis](algorithm-analysis/README.md)
+  * [Time complexity](algorithm-analysis/time-complexity.md)
+  * [Memory](algorithm-analysis/memory.md)
+* [Stacks and Queues](stacks-and-queues.md)
 * [Union Find](union-find-data-structure/README.md)
   * [Dynamic Connectivity](union-find-data-structure/dynamic-connectivity.md)
   * [Quick Find - Eager Approach](union-find-data-structure/quick-find-eager-approach.md)

@@ -10,11 +10,11 @@
 
 **Union:** To merge components containing `p` and `q`, change all entries whose id equals `id[p]` to `id[q]`
 
-![Quick Find  - Eager Approach](../.gitbook/assets/image%20%281%29.png)
+![Quick Find  - Eager Approach](../.gitbook/assets/image%20%282%29.png)
 
 After `union(6,1)`
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 ### Java Implementation
 
