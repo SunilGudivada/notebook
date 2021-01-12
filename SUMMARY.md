@@ -27,7 +27,7 @@
   * [Weighted Quick Union](union-find-data-structure/weighted-quick-union.md)
   * [Quick Union + path comparison](union-find-data-structure/quick-union-+-path-comparison.md)
   * [Amortized Analysis](union-find-data-structure/amortized-analysis.md)
-* [Convex hull](convex-hull.md)
+* [Convex Hull](convex-hull.md)
 
 ## Preparation Manual
 
