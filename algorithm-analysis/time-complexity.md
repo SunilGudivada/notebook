@@ -24,7 +24,7 @@ It is represented in \( $$\theta$$ \)
 * Need a model for "Random" input
 * Provides a way to predict performance
 
-![Common Data Structure Operations](../.gitbook/assets/image%20%2820%29.png)
+![Common Data Structure Operations](../.gitbook/assets/image%20%2821%29.png)
 
 ![Array Sorting algorithms](../.gitbook/assets/image%20%285%29.png)
 

@@ -9,7 +9,16 @@
 * [Algorithm analysis](algorithm-analysis/README.md)
   * [Time complexity](algorithm-analysis/time-complexity.md)
   * [Memory](algorithm-analysis/memory.md)
-* [Stacks and Queues](stacks-and-queues.md)
+* [Sorting](sorting/README.md)
+  * [Selection Sort](sorting/selection-sort.md)
+  * [Insertion Sort](sorting/insertion-sort.md)
+  * [Shell Sort](sorting/shell-sort.md)
+  * [Shuffle sort](sorting/shuffle-sort.md)
+* [Stacks and Queues](stacks-and-queues/README.md)
+  * [Stack Implementations](stacks-and-queues/stack-implementations.md)
+  * [Queue Implementations](stacks-and-queues/queue-implementations.md)
+  * [Problems](stacks-and-queues/problems/README.md)
+    * [Dijkstra's two-stack algorithm](stacks-and-queues/problems/dijkstras-two-stack-algorithm.md)
 * [Union Find](union-find-data-structure/README.md)
   * [Dynamic Connectivity](union-find-data-structure/dynamic-connectivity.md)
   * [Quick Find - Eager Approach](union-find-data-structure/quick-find-eager-approach.md)
@@ -18,6 +27,7 @@
   * [Weighted Quick Union](union-find-data-structure/weighted-quick-union.md)
   * [Quick Union + path comparison](union-find-data-structure/quick-union-+-path-comparison.md)
   * [Amortized Analysis](union-find-data-structure/amortized-analysis.md)
+* [Convex hull](convex-hull.md)
 
 ## Preparation Manual
 
