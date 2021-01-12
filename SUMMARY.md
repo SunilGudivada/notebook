@@ -12,6 +12,8 @@
 * [Sorting](sorting/README.md)
   * [Selection Sort](sorting/selection-sort.md)
   * [Insertion Sort](sorting/insertion-sort.md)
+  * [Merge Sort](sorting/merge-sort.md)
+  * [Quick Sort](sorting/quick-sort.md)
   * [Shell Sort](sorting/shell-sort.md)
   * [Shuffle sort](sorting/shuffle-sort.md)
 * [Stacks and Queues](stacks-and-queues/README.md)
