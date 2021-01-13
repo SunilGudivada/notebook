@@ -1,5 +1,8 @@
 # Quick Sort
 
+* Inplace sorting algorithm
+* For items &lt;= 10 , use insertion sort instead of quick sort
+
 ## Java Implementation
 
 ```java
@@ -19,23 +22,15 @@ Output: [ "0", "2", "4", "five", "one", "seven", "three" ]
 
 public static class quickSort {
   public int partition(Comparable[] a, int low, int high) {
-    Comparable pivot = a[high];
-    int i = low - 1;
-    for (int j = low; j < high; j++) {
-      if (compare(a[j], pivot)) {
-        i++;
-
-        Comparable temp = a[i];
-        a[i] = a[j];
-        a[j] = temp;
+    int i = low, j = high + 1;
+      while (true) {
+        while (compare(a[++i], a[low])) if (i == high) break;
+        while (compare(a[low], a[--j])) if (j == low) break;
+        if (i >= j) break;
+        swap(a, i, j);
       }
-    }
-
-    Comparable temp = a[i + 1];
-    a[i + 1] = a[high];
-    a[high] = temp;
-
-    return i + 1;
+      swap(a, low, j);
+      return j;
   }
 
   void sort(Comparable[] a, int low, int high) {

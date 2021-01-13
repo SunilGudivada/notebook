@@ -18,13 +18,23 @@ Output: [ "0", "2", "4", "five", "one", "seven", "three" ]
 */
 
 public static class Insertion {
-    public void sort(Comparable[] a) {
-      int N = a.length;
-      for (int i = 0; i < N; i++)
-        for (int j = i; j > 0; j--)
-          if (compare(a[j], a[j-1]))
-            swap(a, j, j-1);
-          else break;
+    public int partition(Comparable[] a, int low, int high) {
+      int i = low, j = high + 1;
+      while (true) {
+        while (compare(a[++i], a[low])) if (i == high) break;
+        while (compare(a[low], a[--j])) if (j == low) break;
+        if (i >= j) break;
+        swap(a, i, j);
+      }
+      swap(a, low, j);
+      return j;
+    }
+
+    void sort(Comparable[] a, int low, int high) {
+      if (low < high) {
+        int pi = partition(a, low, high);
+        sort(a, low, pi - 1);
+        sort(a, pi + 1, high);
       }
     }
 
