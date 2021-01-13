@@ -1,5 +1,7 @@
 # Queue Implementations
 
+Queue implementation using array is difficult to maintain the position of the head and tail. Array resize, shrink are difficult to implement 
+
 ## Using LinkedList
 
 ```java

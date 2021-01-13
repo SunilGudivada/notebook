@@ -24,6 +24,7 @@
 * [Stacks and Queues](stacks-and-queues/README.md)
   * [Stack Implementations](stacks-and-queues/stack-implementations.md)
   * [Queue Implementations](stacks-and-queues/queue-implementations.md)
+  * [Priority Queues](stacks-and-queues/priority-queues.md)
   * [Problems](stacks-and-queues/problems/README.md)
     * [Dijkstra's two-stack algorithm](stacks-and-queues/problems/dijkstras-two-stack-algorithm.md)
 * [Union Find](union-find-data-structure/README.md)
@@ -35,6 +36,7 @@
   * [Quick Union + path comparison](union-find-data-structure/quick-union-+-path-comparison.md)
   * [Amortized Analysis](union-find-data-structure/amortized-analysis.md)
 * [Convex Hull](convex-hull.md)
+* [Binary Heaps and Priority Queue](binary-heaps-and-priority-queue.md)
 
 ## Preparation Manual
 
