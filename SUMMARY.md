@@ -17,6 +17,7 @@
   * [Quick'3 Sort](sorting/quick3-sort.md)
   * [Shell Sort](sorting/shell-sort.md)
   * [Shuffle sort](sorting/shuffle-sort.md)
+  * [Heap Sort](sorting/heap-sort.md)
   * [Arrays.sort\(\)](sorting/arrays.sort.md)
   * [Key Points](sorting/key-points.md)
   * [Problems](sorting/problems/README.md)

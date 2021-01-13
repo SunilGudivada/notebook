@@ -32,6 +32,25 @@ int right(int k) {
 }
 ```
 
+## Binary Heap Considerations
+
+### Immutability of keys. 
+
+* **Assumption**: client does not change keys while they're on the PQ. 
+* **Best practice**: use immutable keys.
+
+### Exceptions
+
+* **Underflow**: throw exception if deleting from empty PQ.
+* **Overflow**: add no-arg constructor and use resizing array.
+
+### Other operations
+
+* Remove an arbitrary item.
+* Change the priority of an item.
+
+
+
 ## Priority queue overview
 
 A useful feature of priority queues is that when you insert or delete elements, the elements are sorted automatically, and the underlying principle is binary heap operations.
@@ -161,7 +180,7 @@ Priority queues are implemented based on binary heap, with the main operations b
 
 Perhaps this is the power of data structure, simple operation can achieve clever functions, really admire the invention of binary heap algorithm people!
 
-
+![](.gitbook/assets/image%20%2825%29.png)
 
 ## Reference
 
