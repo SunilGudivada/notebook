@@ -28,6 +28,7 @@
   * [Priority Queues](stacks-and-queues/priority-queues.md)
   * [Problems](stacks-and-queues/problems/README.md)
     * [Dijkstra's two-stack algorithm](stacks-and-queues/problems/dijkstras-two-stack-algorithm.md)
+* [Binary Search Tree](binary-search-tree.md)
 * [Union Find](union-find-data-structure/README.md)
   * [Dynamic Connectivity](union-find-data-structure/dynamic-connectivity.md)
   * [Quick Find - Eager Approach](union-find-data-structure/quick-find-eager-approach.md)
