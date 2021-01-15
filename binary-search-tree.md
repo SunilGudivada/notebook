@@ -181,7 +181,7 @@ if (root.right == null) return root.left;
 
 The picture is excerpted from LeetCode
 
-![](.gitbook/assets/image%20%2830%29.png)
+![](.gitbook/assets/image%20%2851%29.png)
 
 ```java
 if (root.left != null && root.right != null) {
@@ -255,9 +255,179 @@ private Node floor(Node x, Key key)
 }
 ```
 
- 
+##  Subtree Counts
 
-\*\*\*\*
+To get the number of the nodes in the tree, we need to add one more attribute in the treeNode definition and while adding the node to the tree, update the size of count
+
+```java
+// Node
+private class TreeNode
+{
+    private Key key;
+    private Value val;
+    private int count;
+    private Node left, right;
+    public Node(Key key, Value val)
+    {
+        this.key = key;
+        this.val = val;
+    }
+}
+```
+
+```java
+// Size Calculation
+public int size(){
+    return size(root); 
+}
+
+public int size(TreeNode x){
+    if (x == null) return 0;
+     return x.count;
+}
+```
+
+```java
+public TreeNode put(TreeNode x, Key key, Value val){
+    if( x == null) return new TreeNode(key, val);
+    int cmp = key.compareTo(x.key);
+    if(cmp < 0)
+        x.left = put(x.left, key, val)
+    else if(cmp > 0 ) 
+        x.right = put(x.right, key, val);
+    else
+        x.val = val;
+    x.size = 1 + size(x.left) + size(s.right); // Line to be added
+    return x;
+}
+```
+
+## Rank of the Node
+
+How many keys less than K ?
+
+```java
+public int rank(Key key){
+    return rank(key, root);
+}
+
+public int rank(Key key, TreeNode x){
+    if(x == null) return 0;
+    int cmp = key.compareTo(x.key);
+    if( cmp == 0) return size(x.left);
+    else if( cmp < 0) return rank(key, x.left);
+    else if(cmp > 0) return 1 + size(x.left) + rank(key, x.right);
+}
+```
+
+## Traversal 
+
+### Inorder Traversal
+
+```java
+public Queue<key> inOrder(TreeNode x){
+    Queue<Key> q = new Queue<Key>();
+     inOrder(root, q);
+     return q;
+}
+
+public void inOrder(TreeNode x, Queue<key> q){
+    if(x == null) return;
+    inOrder(x.left);
+    q.enqueue(x.key);
+    inOrder(x.right);
+}
+```
+
+### Pre Order Traversal
+
+```java
+public Queue<key> preOrder(TreeNode x){
+     Queue<Key> q = new Queue<Key>();
+     preOrder(root, q);
+     return q;
+}
+
+public void preOrder(TreeNode x, Queue<key> q){
+    if(x == null) return;
+    q.enqueue(x.key);
+    preOrder(x.left);
+    preOrder(x.right);
+}
+```
+
+### Post Order Traversal
+
+```java
+public Queue<key> postOrder(TreeNode x){
+     Queue<Key> q = new Queue<Key>();
+     postOrder(root, q);
+     return q;
+}
+
+public void postOrder(TreeNode x, Queue<key> q){
+    if(x == null) return;
+    postOrder(x.left);
+    postOrder(x.right);
+    q.enqueue(x.key);
+}
+```
+
+### Level Order Traversal
+
+```java
+public Queue<Key> levelOrder(TreeNode x){
+    Queue<Key> res = new Queue<Key>();
+    Queue<TreeNode> q = new Queue<TreeNode>();
+    
+    q.add(x);
+    
+    while(!q.isEmpty()){
+        TreeNode t = q.poll();
+        res.add(t.key);
+        if(x.left != null) q.add(x.left);
+        if(x.right != null)q.add(x.right);
+    }
+    return res;
+}
+```
+
+### Zig Zag Traversal
+
+```java
+public Queue<key> zigzag(TreeNode x){
+    if (x == null) return;
+    Queue<key> res = new Queue<>();
+    Stack<TreeNode> q = new Stack<>();
+    Stack<TreeNode> s = new Stack<>();
+
+    boolean isEven = true;
+
+    q.add(root);
+
+    while (!q.isEmpty() || !s.isEmpty()) {
+
+      if (isEven) {
+        TreeNode curr = q.pop();
+        res.add(curr.key);
+        if (curr.left != null) s.push(curr.left);
+        if (curr.right != null) s.push(curr.right);
+      } else {
+        TreeNode curr = s.pop();
+        res.add(curr.key);
+        if (curr.right != null) q.push(curr.right);
+        if (curr.left != null) q.push(curr.left);
+      }
+
+      if (q.isEmpty() && !s.isEmpty()) {
+        isEven = false;
+      }
+      if (s.isEmpty() && !q.isEmpty()) {
+        isEven = true;
+      }
+    }
+}
+```
 
 **Summary**
 
