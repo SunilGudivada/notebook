@@ -28,21 +28,7 @@ void traverse(TreeNode root) {
 }
 ```
 
-There are two simple examples to illustrate such an idea, and you can warm up first.
-
-**1. How to add an integer to every node of binary tree?**
-
-```java
-void plusOne(TreeNode root) {
-    if (root == null) return;
-    root.val += 1;
-
-    plusOne(root.left);
-    plusOne(root.right);
-}
-```
-
-**2. How to determine whether two binary trees are identical?**
+## **Identical Binary trees ?**
 
 ```java
 boolean isSameTree(TreeNode root1, TreeNode root2) {
@@ -69,7 +55,7 @@ An example corresponding to the definition is shown as:
 
 Next, we will realize basic operations with BST, including compliance checking of BST, addition, deletion, and search. The process of deletion and compliance checking may be slightly more complicated.
 
-**0. Compliance checking of BST**
+## **Compliance checking of BST**
 
 This operation sometimes is error-prone. Following the framework mentioned above, the manipulation of every node in the binary tree is to compare the key in the left child with the right child, and it seems that the codes should be written like this:
 
@@ -106,7 +92,7 @@ boolean isValidBST(TreeNode root, TreeNode min, TreeNode max) {
 }
 ```
 
-**1. Lookup function in BST**
+## **Lookup function in BST**
 
 According to the framework, we can write the codes like this:
 
@@ -149,7 +135,7 @@ void BST(TreeNode root, int target) {
 }
 ```
 
-**3. Deletion function in BST**
+## **Deletion function in BST**
 
 This problem is slightly complicated. But you can handle it with the help of the framework! Similar to the insert function, we should find it before modification. Let's write it first:
 
@@ -237,6 +223,41 @@ TreeNode getMin(TreeNode node) {
 ```
 
 In this way, we can finish the deletion function. Note that such an algorithm is not perfect because we wouldn't exchange the two nodes by 'root.val = minNode.val'. Generally, we will exchange the root and minNode by a series of slightly complicated linked list operations. Because the value of Val may be tremendous in the specific application, it's time-consuming to modify the value of the node. Still, the linked list operations only require to change the pointer and don't modify values.
+
+## Floor in BST
+
+* **Case 1:**`k` equals the key at root - floor of _**key**_ is `k`
+* **Case 2:** `k`is less than the _**key**_ at root -  The floor of k is in the left subtree.
+* **Case 3**: k is greater than the key at root - The floor of k is in the right subtree \(if there is any key ≤ k in right subtree\); otherwise it is the key in the root.
+
+```java
+public Key floor(Key key)
+{
+    Node x = floor(root, key);
+    if (x == null) return null;
+    return x.key;
+}
+private Node floor(Node x, Key key)
+{
+    if (x == null) return null;
+    int cmp = key.compareTo(x.key);
+    
+    // Case 1
+    if (cmp == 0) return x;
+    
+    // Case 2 
+    if (cmp < 0) return floor(x.left, key);
+    
+    // Case 3
+    Node t = floor(x.right, key);
+    if (t != null) return t;
+    else return x;
+}
+```
+
+ 
+
+\*\*\*\*
 
 **Summary**
 
