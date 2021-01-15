@@ -181,7 +181,7 @@ if (root.right == null) return root.left;
 
 The picture is excerpted from LeetCode
 
-![](.gitbook/assets/image%20%2851%29.png)
+![](.gitbook/assets/image%20%2866%29.png)
 
 ```java
 if (root.left != null && root.right != null) {

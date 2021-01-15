@@ -12,3 +12,7 @@ Given a set of input data, an _**algorithm**_ defines a sequence of steps that w
 
 An algorithm describes the steps needed to solve a problem.  If we can prove that an algorithm can always produce the correct result for any given valid input then we consider the algorithm to be _**correct**_.  Some algorithms do not guarantee correctness but they can still be very useful.
 
+
+
+This Algorithm notes took from the Algorithms - Part I, Algorithms - Part II from Princeton University.
+
