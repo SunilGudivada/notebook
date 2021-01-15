@@ -76,7 +76,7 @@ A loglinear \(sometimes called linearithmic\) growth rate is a slightly curved l
 
 A quadratic growth rate is one that can be described by a parabola.
 
-![](../.gitbook/assets/image%20%2880%29.png)
+![](../.gitbook/assets/image%20%2882%29.png)
 
 ### Cubic
 
