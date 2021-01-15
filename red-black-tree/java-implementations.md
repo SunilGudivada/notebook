@@ -157,7 +157,6 @@ private Node put(Node h, Key key, Value val)
      else if (cmp > 0) h.right = put(h.right, key, val);
      else if (cmp == 0) h.val = val;
      
-
      //lean left
      // Right child red, left child black: rotate left.
      if (isRed(h.right) && !isRed(h.left)) h = rotateLeft(h);
@@ -173,6 +172,4 @@ private Node put(Node h, Key key, Value val)
      return h;
  }
 ```
-
-
 
