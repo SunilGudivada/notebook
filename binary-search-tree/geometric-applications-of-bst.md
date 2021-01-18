@@ -10,7 +10,7 @@ This is the extension for symbol table.
 * **Range search:** Find all keys between `k1 & k2`.
 * **Range count:** Number of keys between `k1 & k2`.
 
-![](../.gitbook/assets/image%20%2887%29.png)
+![](../.gitbook/assets/image%20%2888%29.png)
 
 **Implementation**
 
@@ -21,7 +21,7 @@ This is the extension for symbol table.
 
 **Example1:**
 
-![](../.gitbook/assets/image%20%2888%29.png)
+![](../.gitbook/assets/image%20%2889%29.png)
 
 **Java code to find the number of keys between** `low` **and** `high`
 
@@ -38,7 +38,7 @@ public int size(key low, key high) {
 
 **Example 2:** 
 
-![](../.gitbook/assets/image%20%2889%29.png)
+![](../.gitbook/assets/image%20%2890%29.png)
 
 ## Line Segment Intersection
 
@@ -73,7 +73,7 @@ Create BST, where each node stores an interval `(lo, hi)`.
 * Use left endpoint as BST key.
 * Store max endpoint in subtree rooted at node.
 
-![](../.gitbook/assets/image%20%2891%29.png)
+![](../.gitbook/assets/image%20%2892%29.png)
 
 ### Algorithm
 
@@ -82,7 +82,7 @@ Create BST, where each node stores an interval `(lo, hi)`.
 * Else if max endpoint in left subtree is less than lo, go right.
 * Else go left.
 
-![](../.gitbook/assets/image%20%2885%29.png)
+![](../.gitbook/assets/image%20%2886%29.png)
 
 ### Java Implementation
 
@@ -112,13 +112,13 @@ return null;
 
 **Implementation:** Use a red-black BST \( easy to maintain auxiliary information using log N extra work per op \) to guarantee performance. 
 
-![order of growth of running time for N intervals](../.gitbook/assets/image%20%2884%29.png)
+![order of growth of running time for N intervals](../.gitbook/assets/image%20%2885%29.png)
 
 ## Orthogonal rectangle intersection
 
 **Goal**: Find all intersections among a set of N orthogonal rectangles.
 
-![](../.gitbook/assets/image%20%2886%29.png)
+![](../.gitbook/assets/image%20%2887%29.png)
 
 Here we use the same principle sweep line algorithm. Sweep one vertical line from left to right.     when you encounter left end point insert y interval. and repeat the interval search until you get the right end point. 
 
@@ -129,6 +129,8 @@ Here we use the same principle sweep line algorithm. Sweep one vertical line fro
 * **Left endpoint:** Interval search for y-interval of rectangle; insert y-interval.
 * **Right endpoint:** Remove y-interval.
 
+![Orthogonal Rectangle Intersection](../.gitbook/assets/image%20%2884%29.png)
+
 **Analysis**
 
 * Put x-coordinate in PQ \(or Sort \) .            -------------&gt;  `N * log(N)`
@@ -138,5 +140,5 @@ Here we use the same principle sweep line algorithm. Sweep one vertical line fro
 
 ## Summary
 
-![](../.gitbook/assets/image%20%2890%29.png)
+![](../.gitbook/assets/image%20%2891%29.png)
 
