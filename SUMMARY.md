@@ -47,6 +47,7 @@
   * [Amortized Analysis](union-find-data-structure/amortized-analysis.md)
 * [Convex Hull](convex-hull.md)
 * [Binary Heaps and Priority Queue](binary-heaps-and-priority-queue.md)
+* [Hash Table vs Binary Search Trees](hash-table-vs-binary-search-trees.md)
 
 ## Preparation Manual
 
