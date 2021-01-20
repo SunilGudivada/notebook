@@ -37,6 +37,8 @@
     * [Insert Operation - 2-3 Tree](binary-search-tree/2-3-tree/insert-operation-2-3-tree.md)
   * [Geometric Applications of BST](binary-search-tree/geometric-applications-of-bst.md)
 * [B-Tree](b-tree.md)
+* [Graphs](graphs/README.md)
+  * [Undirected Graphs](graphs/undirected-graphs.md)
 * [Union Find](union-find-data-structure/README.md)
   * [Dynamic Connectivity](union-find-data-structure/dynamic-connectivity.md)
   * [Quick Find - Eager Approach](union-find-data-structure/quick-find-eager-approach.md)
