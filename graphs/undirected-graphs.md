@@ -217,7 +217,7 @@ public class CC {
     private void dfs(Graph G, int v)
     {
        marked[v] = true;
-       idp[v] = count;
+       id[v] = count;
        for (int w : G.adj(v))
           if (!marked[w])
               dfs(G, w);
