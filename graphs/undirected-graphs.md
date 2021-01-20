@@ -221,10 +221,7 @@ public class CC {
        for (int w : G.adj(v))
           if (!marked[w])
               dfs(G, w);
-     }
-    
-    
-
+    }
 }
 ```
 
