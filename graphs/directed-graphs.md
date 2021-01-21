@@ -31,8 +31,14 @@ public class diGraph {
 
   public static void main(String[] args) {}
 }
-
 ```
+
+{% hint style="success" %}
+* **Space Complexity :** $$E + V$$ 
+* **Add Edge:** 1
+* Edge between $$v $$ and $$w$$ is $$outdegree(v)$$ 
+* Iterate over vertices adjacent to $$v$$ -  $$outdegree(v)$$ 
+{% endhint %}
 
 ## **DI-Graph Applications**
 
