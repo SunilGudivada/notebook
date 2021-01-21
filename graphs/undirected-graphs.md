@@ -1,8 +1,29 @@
 # Undirected Graphs
 
+## **Glossary**
+
+* A _self-loop_ is an edge that connects a vertex to itself.
+* Two edges are _parallel_ if they connect the same pair of vertices.
+* When an edge connects two vertices, we say that the vertices are _adjacent to_ one another and that the edge is _incident on_ both vertices.
+* The _degree_ of a vertex is the number of edges incident on it.
+* A _subgraph_ is a subset of a graph's edges \(and associated vertices\) that constitutes a graph.
+* A _path_ in a graph is a sequence of vertices connected by edges, with no repeated edges.
+* A _simple path_ is a path with no repeated vertices.
+* A _cycle_ is a path \(with at least one edge\) whose first and last vertices are the same.
+* A _simple cycle_ is a cycle with no repeated vertices \(other than the requisite repetition of the first and last vertices\).
+* The _length_ of a path or a cycle is its number of edges.
+* We say that one vertex is _connected to_ another if there exists a path that contains both of them.
+* A graph is _connected_ if there is a path from every vertex to every other vertex.
+* A graph that is not connected consists of a set of _connected components_, which are maximal connected subgraphs.
+* An _acyclic graph_ is a graph with no cycles.
+* A _tree_ is an acyclic connected graph.
+* A _forest_ is a disjoint set of trees.
+* A _spanning tree_ of a connected graph is a subgraph that contains all of that graph's vertices and is a single tree. A _spanning forest_ of a graph is the union of the spanning trees of its connected components.
+* A _bipartite graph_ is a graph whose vertices we can divide into two sets such that all edges connect a vertex in one set with a vertex in the other set.
+
 Graph having two directions from any vertex in a path to another verted.
 
-![Representation of undirected Graph](../.gitbook/assets/image%20%28101%29.png)
+![Representation of undirected Graph](../.gitbook/assets/image%20%28104%29.png)
 
 ## **Adjacency Matrix Representations**
 
@@ -12,7 +33,7 @@ Maintain a two dimensional $$v * v$$ matrix boolean array
 
 for each edge $$v - w$$ in graph: $$adj[v][w] = adj[w][v] = true$$ 
 
-![Adjacency Matrix representation](../.gitbook/assets/image%20%2893%29.png)
+![Adjacency Matrix representation](../.gitbook/assets/image%20%2894%29.png)
 
 **Note:** Adjacency matrix consumes more space.
 
@@ -27,7 +48,7 @@ for each edge $$v - w$$ in graph: $$adj[v][w] = adj[w][v] = true$$
 
 In this representation , If there is path exists between any two vertices, vertices are added to vertex list.
 
-![](../.gitbook/assets/image%20%2896%29.png)
+![](../.gitbook/assets/image%20%2899%29.png)
 
 ### Java Implementation
 
@@ -74,7 +95,7 @@ To visit a vertex $$v$$  :
 * Mark vertex $$v$$ as visited.
 * Recursively visit all unmarked vertices adjacent to $$v$$.
 
-![](../.gitbook/assets/image%20%2898%29.png)
+![](../.gitbook/assets/image%20%28101%29.png)
 
 ### Java Implementation
 
@@ -135,7 +156,7 @@ Repeat until queue is empty
 * Remove vertex $$v$$ from queue.
 * Add to queue all unmarked vertices adjacent to $$v$$ and mark them.
 
-![](../.gitbook/assets/image%20%2899%29.png)
+![](../.gitbook/assets/image%20%28102%29.png)
 
 ### Java Implementation
 
@@ -171,7 +192,7 @@ public class BreadthFirstPaths
 
 A **connected component** is a maximal set of connected vertices.
 
-![Connected Components](../.gitbook/assets/image%20%28100%29.png)
+![Connected Components](../.gitbook/assets/image%20%28103%29.png)
 
 ### Algorithm
 
@@ -180,7 +201,7 @@ To visit a vertex v :
 * Mark vertex v as visited.
 * Recursively visit all unmarked vertices adjacent to v.
 
-![](../.gitbook/assets/image%20%28102%29.png)
+![](../.gitbook/assets/image%20%28106%29.png)
 
 ### Java Implementation
 
@@ -227,5 +248,5 @@ public class CC {
 
 ## **Undirected Graph Applications**
 
-![](../.gitbook/assets/image%20%28103%29.png)
+![](../.gitbook/assets/image%20%28108%29.png)
 

@@ -15,7 +15,7 @@
 
 
 
-![](../.gitbook/assets/image%20%2894%29.png)
+![](../.gitbook/assets/image%20%2896%29.png)
 
 ## **Graph API**
 

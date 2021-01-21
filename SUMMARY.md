@@ -40,6 +40,7 @@
 * [Graphs](graphs/README.md)
   * [Undirected Graphs](graphs/undirected-graphs.md)
   * [Directed Graphs](graphs/directed-graphs.md)
+  * [Topological Sort](graphs/topological-sort.md)
 * [Union Find](union-find-data-structure/README.md)
   * [Dynamic Connectivity](union-find-data-structure/dynamic-connectivity.md)
   * [Quick Find - Eager Approach](union-find-data-structure/quick-find-eager-approach.md)
