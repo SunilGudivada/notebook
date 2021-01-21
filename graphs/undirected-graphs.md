@@ -2,7 +2,7 @@
 
 Graph having two directions from any vertex in a path to another verted.
 
-![Representation of undirected Graph](../.gitbook/assets/image%20%2899%29.png)
+![Representation of undirected Graph](../.gitbook/assets/image%20%28101%29.png)
 
 ## **Adjacency Matrix Representations**
 
@@ -27,7 +27,7 @@ for each edge $$v - w$$ in graph: $$adj[v][w] = adj[w][v] = true$$
 
 In this representation , If there is path exists between any two vertices, vertices are added to vertex list.
 
-![](../.gitbook/assets/image%20%2895%29.png)
+![](../.gitbook/assets/image%20%2896%29.png)
 
 ### Java Implementation
 
@@ -74,7 +74,7 @@ To visit a vertex $$v$$  :
 * Mark vertex $$v$$ as visited.
 * Recursively visit all unmarked vertices adjacent to $$v$$.
 
-![](../.gitbook/assets/image%20%2896%29.png)
+![](../.gitbook/assets/image%20%2898%29.png)
 
 ### Java Implementation
 
@@ -135,7 +135,7 @@ Repeat until queue is empty
 * Remove vertex $$v$$ from queue.
 * Add to queue all unmarked vertices adjacent to $$v$$ and mark them.
 
-![](../.gitbook/assets/image%20%2897%29.png)
+![](../.gitbook/assets/image%20%2899%29.png)
 
 ### Java Implementation
 
@@ -171,7 +171,7 @@ public class BreadthFirstPaths
 
 A **connected component** is a maximal set of connected vertices.
 
-![Connected Components](../.gitbook/assets/image%20%2898%29.png)
+![Connected Components](../.gitbook/assets/image%20%28100%29.png)
 
 ### Algorithm
 
@@ -180,7 +180,7 @@ To visit a vertex v :
 * Mark vertex v as visited.
 * Recursively visit all unmarked vertices adjacent to v.
 
-![](../.gitbook/assets/image%20%28100%29.png)
+![](../.gitbook/assets/image%20%28102%29.png)
 
 ### Java Implementation
 
@@ -213,7 +213,7 @@ public class CC {
         return id[v];  
     }
     
-    // all vertices discovered in same call of dfs have same id
+    // All vertices discovered in same call of dfs have same id
     private void dfs(Graph G, int v)
     {
        marked[v] = true;
@@ -224,4 +224,8 @@ public class CC {
     }
 }
 ```
+
+## **Undirected Graph Applications**
+
+![](../.gitbook/assets/image%20%28103%29.png)
 
