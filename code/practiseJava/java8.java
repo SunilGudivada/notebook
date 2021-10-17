@@ -89,11 +89,11 @@ public class java8 {
         students.stream().distinct().allMatch(student -> student.getName().contains("Sunil")));
 
     System.out.println("\n.dropW4hile() age > 25");
-    students.stream()
-        .distinct()
-        .sorted(Comparator.comparing(p -> (p.age)))
-        .dropWhile(student -> student.getAge() > 23)
-        .forEach(student -> System.out.println(student.name));
+//    students.stream()
+//        .distinct()
+//        .sorted(Comparator.comparing(p -> (p.age)))
+//        .dropWhile(student -> student.getAge() > 23)
+//        .forEach(student -> System.out.println(student.name));
 
     System.out.println(" \nGenerate Random Number using streams");
     Stream.generate(() -> new Random().nextInt(100))

@@ -50,12 +50,7 @@ public class Main {
     System.out.println("Binary Search Tree");
     System.out.println("******************************");
 
-    String BST_TREE = """
-                         50
-                 30             70
-             20     40      60       80
-         10                              90
-     """;
+
 
     BinarySearchTree BST_OBJ = new BinarySearchTree();
 
@@ -71,7 +66,6 @@ public class Main {
     BST_OBJ.insert(BST_ROOT_NODE, 10);
     BST_OBJ.insert(BST_ROOT_NODE, 90);
 
-    System.out.println(BST_TREE);
     System.out.println("\nHeight of a Binary Search Tree : "+ functions.height(BST_ROOT_NODE));
 
     System.out.println("\nIn Order Traversal of a Binary Search Tree : ");
