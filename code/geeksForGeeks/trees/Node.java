@@ -2,13 +2,13 @@ package geeksForGeeks.trees;
 
 public class Node {
 
-  int data;
-  int height;
-  Node left;
-  Node right;
+    public Node left;
+    public int data;
+    public int height;
+    public Node right;
 
-  Node(int key) {
-    this.data = key;
-    height = 1;
-  }
+    public Node(int key) {
+        this.data = key;
+        height = 1;
+    }
 }
