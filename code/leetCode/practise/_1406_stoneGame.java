@@ -1,5 +1,8 @@
 package leetCode.practise;
 
+import java.util.List;
+import java.util.stream.Collectors;
+
 public class _1406_stoneGame {
 
 
@@ -69,6 +72,17 @@ public class _1406_stoneGame {
         int alice = helperSpaceOptimization(stoneValue);
         return displayResult(alice);
     }
+    public static List<Integer> moveElementToEnd(List<Integer> array, int toMove) {
+        // Write your code here.
+        int currentSize = array.size();
+        array = array.stream().filter(x -> !x.equals(toMove)).collect(Collectors.toList());
+        int size = array.size();
+        for(int i=0;i<=currentSize-size;i++){
+            array.add(toMove);
+        }
+        return array;
+    }
+
 
     public static void main(String[] args) {
         int[] arr = new int[]{1, 2, 3, 6};
