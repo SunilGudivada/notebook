@@ -47,10 +47,10 @@ public class DataStructures {
         Arrays.sort(arr, 4, 6);
 
         // Check equality condition by range
-        System.out.println("Array equals by Range :::"+ Arrays.equals(arr, 2,4, copiedArr, 0 ,2 ));
+//        System.out.println("Array equals by Range :::"+ Arrays.equals(arr, 2,4, copiedArr, 0 ,2 ));
 
         // Arrays.mismatch(int[] a , int[] b ) -> returns the first index of mismatch
-        System.out.println("Mismatched Index:: " +Arrays.mismatch(new int[]{1,2,3,4}, new int[]{1,2,3,3}));
+//        System.out.println("Mismatched Index:: " +Arrays.mismatch(new int[]{1,2,3,4}, new int[]{1,2,3,3}));
 
     }
 

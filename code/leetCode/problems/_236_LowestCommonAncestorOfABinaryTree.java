@@ -1,5 +1,9 @@
 package leetCode.problems;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.function.Function;
+
 /**
  * Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree.
  *
@@ -39,6 +43,5 @@ public class _236_LowestCommonAncestorOfABinaryTree {
         TreeNode left = lowestCommonAncestor(root.left, p, q);
         TreeNode right = lowestCommonAncestor(root.right, p, q);
         return left == null ? right : right == null ? left : root;
-
     }
 }
