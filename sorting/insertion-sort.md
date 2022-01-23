@@ -51,7 +51,7 @@ public static class Insertion {
 ```
 
 {% hint style="success" %}
-## Properties
+### Properties
 
 * Stable
 * $$O(1)$$ extra space
@@ -59,4 +59,3 @@ public static class Insertion {
 * **Adaptive**: $$O(n)$$ time when nearly sorted
 * Very low overhead
 {% endhint %}
-

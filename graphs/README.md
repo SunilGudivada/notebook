@@ -1,8 +1,8 @@
 # Graphs
 
-**Graph:**  A graph is a data structure that consists of the following two components:  
-**1.** A finite set of vertices also called as nodes.  
-**2.** A finite set of ordered pair of the form \(u, v\) called as edge. The pair is ordered because \(u, v\) is not the same as \(v, u\) in case of a directed graph\(di-graph\). The pair of the form \(u, v\) indicates that there is an edge from vertex u to vertex v. The edges may contain weight/value/cost.
+**Graph:** A graph is a data structure that consists of the following two components:\
+**1.** A finite set of vertices also called as nodes.\
+**2.** A finite set of ordered pair of the form (u, v) called as edge. The pair is ordered because (u, v) is not the same as (v, u) in case of a directed graph(di-graph). The pair of the form (u, v) indicates that there is an edge from vertex u to vertex v. The edges may contain weight/value/cost.
 
 ## **Terminology**
 
@@ -13,9 +13,7 @@
 * **Hamilton tour:** Cycle that uses each vertex exactly once.
 * **Biconnectivity:** Vertex whose removal disconnects the graph.
 
-
-
-![](../.gitbook/assets/image%20%2896%29.png)
+![](<../.gitbook/assets/image (96) (1).png>)
 
 ## **Graph API**
 
@@ -44,7 +42,7 @@ public class Graph{
 
 ### **Degree**
 
- ****Number of vertices connected to $$v$$ 
+\*\*\*\*Number of vertices connected to $$v$$
 
 ```java
 public static int degree(Graph G, int v){
@@ -56,7 +54,7 @@ public static int degree(Graph G, int v){
 }
 ```
 
-### **Max Degree** 
+### **Max Degree**
 
 ```java
 public static int maxDegree(Graph G){
@@ -91,4 +89,3 @@ public static int countSelfLoops(Graph G){
     return count/2; // Each edge counted twice
 }
 ```
-

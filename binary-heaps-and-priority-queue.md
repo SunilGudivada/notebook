@@ -4,18 +4,18 @@
 
 First of all, what does a binary heap have to do with a binary tree? Why do people always draw binary trees as binary heap?
 
-Because a binary heap is a special kind of binary tree \(complete binary tree\) that is stored in an array.In a general linked list binary tree, we manipulate Pointers to nodes, whereas in an array, we use an array index as a pointer
+Because a binary heap is a special kind of binary tree (complete binary tree) that is stored in an array.In a general linked list binary tree, we manipulate Pointers to nodes, whereas in an array, we use an array index as a pointer
 
 Binary heap is also divided into maximum heap and minimum heap.**The properties of the maximum heap are: each node is greater than or equal to its two children.** Similarly, the properties of the minimum heap are：each node is less than or equal to its children.
 
 Both heap cores have the same idea, and this article takes maximum heap as an example.
 
-For a maximum heap, by its nature, it is obvious that the top of the heap, arr\[1\], must be the largest element of all.
+For a maximum heap, by its nature, it is obvious that the top of the heap, arr\[1], must be the largest element of all.
 
-In array represenatation of the binary tree,  At any element k
+In array represenatation of the binary tree, At any element k
 
 * **Parent**: `k / 2`
-* **Children** : `2 * k` and `2 * k + 1` 
+* **Children** : `2 * k` and `2 * k + 1`
 
 ```java
 // the index of the parent node
@@ -34,9 +34,9 @@ int right(int k) {
 
 ## Binary Heap Considerations
 
-### Immutability of keys. 
+### Immutability of keys.
 
-* **Assumption**: client does not change keys while they're on the PQ. 
+* **Assumption**: client does not change keys while they're on the PQ.
 * **Best practice**: use immutable keys.
 
 ### Exceptions
@@ -172,15 +172,14 @@ public Key delMax() {
 
 A binary heap is a complete binary tree, so it is suitable for storing in an array, and the binary heap has some special properties.
 
-Binary heap operation is very simple, mainly floating up and down, to maintain the nature of the heap \(heap order\), the core code is only 10 lines.
+Binary heap operation is very simple, mainly floating up and down, to maintain the nature of the heap (heap order), the core code is only 10 lines.
 
 Priority queues are implemented based on binary heap, with the main operations being insert and delete. Insert is to insert to the end first and then float up to the correct position; Deletion is to reverse the position and then delete, and then sink to the correct position. The core code is only ten lines.
 
 Perhaps this is the power of data structure, simple operation can achieve clever functions, really admire the invention of binary heap algorithm people!
 
-![](.gitbook/assets/image%20%2825%29.png)
+![](<.gitbook/assets/image (25) (1).png>)
 
 ## Reference
 
-* [https://labuladong.gitbook.io/algo-en/ii.-data-structure/binary\_heap\_implements\_priority\_queues](https://labuladong.gitbook.io/algo-en/ii.-data-structure/binary_heap_implements_priority_queues)
-
+* [https://labuladong.gitbook.io/algo-en/ii.-data-structure/binary\_heap\_implements\_priority\_queues](https://labuladong.gitbook.io/algo-en/ii.-data-structure/binary\_heap\_implements\_priority\_queues)

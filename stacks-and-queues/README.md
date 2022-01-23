@@ -9,11 +9,10 @@
   * **Stack** : Last In First Out - **LIFO**
   * **Queue**: First in First Out - **FIFO**
 
-![STACK, QUEUE  - INSERT , REMOVE OPERATIONS ](../.gitbook/assets/image%20%2819%29.png)
+![STACK, QUEUE  - INSERT , REMOVE OPERATIONS](<../.gitbook/assets/image (19) (1).png>)
 
 ## Bag
 
-Adding items to a collection and iterating **\( Order does not matter \)**
+Adding items to a collection and iterating **( Order does not matter )**
 
 > Implementation is similar to stack / queue without pop / dequeue respectively
-

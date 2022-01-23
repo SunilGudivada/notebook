@@ -6,23 +6,23 @@
 * Two edges are _parallel_ if they connect the same ordered pair of vertices.
 * The _outdegree_ of a vertex is the number of edges pointing from it.
 * The _indegree_ of a vertex is the number of edges pointing to it.
-* A _subgraph_ is a subset of a digraph's edges \(and associated vertices\) that constitutes a digraph.
-* A _directed path_ in a digraph is a sequence of vertices in which there is a \(directed\) edge pointing from each vertex in the sequence to its successor in the sequence, with no repeated edges.
+* A _subgraph_ is a subset of a digraph's edges (and associated vertices) that constitutes a digraph.
+* A _directed path_ in a digraph is a sequence of vertices in which there is a (directed) edge pointing from each vertex in the sequence to its successor in the sequence, with no repeated edges.
 * A directed path is _simple_ if it has no repeated vertices.
-* A _directed cycle_ is a directed path \(with at least one edge\) whose first and last vertices are the same.
-* A directed cycle is _simple_ if it has no repeated vertices \(other than the requisite repetition of the first and last vertices\).
+* A _directed cycle_ is a directed path (with at least one edge) whose first and last vertices are the same.
+* A directed cycle is _simple_ if it has no repeated vertices (other than the requisite repetition of the first and last vertices).
 * The _length_ of a path or a cycle is its number of edges.
 * We say that a vertex w is _reachable from_ a vertex v if there exists a directed path from v to w.
 * We say that two vertices v and w are _strongly connected_ if they are mutually reachable: there is a directed path from v to w and a directed path from w to v.
 * A digraph is _strongly connected_ if there is a directed path from every vertex to every other vertex.
 * A digraph that is not strongly connected consists of a set of _strongly connected components_, which are maximal strongly connected subgraphs.
-* A _directed acyclic graph_ \(or DAG\) is a digraph with no directed cycles.
+* A _directed acyclic graph_ (or DAG) is a digraph with no directed cycles.
 
 **DiGraph**: Set of vertices connect pairwise by directed edges
 
 ## Adjacency List Representation
 
-![](../.gitbook/assets/image%20%2898%29.png)
+![](<../.gitbook/assets/image (98) (1).png>)
 
 ### Java Implementation
 
@@ -52,10 +52,10 @@ public class diGraph {
 ```
 
 {% hint style="success" %}
-* **Space Complexity :** $$E + V$$ 
+* **Space Complexity :** $$E + V$$
 * **Add Edge:** 1
-* Edge between $$v $$ and $$w$$ is $$outdegree(v)$$ 
-* Iterate over vertices adjacent to $$v$$ -  $$outdegree(v)$$ 
+* Edge between $$v$$and $$w$$ is $$outdegree(v)$$
+* Iterate over vertices adjacent to $$v$$ - $$outdegree(v)$$
 {% endhint %}
 
 ## **Depth First Search**
@@ -74,9 +74,9 @@ Depth-first search search visits each vertex exactly once. Three vertex ordering
 * **Postorder**: Put the vertex on a queue after the recursive calls.
 * **Reverse postorder**: Put the vertex on a stack after the recursive calls.
 
-![](../.gitbook/assets/image%20%2895%29.png)
+![](<../.gitbook/assets/image (95) (1).png>)
 
-![](../.gitbook/assets/image%20%2893%29.png)
+![](<../.gitbook/assets/image (93) (1).png>)
 
 ### **Java Implementation**
 
@@ -324,11 +324,10 @@ public class DepthFirstOrder {
 }
 ```
 
-![](../.gitbook/assets/image%20%28105%29.png)
+![](<../.gitbook/assets/image (105) (1).png>)
 
 ## **DI-Graph Applications**
 
-![](../.gitbook/assets/image%20%28100%29.png)
+![](<../.gitbook/assets/image (100) (1).png>)
 
 \*\*\*\*
-

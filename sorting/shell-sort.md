@@ -44,12 +44,11 @@ public static class Shell {
 ```
 
 {% hint style="success" %}
-## Properties
+### Properties
 
 * Not stable
 * $$O ( 1)$$ extra space
-* $$O(n^{3/2})$$time as shown \(see below\)
+* $$O(n^{3/2})$$time as shown (see below)
 * **Adaptive**: $$O(n*log(n))$$time when nearly sorted
 * Fast unless array size is huge
 {% endhint %}
-

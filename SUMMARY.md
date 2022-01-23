@@ -2,9 +2,7 @@
 
 * [Notebook](README.md)
 
-## DSA <a id="data-structures-and-algorithms"></a>
-
----
+## DSA <a href="#data-structures-and-algorithms" id="data-structures-and-algorithms"></a>
 
 * [Introduction](introduction.md)
 * [Algorithm analysis](algorithm-analysis/README.md)
@@ -19,7 +17,7 @@
   * [Shell Sort](sorting/shell-sort.md)
   * [Shuffle sort](sorting/shuffle-sort.md)
   * [Heap Sort](sorting/heap-sort.md)
-  * [Arrays.sort\(\)](sorting/arrays.sort.md)
+  * [Arrays.sort()](sorting/arrays.sort.md)
   * [Key Points](sorting/key-points.md)
   * [Problems](sorting/problems/README.md)
     * [Reorder Log files](sorting/problems/reorder-log-files.md)
@@ -52,6 +50,7 @@
 * [Convex Hull](convex-hull.md)
 * [Binary Heaps and Priority Queue](binary-heaps-and-priority-queue.md)
 * [Hash Table vs Binary Search Trees](hash-table-vs-binary-search-trees.md)
+* [🖥 Multi Threading](data-structures-and-algorithms/multi-threading.md)
 
 ## Preparation Manual
 
@@ -69,4 +68,3 @@
 * [Github](https://github.com/SunilGudivada/Data-Structures-and-Algorithms)
 * [LinkedIn](https://www.linkedin.com/in/sunil0385/)
 * [leetcode](https://leetcode.com/sunilgudivada/)
-

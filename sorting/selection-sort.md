@@ -46,10 +46,10 @@ public class Selection {
 ```
 
 {% hint style="success" %}
-## **Properties**
+### **Properties**
 
 * $$O ( 1 )$$ extra space
-* $$\theta(n^{2})$$  comparisons
+* $$\theta(n^{2})$$ comparisons
 * $$\theta(n)$$ swaps
 * Not stable
 * Not adaptive
@@ -58,4 +58,3 @@ public class Selection {
 ## Reference
 
 * [https://www.toptal.com/developers/sorting-algorithms/selection-sort](https://www.toptal.com/developers/sorting-algorithms/selection-sort)
-

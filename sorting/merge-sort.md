@@ -73,15 +73,12 @@ public static class mergeSort {
 ```
 
 {% hint style="success" %}
-## Properties
+### Properties
 
 * Stable
-* $$\theta(n)$$ extra space for arrays 
+* $$\theta(n)$$ extra space for arrays
 * $$\theta(log(n))$$ extra space for linked lists
 * $$\theta(n * log(n))$$time
 * Not adaptive
 * Does not require random access to data
 {% endhint %}
-
-
-

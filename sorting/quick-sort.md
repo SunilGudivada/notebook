@@ -1,7 +1,7 @@
 # Quick Sort
 
 * Inplace sorting algorithm
-* For items &lt;= 10 , use insertion sort instead of quick sort
+* For items <= 10 , use insertion sort instead of quick sort
 
 ## Java Implementation
 
@@ -46,15 +46,13 @@ public static class quickSort {
   }
 }
 
-
 ```
 
 {% hint style="success" %}
-## Properties
+### Properties
 
 * Not stable
 * $$O ( log( n))$$extra space
 * $$O(n^{2})$$ time, but typically $$O( n * log(n))$$ time
 * Not adaptive
 {% endhint %}
-

@@ -1,6 +1,6 @@
 # Convex Hull
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](<.gitbook/assets/image (11) (1).png>)
 
 ```java
 import java.util.*; 
@@ -105,4 +105,3 @@ public class convexHull {
     } 
 } 
 ```
-

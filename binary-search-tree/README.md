@@ -47,11 +47,11 @@ boolean isSameTree(TreeNode root1, TreeNode root2) {
 
 It is straightforward to understand the two above examples with the help of the traverse framework of the binary tree. If you can understand it, now you can handle all the problems with the binary tree.
 
-Binary Search Tree \(BST\), is a common type of binary. The tree additionally satisfies the binary search property, which states that the key in each node must be greater than or equal to any key stored in the left sub-tree, and less than or equal to any key stored in the right sub-tree.
+Binary Search Tree (BST), is a common type of binary. The tree additionally satisfies the binary search property, which states that the key in each node must be greater than or equal to any key stored in the left sub-tree, and less than or equal to any key stored in the right sub-tree.
 
 An example corresponding to the definition is shown as:
 
-![Valid BST](../.gitbook/assets/image%20%2828%29.png)
+![Valid BST](<../.gitbook/assets/image (28) (1).png>)
 
 Next, we will realize basic operations with BST, including compliance checking of BST, addition, deletion, and search. The process of deletion and compliance checking may be slightly more complicated.
 
@@ -72,7 +72,7 @@ boolean isValidBST(TreeNode root) {
 
 But such algorithm is an error. Because the key in each node must be greater than or equal to any key stored in the left sub-tree, and less than or equal to any key stored in the right sub-tree. For example, the following binary tree is not a BST, but our algorithm will make the wrong decision.
 
-![Invalid BST](../.gitbook/assets/image%20%2829%29.png)
+![Invalid BST](<../.gitbook/assets/image (29) (1).png>)
 
 Don't panic though the algorithm is wrong. Our framework is still correct, and we didn't notice some details information. Let's refresh the definition of BST: The manipulations in root node should not only include the comparison between left and right child, but it also require a comparison of the whole left and right sub-tree. What should do? It is beyond the reach of the root node.
 
@@ -158,7 +158,7 @@ When you find the target, for example, node A. It isn't effortless for us to del
 
 The picture is excerpted from LeetCode
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](<../.gitbook/assets/image (27) (1).png>)
 
 ```java
 if (root.left == null && root.right == null)
@@ -169,7 +169,7 @@ if (root.left == null && root.right == null)
 
 The picture is excerpted from LeetCode
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](<../.gitbook/assets/image (26) (1).png>)
 
 ```java
 // After excluding the Situation 1
@@ -181,7 +181,7 @@ if (root.right == null) return root.left;
 
 The picture is excerpted from LeetCode
 
-![](../.gitbook/assets/image%20%2867%29.png)
+![](<../.gitbook/assets/image (67) (1).png>)
 
 ```java
 if (root.left != null && root.right != null) {
@@ -227,8 +227,8 @@ In this way, we can finish the deletion function. Note that such an algorithm is
 ## Floor in BST
 
 * **Case 1:**`k` equals the key at root - floor of _**key**_ is `k`
-* **Case 2:** `k`is less than the _**key**_ at root -  The floor of k is in the left subtree.
-* **Case 3**: k is greater than the key at root - The floor of k is in the right subtree \(if there is any key ≤ k in right subtree\); otherwise it is the key in the root.
+* **Case 2:** `k`is less than the _**key**_ at root - The floor of k is in the left subtree.
+* **Case 3**: k is greater than the key at root - The floor of k is in the right subtree (if there is any key ≤ k in right subtree); otherwise it is the key in the root.
 
 ```java
 public Key floor(Key key)
@@ -255,7 +255,7 @@ private Node floor(Node x, Key key)
 }
 ```
 
-##  Subtree Counts
+## �Subtree Counts
 
 To get the number of the nodes in the tree, we need to add one more attribute in the treeNode definition and while adding the node to the tree, update the size of count
 
@@ -320,7 +320,7 @@ public int rank(Key key, TreeNode x){
 }
 ```
 
-## Traversal 
+## Traversal
 
 ### Inorder Traversal
 
@@ -447,4 +447,3 @@ void BST(TreeNode root, int target) {
         BST(root.left, target);
 }
 ```
-

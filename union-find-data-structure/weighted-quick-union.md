@@ -2,12 +2,12 @@
 
 ## Weighted Quick Union
 
-* Keep track of size of each tree \(number of objects\).
+* Keep track of size of each tree (number of objects).
 * Balance by linking root of smaller tree to root of larger tree.
 
-![Comparison between Quick Union and Weighted Quick Union ](../.gitbook/assets/image%20%283%29.png)
+![Comparison between Quick Union and Weighted Quick Union](<../.gitbook/assets/image (3) (1).png>)
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 **Data structure** Same as quick-union, but maintain extra array `sz[i]` to count number of objects in the tree rooted at `i`.
 
@@ -71,4 +71,3 @@ public class WeightQuickUnionUF
 * **Find**: takes time proportional to depth of `p` and `q`.
 * **Union**: takes constant time, given roots.
 * Depth of any node `x` is at most `log(N)`.
-

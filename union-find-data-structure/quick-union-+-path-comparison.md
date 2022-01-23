@@ -2,13 +2,13 @@
 
 ## Quick Union + path comparison
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](<../.gitbook/assets/image (12) (1).png>)
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](<../.gitbook/assets/image (10) (1).png>)
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](<../.gitbook/assets/image (15) (1).png>)
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](<../.gitbook/assets/image (18) (1).png>)
 
 ### Java Implementation
 
@@ -51,5 +51,4 @@ public class QuickUnionPathComparisonUF
 }
 ```
 
-## 
-
+##

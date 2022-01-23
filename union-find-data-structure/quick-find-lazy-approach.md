@@ -2,19 +2,19 @@
 
 ## Quick Union - Lazy Approach
 
-Integer array `id[]` of length `N`. 
+Integer array `id[]` of length `N`.
 
-**Interpretation**: `id[i]` is parent of `i`. 
+**Interpretation**: `id[i]` is parent of `i`.
 
 Root of `i` is `id[id[id[...id[i]...]]]`.
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](<../.gitbook/assets/image (20) (1).png>)
 
 After`union(3,5)`
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](<../.gitbook/assets/image (1) (1).png>)
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 ### Java Implementation
 
@@ -53,5 +53,4 @@ public class QuickUnionUF
 }
 ```
 
-## 
-
+##
