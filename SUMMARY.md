@@ -55,6 +55,8 @@
 
 * [Introduction](data-structures-and-algorithms/multi-threading.md)
 * [Visibility Problem](concurrency-and-multithreading/visibility-problem.md)
+* [Interview Questions](concurrency-and-multithreading/interview-questions.md)
+* [References](concurrency-and-multithreading/references.md)
 
 ## Preparation Manual
 

@@ -10,9 +10,7 @@ coverY: 0
 * Better IO Utilization
 * Higher application responses
 
-**Issues with Multi-Threading:**
-
-****
+## Issues with Multi-Threading
 
 **Shared Mutable State issues:**
 
@@ -29,17 +27,15 @@ coverY: 0
 
 * Separate State Concurrency
 * Functional Paralleism
-*   Parallel Pipelines
+* Parallel Pipelines
 
+## **Multi-Threading Costs:**
 
+* **More Complex Design** - Code executed by multiple threads accessing shared data need special attention. Thread interaction is far from always simple. Errors arising from incorrect thread synchronization can be very hard to detect, reproduce and fix.
+* **Context Switching Overhead** - When a CPU switches from executing one thread to executing another, the CPU needs to save the local data, program pointer, etc. of the current thread, and load the local data, program pointer, etc. of the next thread to execute. This switch is called a "context switch". The CPU switches from executing in the context of one thread to executing in the context of another.
+* **Increased resource consumption** - Threads needs some memory to maintain its local stack it consumes more resources inside OS. &#x20;
 
-**Multi-Threading Costs:**
-
-****
-
-****
-
-
+## **Appendix:**
 
 | Type                               | Use Case                                                                                                                                                       |
 | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -51,10 +47,4 @@ coverY: 0
 
 
 
-**Reference Links**
-
-[http://tutorials.jenkov.com/java-concurrency/index.html](http://tutorials.jenkov.com/java-concurrency/index.html)[https://www.interviewbit.com/multithreading-interview-questions/\
-https://leetcode.com/problemset/concurrency/\
-https://www.educative.io/courses/java-multithreading-for-senior-engineering-interviews\
-https://www.youtube.com/c/DefogTech\
-https://www.cs.bham.ac.uk/\~szh/teaching/ssc/lecturenotes/Concurrency/Tutorial\_Week9.pdf](https://www.interviewbit.com/multithreading-interview-questions/https://leetcode.com/problemset/concurrency/https://www.educative.io/courses/java-multithreading-for-senior-engineering-interviewshttps://www.youtube.com/c/DefogTechhttps://www.cs.bham.ac.uk/\~szh/teaching/ssc/lecturenotes/Concurrency/Tutorial\_Week9.pdf)
+****
