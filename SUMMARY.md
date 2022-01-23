@@ -50,7 +50,12 @@
 * [Convex Hull](convex-hull.md)
 * [Binary Heaps and Priority Queue](binary-heaps-and-priority-queue.md)
 * [Hash Table vs Binary Search Trees](hash-table-vs-binary-search-trees.md)
+
+## Concurrency and Multithreading <a href="#concurrency-and-multithreading" id="concurrency-and-multithreading"></a>
+
 * [🖥 Multi Threading](data-structures-and-algorithms/multi-threading.md)
+
+
 
 ## Preparation Manual
 
