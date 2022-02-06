@@ -58,6 +58,12 @@
 * [Interview Questions](concurrency-and-multithreading/interview-questions.md)
 * [References](concurrency-and-multithreading/references.md)
 
+## Design Patterns
+
+* [Introduction](design-patterns/introduction.md)
+
+
+
 ## Preparation Manual
 
 * [Disclaimer](preparation-manual/disclaimer.md)
