@@ -12,7 +12,7 @@
 
 * **Behavioral** Design Pattern
 
-{% content-ref url="behavioral-design-pattern/strategy-design-pattern.md" %}
-[strategy-design-pattern.md](behavioral-design-pattern/strategy-design-pattern.md)
+{% content-ref url="strategy-design-pattern.md" %}
+[strategy-design-pattern.md](strategy-design-pattern.md)
 {% endcontent-ref %}
 

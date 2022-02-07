@@ -30,8 +30,8 @@ description: lets the algorithm vary independently from clients that use it
 
 ## Code:
 
-
+{% embed url="https://gist.github.com/SunilGudivada/7afe42412dfec5cc64cbc567ef3470c7" %}
 
 ## References:
 
-[https://www.newthinktank.com/2012/08/strategy-design-pattern-tutorial/](https://www.newthinktank.com/2012/08/strategy-design-pattern-tutorial/) [https://refactoring.guru/design-patterns/strategy](https://refactoring.guru/design-patterns/strategy)
+[https://www.newthinktank.com/2012/08/strategy-design-pattern-tutorial/](https://www.newthinktank.com/2012/08/strategy-design-pattern-tutorial/) [https://refactoring.guru/design-patterns/strategy](https://refactoring.guru/design-patterns/strategy)[https://sourcemaking.com/design\_patterns/strategy](https://sourcemaking.com/design\_patterns/strategy)
