@@ -17,14 +17,20 @@ description: lets the algorithm vary independently from clients that use it
 * :thumbsup: Reduce duplicate code
 * :thumbsup: Keeps class changes from forcing other class changes
 * :thumbsup: can hide complicated/secret code from the user
+* :thumbsup:You can replace inheritance with composition.
 
 
 
 * :thumbsdown: Increased number of objects and classes
+* :thumbsdown:A lot of modern programming languages have functional-type support that lets you implement different versions of an algorithm inside a set of anonymous functions. Then you could use these functions exactly as you’d have used the strategy objects, but without bloating your code with extra classes and interfaces.
 
 \----
 
 > The [Strategy](https://refactoring.guru/design-patterns/strategy) pattern can be implemented with a simple anonymous (lambda) function in most modern programming languages.
+
+## Code:
+
+
 
 ## References:
 
