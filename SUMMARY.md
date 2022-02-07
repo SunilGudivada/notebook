@@ -60,9 +60,10 @@
 
 ## Design Patterns
 
-* [Introduction](design-patterns/introduction.md)
-
-
+* [ℹ Introduction](design-patterns/introduction.md)
+* [🏗 Classification of patterns](design-patterns/classification-of-patterns.md)
+* [Strategy Design Pattern](design-patterns/strategy-design-pattern.md)
+* [Java Pass by Value or Pass by Reference](design-patterns/java-pass-by-value-or-pass-by-reference.md)
 
 ## Preparation Manual
 
