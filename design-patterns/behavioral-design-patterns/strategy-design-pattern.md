@@ -34,4 +34,6 @@ description: lets the algorithm vary independently from clients that use it
 
 ## References:
 
-[https://www.newthinktank.com/2012/08/strategy-design-pattern-tutorial/](https://www.newthinktank.com/2012/08/strategy-design-pattern-tutorial/) [https://refactoring.guru/design-patterns/strategy](https://refactoring.guru/design-patterns/strategy)[https://sourcemaking.com/design\_patterns/strategy](https://sourcemaking.com/design\_patterns/strategy)
+* [https://www.newthinktank.com/2012/08/strategy-design-pattern-tutorial/](https://www.newthinktank.com/2012/08/strategy-design-pattern-tutorial/)&#x20;
+* [https://refactoring.guru/design-patterns/strategy](https://refactoring.guru/design-patterns/strategy)
+* [https://sourcemaking.com/design\_patterns/strategy](https://sourcemaking.com/design\_patterns/strategy)
