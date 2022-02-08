@@ -64,6 +64,7 @@
 * [🏗 Classification of patterns](design-patterns/classification-of-patterns.md)
 * [Behavioral Design Pattern](design-patterns/behavioral-design-pattern/README.md)
   * [Strategy Design Pattern](design-patterns/strategy-design-pattern.md)
+  * [Observer Design Pattern](design-patterns/behavioral-design-pattern/observer-design-pattern.md)
 * [Java Pass by Value or Pass by Reference](design-patterns/java-pass-by-value-or-pass-by-reference.md)
 
 ## Preparation Manual
