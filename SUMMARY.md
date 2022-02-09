@@ -85,7 +85,7 @@
   * [Adapter Design Pattern](design-patterns/structural-design-patterns/adapter-design-pattern.md)
   * [Bridge Design Pattern](design-patterns/structural-design-patterns/bridge-design-pattern.md)
   * [Composite Design Pattern](design-patterns/structural-design-patterns/composite-design-pattern.md)
-  * [Decorator Design Pattern](design-patterns/structural-design-patterns/composite-design-pattern.md)
+  * [Decorator Design Pattern](design-patterns/structural-design-patterns/decorator-design-pattern.md)
   * [Facade Design Pattern](design-patterns/structural-design-patterns/facade-design-pattern.md)
   * [Flyweight Design Pattern](design-patterns/structural-design-patterns/flyweight-design-pattern.md)
   * [Private Class Data Design Pattern](design-patterns/structural-design-patterns/private-class-data-design-pattern.md)
