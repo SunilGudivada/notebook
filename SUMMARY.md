@@ -63,8 +63,10 @@
 * [ℹ Introduction](design-patterns/introduction.md)
 * [🏗 Classification of patterns](design-patterns/classification-of-patterns.md)
 * [Behavioral Design Patterns](design-patterns/behavioral-design-patterns/README.md)
+  * [Chain Of Responsibility](design-patterns/behavioral-design-patterns/chain-of-responsibility.md)
   * [Strategy Design Pattern](design-patterns/behavioral-design-patterns/strategy-design-pattern.md)
   * [Observer Design Pattern](design-patterns/behavioral-design-patterns/observer-design-pattern.md)
+  * [Command Design Pattern](design-patterns/behavioral-design-patterns/command-design-pattern.md)
 * [Java Pass by Value or Pass by Reference](design-patterns/java-pass-by-value-or-pass-by-reference.md)
 
 ## Preparation Manual
