@@ -90,12 +90,12 @@
   * [Flyweight Design Pattern](design-patterns/structural-design-patterns/flyweight-design-pattern.md)
   * [Private Class Data Design Pattern](design-patterns/structural-design-patterns/private-class-data-design-pattern.md)
   * [Proxy Design Pattern](design-patterns/structural-design-patterns/proxy-design-pattern.md)
-
 * [Java Pass by Value or Pass by Reference](design-patterns/java-pass-by-value-or-pass-by-reference.md)
 
 ## Designing Data-Intensive Applications - O'Reilly
 
 * [Read Me](designing-data-intensive-applications/README.md)
+* [1. Reliable, Scalable, and Maintainable Applications](designing-data-intensive-applications-oreilly/1.-reliable-scalable-and-maintainable-applications.md)
 
 ## Preparation Manual
 
