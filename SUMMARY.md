@@ -93,6 +93,8 @@
 
 * [Java Pass by Value or Pass by Reference](design-patterns/java-pass-by-value-or-pass-by-reference.md)
 
+## Designing Data-Intensive Applications - O'Reilly
+
 ## Preparation Manual
 
 * [Disclaimer](preparation-manual/disclaimer.md)
