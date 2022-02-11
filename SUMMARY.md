@@ -94,7 +94,7 @@
 
 ## Designing Data-Intensive Applications - O'Reilly
 
-* [Read Me](designing-data-intensive-applications/README.md)
+* [Read Me](designing-data-intensive-applications-oreilly/README.md)
 * [1. Reliable, Scalable, and Maintainable Applications](designing-data-intensive-applications-oreilly/1.-reliable-scalable-and-maintainable-applications.md)
 
 ## Preparation Manual
