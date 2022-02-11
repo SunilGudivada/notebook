@@ -95,6 +95,8 @@
 
 ## Designing Data-Intensive Applications - O'Reilly
 
+* [Read Me](designing-data-intensive-applications/README.md)
+
 ## Preparation Manual
 
 * [Disclaimer](preparation-manual/disclaimer.md)
