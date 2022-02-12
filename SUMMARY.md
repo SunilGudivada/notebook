@@ -61,15 +61,15 @@
 ## Design Patterns
 
 * [ℹ Introduction](design-patterns/introduction.md)
-* [🏗 Classification of patterns](design-patterns/classification-of-patterns.md)
-* [Creational Design Patterns](design-patterns/creational-design-patterns/README.md)
+* [💠 Classification of patterns](design-patterns/classification-of-patterns.md)
+* [1⃣ Creational Design Patterns](design-patterns/creational-design-patterns/README.md)
   * [Abstract Factory Design Pattern](design-patterns/creational-design-patterns/abstract-factory-design-pattern.md)
   * [Builder Design Pattern](design-patterns/creational-design-patterns/builder-design-pattern.md)
   * [Factory Method Design Pattern](design-patterns/creational-design-patterns/factory-method-design-pattern.md)
   * [Object Pool Design Pattern](design-patterns/creational-design-patterns/object-pool-design-pattern.md)
   * [Prototype Design Pattern](design-patterns/creational-design-patterns/prototype-design-pattern.md)
   * [Singleton Design Pattern](design-patterns/creational-design-patterns/singleton-design-pattern.md)
-* [Behavioral Design Patterns](design-patterns/behavioral-design-patterns/README.md)
+* [2⃣ Behavioral Design Patterns](design-patterns/behavioral-design-patterns/README.md)
   * [Chain Of Responsibility](design-patterns/behavioral-design-patterns/chain-of-responsibility.md)
   * [Command Design Pattern](design-patterns/behavioral-design-patterns/command-design-pattern.md)
   * [Interpreter Design Pattern](design-patterns/behavioral-design-patterns/interpreter-design-pattern.md)
@@ -81,7 +81,7 @@
   * [State Design Pattern](design-patterns/behavioral-design-patterns/State-design-pattern.md)
   * [Strategy Design Pattern](design-patterns/behavioral-design-patterns/strategy-design-pattern.md)
   * [Template Design Pattern](design-patterns/behavioral-design-patterns/Template-design-pattern.md)
-* [Structural Design Patterns](design-patterns/structural-design-patterns/README.md)
+* [3⃣ Structural Design Patterns](design-patterns/structural-design-patterns/README.md)
   * [Adapter Design Pattern](design-patterns/structural-design-patterns/adapter-design-pattern.md)
   * [Bridge Design Pattern](design-patterns/structural-design-patterns/bridge-design-pattern.md)
   * [Composite Design Pattern](design-patterns/structural-design-patterns/composite-design-pattern.md)
@@ -95,7 +95,7 @@
 ## Designing Data-Intensive Applications - O'Reilly
 
 * [Read Me](designing-data-intensive-applications-oreilly/README.md)
-* [1. Reliable, Scalable, and Maintainable Applications](designing-data-intensive-applications-oreilly/1.-reliable-scalable-and-maintainable-applications.md)
+* [1⃣ Reliable, Scalable, and Maintainable Applications](designing-data-intensive-applications-oreilly/1.-reliable-scalable-and-maintainable-applications.md)
 
 ## Preparation Manual
 
