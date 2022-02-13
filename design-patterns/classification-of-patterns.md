@@ -1,4 +1,4 @@
-# 🏗 Classification of patterns
+# 💠 Classification of patterns
 
 &#x20;All patterns can be categorized by their _intent_ or purpose.
 
