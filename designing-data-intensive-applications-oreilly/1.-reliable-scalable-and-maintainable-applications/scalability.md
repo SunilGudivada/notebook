@@ -65,3 +65,6 @@ For Both questions, we require performance numbers. In Online systems, What is u
 &#x20;**Latency and response time**_:_ These two words are often used as synonyms, but they are not the same. Response time is what the client sees: besides the actual time to process a request(_service time),_ it includes network delays and queuing delays. Latency is the duration that a request is waiting to be handled - during which it is _latent,_ awaiting service.
 {% endhint %}
 
+**Percentiles**
+
+**Approaches coping with load**
