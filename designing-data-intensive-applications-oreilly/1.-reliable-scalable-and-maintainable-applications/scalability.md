@@ -65,6 +65,28 @@ For Both questions, we require performance numbers. In Online systems, What is u
 &#x20;**Latency and response time**_:_ These two words are often used as synonyms, but they are not the same. Response time is what the client sees: besides the actual time to process a request(_service time),_ it includes network delays and queuing delays. Latency is the duration that a request is waiting to be handled - during which it is _latent,_ awaiting service.
 {% endhint %}
 
-**Percentiles**
+Response time can vary a lot, therefore it's important to think of response time not as a single value, but as a distribution of values. Even in a scenario where you'd think all requests should take the same time, you get variation: random additional latency could be introduced by a context switch on the background process, loss of a network packet and TCP retransmission, a garbage collection pause, etc.
 
-**Approaches coping with load**
+The Average Response time of a service is often reported but it is not a very good metric if you want to know your "typical" response time, because it doesn't tell you how many users actually experienced that delay. A better approach is to use _percentiles._
+
+### **Percentiles**
+
+Median is a good metric to know how long users are typically waiting for the response. If half of the requests are served less than the median and another half in more than the median response time then it is called _50th Percentile_.&#x20;
+
+{% hint style="danger" %}
+&#x20;Median refers to the single request. If the user makes several requests, the probability that at least one of them is slower than the median is much greater than 50%
+{% endhint %}
+
+High percentiles of responses are also known as _tail latencies._ These percentiles directly affect the customers. Cloud services like google, amazon have very high latencies around _99.9th percentile_ which means 1 in 1000 requests are getting affected. on the other hand, optimizing the 99.99th percentile ( 1 in 10,000 requests )was deemed too expensive and do not yield enough benefit for their purposes. Reducing response times at very high percentiles is difficult because they are easily affected by random events outside of your control, and the benefits are diminishing.
+
+<mark style="color:purple;background-color:purple;">Percentiles are often used in SLOs (Service Level Objectives) and SLAs (Service Level Agreements). They set the expectations of a user, and a refund may be demanded if the expectation is not met.</mark>
+
+The Server sometimes processes only a limited number of requests based on the CPU cores. And it takes only a small number of slow requests to hold up the processing of subsequent requests sometimes it is called the _head of line blocking_. Due to this effect, it is important to measure response times on the client side. Basically, requests could be fast individually but one slow request could slow down all the other requests.
+
+It takes just one slow call to make the entire end-user request slow - _Tail latency amplification._
+
+{% hint style="info" %}
+Averaging percentiles is useless, the right way of aggregating response time data is by adding histograms.
+{% endhint %}
+
+### **Approaches coping with load**
