@@ -100,6 +100,9 @@
   * [Scalability](designing-data-intensive-applications-oreilly/1.-reliable-scalable-and-maintainable-applications/scalability.md)
   * [Maintainability](designing-data-intensive-applications-oreilly/1.-reliable-scalable-and-maintainable-applications/maintainability.md)
   * [References](designing-data-intensive-applications-oreilly/1.-reliable-scalable-and-maintainable-applications/references.md)
+* [2⃣ Data Models and Query Languages](designing-data-intensive-applications-oreilly/data-models-and-query-languages/README.md)
+  * [Read me](designing-data-intensive-applications-oreilly/data-models-and-query-languages/read-me.md)
+  * [References](designing-data-intensive-applications-oreilly/data-models-and-query-languages/references.md)
 
 ## Preparation Manual
 
