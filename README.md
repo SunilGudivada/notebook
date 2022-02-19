@@ -64,12 +64,18 @@ description: This is Sunil Gudivada reference documentation notebook.
 [algorithms-and-coding.md](preparation-manual/algorithms-and-coding.md)
 {% endcontent-ref %}
 
+## :link: Low-Level Design Resources
+
+* [https://github.com/prasadgujar/low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer)
+* Head First Design pattern -- [**Click here to but in Amazon**](https://www.amazon.in/gp/product/0596007124/)****
+
 ## :link: **System Design Resources**
 
 * [Alex XU](System%20Design/Alex%20xu%20-%20System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Yu%20\(z-lib.org\).pdf) -- [**Click here to buy in Amazon**](https://www.amazon.in/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/)&#x20;
 * [DDIA](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/tree/master/System%20Design/DDIA) ( Designing Data-Intensive Applications ) **--** [**Click here to Buy in Amazon**](https://www.amazon.in/gp/product/9352135245/ref=ppx\_yo\_dt\_b\_asin\_title\_o00\_s00?ie=UTF8\&psc=1)****
 * [Gaurav sen Youtube videos](https://www.youtube.com/c/GauravSensei)
 * [Algo Expert](https://algoexpert.io)
+* [https://sre.google/workbook/non-abstract-design/](https://sre.google/workbook/non-abstract-design/)
 
 ## :link: Telegram channels
 
