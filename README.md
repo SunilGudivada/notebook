@@ -6,7 +6,7 @@ description: This is Sunil Gudivada reference documentation notebook.
 
 [![GitHub issues](https://img.shields.io/github/issues/SunilGudivada/Data-Structures-and-Algorithms.svg)![GitHub followers](https://img.shields.io/github/followers/SunilGudivada.svg?style=social\&label=Follow\&maxAge=2592000)](https://github.com/sunilGudivada?tab=followers) [![GitHub forks](https://img.shields.io/github/forks/SunilGudivada/Data-Structures-and-Algorithms.svg?style=social\&label=Fork\&maxAge=2592000)](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/network/) [![GitHub stars](https://img.shields.io/github/stars/SunilGudivada/Data-Structures-and-Algorithms.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/stargazers/)
 
-## **Important links for preparation:**
+## **Important links for preparation**
 
 * [https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode](https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode)
 * [https://github.com/black-shadows/Cheat-Sheets](https://github.com/black-shadows/Cheat-Sheets)
@@ -22,11 +22,11 @@ description: This is Sunil Gudivada reference documentation notebook.
 * [https://www.notion.so/BE-Interview-8adc74cf14ad450fab3083e0633d2821#7b7c9b724012423f9572ef0787536c6e](https://www.notion.so/BE-Interview-8adc74cf14ad450fab3083e0633d2821#7b7c9b724012423f9572ef0787536c6e)
 * [https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide](https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide)
 
-## **Resume Templates:**&#x20;
+## **Resume Templates**
 
 ****[https://github.com/darhonbek/resume\_templates](https://github.com/darhonbek/resume\_templates)
 
-## :link: **Coding Practise:**
+## :link: **Coding Practise**
 
 ****:tv: **Youtubers:**
 
@@ -64,14 +64,14 @@ description: This is Sunil Gudivada reference documentation notebook.
 [algorithms-and-coding.md](preparation-manual/algorithms-and-coding.md)
 {% endcontent-ref %}
 
-## :link: **System Design Resources:**
+## :link: **System Design Resources**
 
 * [Alex XU](System%20Design/Alex%20xu%20-%20System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Yu%20\(z-lib.org\).pdf) -- [**Click here to buy in Amazon**](https://www.amazon.in/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/)&#x20;
 * [DDIA](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/tree/master/System%20Design/DDIA) ( Designing Data-Intensive Applications ) **--** [**Click here to Buy in Amazon**](https://www.amazon.in/gp/product/9352135245/ref=ppx\_yo\_dt\_b\_asin\_title\_o00\_s00?ie=UTF8\&psc=1)****
 * [Gaurav sen Youtube videos](https://www.youtube.com/c/GauravSensei)
 * [Algo Expert](https://algoexpert.io)
 
-## :link: Telegram channels:
+## :link: Telegram channels
 
 **Raj Vikramaditya Striver**: [https://t.me/takeuforwardfam](https://t.me/takeuforwardfam) and [https://t.me/Competitive\_Programming\_tuf](https://t.me/Competitive\_Programming\_tuf)
 
@@ -89,7 +89,7 @@ description: This is Sunil Gudivada reference documentation notebook.
 
 
 
-## :link: Discord channels:
+## :link: Discord channels
 
 **Scalar Academy**: [https://discord.gg/YyEtt2Wryc](https://discord.gg/YyEtt2Wryc)
 
