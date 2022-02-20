@@ -103,6 +103,7 @@
 * [2⃣ Data Models and Query Languages](designing-data-intensive-applications-oreilly/data-models-and-query-languages/README.md)
   * [Read me](designing-data-intensive-applications-oreilly/data-models-and-query-languages/read-me.md)
   * [References](designing-data-intensive-applications-oreilly/data-models-and-query-languages/references.md)
+* [Miscellaneous](designing-data-intensive-applications-oreilly/miscellaneous.md)
 
 ## Preparation Manual
 
