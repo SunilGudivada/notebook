@@ -9,6 +9,10 @@ description: lets the algorithm vary independently from clients that use it
 * When you want to define a class that will have one behavior that is similar to other behavior in the list.&#x20;
 * When you need to use one of the several behaviors dynamically
 
+{% hint style="success" %}
+Identify the aspects of your application that vary and separate them from what stays the same.
+{% endhint %}
+
 ## Pros ( :thumbsup:) & Cons ( :thumbsdown:):
 
 
