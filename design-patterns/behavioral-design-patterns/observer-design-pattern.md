@@ -6,6 +6,14 @@ description: >-
 
 # Observer Design Pattern
 
+In this pattern, we call the publisher the **SUBJECT** and the subscribers the **OBSERVER**
+
+{% hint style="success" %}
+**Strive for loosely coupled designs between objects that interact**
+{% endhint %}
+
+Loosely couples designs allow us to build a flexible OO system that can handle change because they minimize the interdependency between objects.
+
 ## When to Use?
 
 When you need many other objects to receive the update when another object changes
@@ -15,6 +23,8 @@ When you need many other objects to receive the update when another object chang
 :thumbsup: Loose coupling - Subject ( Publisher ) doesn't need to know about the Observer ( Subscriber ).
 
 :thumbsup: You can establish relations between objects at runtime.
+
+:thumbsup: Changes to either the subject or an observer will not affect the other.
 
 
 
