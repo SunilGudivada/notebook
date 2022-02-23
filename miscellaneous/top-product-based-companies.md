@@ -22,7 +22,6 @@
 | <mark style="color:purple;">**Cloud**</mark>                                                                | <mark style="color:purple;">**Colaboration tools**</mark>                       |
 | OCI                                                                                                         | Atlassian                                                                       |
 |                                                                                                             |                                                                                 |
-|                                                                                                             |                                                                                 |
 | <mark style="color:purple;">**Communication**</mark>                                                        | <mark style="color:purple;">**E commerce**</mark>                               |
 | Twilio                                                                                                      | Walmart                                                                         |
 | Twitter                                                                                                     | Tesco                                                                           |
@@ -49,7 +48,6 @@
 |                                                                                                             |                                                                                 |
 | <mark style="color:purple;">**Sports**</mark>                                                               |                                                                                 |
 | Nike                                                                                                        |                                                                                 |
-|                                                                                                             |                                                                                 |
 |                                                                                                             |                                                                                 |
 | <mark style="color:orange;">**FinTech companies with great Pay and Amazing work (12)**</mark>               |                                                                                 |
 |                                                                                                             |                                                                                 |
@@ -86,7 +84,6 @@
 | <mark style="color:green;">**Food delivery**</mark>                                                         | <mark style="color:green;">**Logistics**</mark>                                 |
 | Swiggy                                                                                                      | Rivigo                                                                          |
 | Zomato                                                                                                      | Delhivery                                                                       |
-|                                                                                                             |                                                                                 |
 |                                                                                                             |                                                                                 |
 | <mark style="color:green;">**Ride Sharing**</mark>                                                          | <mark style="color:green;">**Others**</mark>                                    |
 | Ola                                                                                                         | Freshworks                                                                      |
