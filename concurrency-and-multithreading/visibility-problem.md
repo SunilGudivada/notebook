@@ -2,7 +2,7 @@
 
 Suppose there are two threads having shared variables.
 
-&#x20;![](<../.gitbook/assets/image (109).png>)
+&#x20;![](<../.gitbook/assets/image (109) (1).png>)
 
 &#x20;
 

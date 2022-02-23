@@ -34,7 +34,7 @@ To prove this, what we need to argue is simply that there is at least one set of
 
 ![Array Sorting algorithms](<../.gitbook/assets/image (5) (1).png>)
 
-![BIG-0 Cheat sheet](<../.gitbook/assets/image (109) (1).png>)
+![BIG-0 Cheat sheet](<../.gitbook/assets/image (109) (1) (1).png>)
 
 ## Reference
 
