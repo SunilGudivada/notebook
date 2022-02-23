@@ -116,6 +116,11 @@
 * [Programming Language and Fundementals](preparation-manual/programming-language-and-fundementals.md)
 * [Best Practices and Experience](preparation-manual/best-practices-and-experience.md)
 
+## Miscellaneous
+
+* [My Preparation for Tech Giants](miscellaneous/my-preparation-for-tech-giants.md)
+* [Top Product Based Companies](miscellaneous/top-product-based-companies.md)
+
 ## Links
 
 * [Github](https://github.com/SunilGudivada/Data-Structures-and-Algorithms)
