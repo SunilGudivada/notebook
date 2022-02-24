@@ -2,17 +2,19 @@
 
 After four months of strong preparation finally cleared **Microsoft.**
 
-**October'21:** I started my preparation from October Mid Week. I revised my basics in a week or two. During this time I solved tiny problems from [codingbat.com](http://codingbat.com) to buckle up my basic java questions.
+**October'21:** I started my preparation from October Mid Week. I revised my basics in a week or two. During this time I solved tiny problems from [codingbat.com](http://codingbat.com) and hacker rank to buckle up my basic java questions.
 
 \
-**November'21:** After two weeks, I started with leetcode questions. I was able to solve 2 medium questions a day. At this point, I realized if I continue at this pace, I cannot solve more problems. I increased my pace to 4-6 questions in a day anyhow topic-wise ( Hard Deadline ).  I marked my calendar to complete the questions from this topic (Try to solve top questions). I reached the end of November. At this stage, I was able to figure out what kind of data structures should I use for a particular problem. At this stage, I have covered the top approaches used to solve the problems and they ask most in the interviews. Then I took leetcode premium and algorithms, system expert premium. and solved 8-10 questions a day.
+**November'21:** After two weeks, I started with leetcode questions. I was able to solve 2 medium questions a day. At this point, I realized if I continue at this pace, I cannot solve more problems. I increased my pace to 4-6 questions in a day anyhow topic-wise ( Hard Deadline ).  I marked my calendar to complete the questions from this topic (Try to solve top questions). I reached the end of November. At this stage, I was able to figure out what kind of data structures should I use for a particular problem. At this stage, I have covered the top approaches used to solve the problems and they ask most in the interviews. Then I took leetcode premium and algo expert, system expert premium. and solved 8-10 questions a day.
 
 _**Google:**_
 
-_In the last week of November, I received a call from **Google** for Backend Engineer. Requested HR for one month Preparation. She gave the preparation. I was unable to clear all the rounds._
+_In the last week of November, I received a call from **Google** for Backend Engineer. Requested HR for one month Preparation. She gave me time for preparation but I was unable to clear all the rounds._
 
 \
 **December'21:** By the third week of December I was able to solve 80 questions from Algoexpert. I solved easy medium and a few hard problems. There are advanced questions also in that. They have questions segregated by topic-wise, level. Each and every question, I used to solve the problem in two or three approaches. Make a note of all these in an excel sheet. By the End of the week, I used to recap all the questions I have solved till that week. I started with mock interviews in the last week of December.
+
+![Study sheet](<../.gitbook/assets/image (115).png>)
 
 **Amazon:**
 
@@ -33,7 +35,7 @@ __
 
 **Microsoft:**
 
-_In the first week of January, I received the schedule for the Interviews. At this stage, I was not having a lot of confidence in the interviews. Since I have already been rejected by Big Tech giants. All the rounds happened on the same day._&#x20;
+_In the first week of January, I received the schedule for the Microsoft Interviews. At this stage, I was not having a lot of confidence in the interviews. Since I have already been rejected by Big Tech giants. All the rounds happened on the same day._&#x20;
 
 _**D-Day:**_&#x20;
 
@@ -51,8 +53,7 @@ _For 10 - 15 min, There was a deep-down project discussion,_
 * _What changes you have done as part of performance optimization?_
 
 _Next, he jumped on to the Problem statement._ \
-_Build high scalable, low latency, highly available systems like Amazon or Flipkart, or dunzo Initially, the interviewer asked me to list down the important features then moved to the high-level part. The Interviewer expected me to move from MVP, Staging system requirements, Production requirements._
-
+_Build high scalable, low latency, highly available systems like Amazon or Flipkart, or dunzo Initially, the interviewer asked me to list down the important features then moved to the high-level part. The Interviewer expected me to move from MVP, Staging system requirements, Production requirements._\
 __\
 _**Follow up questions:**_
 
@@ -83,12 +84,12 @@ __
 
 ![Consitency in leetcode for two months](<../.gitbook/assets/WhatsApp Image 2022-02-23 at 11.45.29 AM.jpeg>)
 
-**Daily Strategy: Mon - Fri: ( 3- 5 Hrs per day )** Solved at least 2 or 3 problems before starting your working hours (Mostly Leetcode daily challenge, GFG Problem of the day). During working hours I subscribed to email communications from DailyByte, AlgoDaily, Daily Coding Problem from JAN 2020. I just used to see the problems and think about approaches but didn't code to the questions. At the end of the week, I used to solve the questions.
+**Daily Strategy: Mon - Fri: ( 3- 5 Hrs per day )** Solved at least 2 or 3 problems before starting your working hours (Mostly Leetcode daily challenge, GFG Problem of the day). During working hours I subscribed to email communications from **DailyByte, AlgoDaily, Daily Coding Problem** from J**AN 2020**. I just used to see the problems and think about approaches but didn't code to the questions. At the end of the week, I used to solve the questions.
 
 \
-**Sat-Sun: ( 10 -12 Hrs per day)** Spent one hour in the contest and then Rewise at least one topic, see different approaches one problem can be asked for and revise the excel sheet I have created. Solve the problems from DailyByte, AlgoDaily, Daily Coding Problem email communications. Solve at least two to three interview experiences from FAANG.
+**Sat-Sun: ( 10 -12 Hrs per day)** Spent one hour in the contest and then revise at least one topic, see different approaches one problem can be asked for and revise the excel sheet I have created. Solve the problems from **DailyByte, AlgoDaily, Daily Coding Problem email communications**. Solve at least two to three interview experiences from FAANG.
 
-![Consitency in Geeks For Geeks for three Months](<../.gitbook/assets/image (115).png>)
+![Consitency in Geeks For Geeks for three Months](<../.gitbook/assets/image (115) (1).png>)
 
 **Resources:**
 
