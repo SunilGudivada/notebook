@@ -13,9 +13,7 @@ description: lets the algorithm vary independently from clients that use it
 Identify the aspects of your application that vary and separate them from what stays the same.
 {% endhint %}
 
-## Pros ( :thumbsup:) & Cons ( :thumbsdown:):
-
-
+## Pros ( :thumbsup:) & Cons ( :thumbsdown:)
 
 * :thumbsup: Often reduces the long list of conditionals
 * :thumbsup: Reduce duplicate code
@@ -32,11 +30,13 @@ Identify the aspects of your application that vary and separate them from what s
 
 > The [Strategy](https://refactoring.guru/design-patterns/strategy) pattern can be implemented with a simple anonymous (lambda) function in most modern programming languages.
 
-## Code:
+## Code
 
 {% embed url="https://gist.github.com/SunilGudivada/7afe42412dfec5cc64cbc567ef3470c7" %}
+Strategy Design Pattern
+{% endembed %}
 
-## References:
+## References
 
 * [https://www.newthinktank.com/2012/08/strategy-design-pattern-tutorial/](https://www.newthinktank.com/2012/08/strategy-design-pattern-tutorial/)&#x20;
 * [https://refactoring.guru/design-patterns/strategy](https://refactoring.guru/design-patterns/strategy)
