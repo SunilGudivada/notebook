@@ -31,7 +31,8 @@ description: This is Sunil Gudivada reference documentation notebook.
 
 ****:tv: **Youtubers:**
 
-* [Tushar Roy- Coding Made Simple](https://www.youtube.com/user/tusharroy2525)
+* [Coding Decoded](./#important-links-for-preparation)
+* [Tushar Roy- Coding Made Simpl](https://www.youtube.com/user/tusharroy2525)e
 * [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 * [Love Babbar](https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw)
 * [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
