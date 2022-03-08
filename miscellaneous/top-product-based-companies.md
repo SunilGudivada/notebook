@@ -104,3 +104,6 @@
 |                                                                  |                                                       |
 | <mark style="color:blue;">**Logistics**</mark>                   |                                                       |
 | Turvo Inc.                                                       |                                                       |
+
+**Found this sheet while i was preparing for interviews:** [https://docs.google.com/spreadsheets/d/15rjcHqjDN7gPU5e6nxb\_9NdApRf4TW1I/edit#gid=1114613385](https://docs.google.com/spreadsheets/d/15rjcHqjDN7gPU5e6nxb\_9NdApRf4TW1I/edit#gid=1114613385)
+
