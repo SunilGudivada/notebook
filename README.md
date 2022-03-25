@@ -22,6 +22,7 @@ description: This is Sunil Gudivada reference documentation notebook.
 * [https://www.principle.cards/](https://www.principle.cards)
 * [https://www.notion.so/BE-Interview-8adc74cf14ad450fab3083e0633d2821#7b7c9b724012423f9572ef0787536c6e](https://www.notion.so/BE-Interview-8adc74cf14ad450fab3083e0633d2821#7b7c9b724012423f9572ef0787536c6e)
 * [https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide](https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide)
+* **Dynamic Programming:** [https://www.linkedin.com/posts/aishwarya-mahapatra\_prepwithaish-activity-6912253243892924416-avO](https://www.linkedin.com/posts/aishwarya-mahapatra\_prepwithaish-activity-6912253243892924416-avOg)
 
 ## **Resume Templates**
 
