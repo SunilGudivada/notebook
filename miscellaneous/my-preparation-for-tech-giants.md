@@ -28,7 +28,7 @@ _Codility platform has normal test cases, Hidden test cases, Performance test ca
 
 __
 
-![My December'21 calendar](<../.gitbook/assets/image (116).png>)
+![My December'21 calendar](<../.gitbook/assets/image (116) (1).png>)
 
 \
 **January'22:** I revised all the topic-wise notes from the excel sheet and start thinking of new approaches to the problems. and started giving mock interviews. I gave 1 or 2 mock interviews a day to keep my confidence.
@@ -82,9 +82,9 @@ _In just 3 min after completing this round, I received the call from HR, '**Cong
 _In the third week of January, received the interview request for Github (SDE III ), was able to clear the two rounds. Got rejected in the final round._\
 __
 
-![Consitency in leetcode for two months](<../.gitbook/assets/WhatsApp Image 2022-02-23 at 11.45.29 AM.jpeg>)
-
 **Daily Strategy: Mon - Fri: ( 3- 5 Hrs per day )** Solved at least 2 or 3 problems before starting your working hours (Mostly Leetcode daily challenge, GFG Problem of the day). During working hours I subscribed to email communications from **DailyByte, AlgoDaily, Daily Coding Problem** from J**AN 2020**. I just used to see the problems and think about approaches but didn't code to the questions. At the end of the week, I used to solve the questions.
+
+![Consistency ](<../.gitbook/assets/image (116).png>)
 
 \
 **Sat-Sun: ( 10 -12 Hrs per day)** Spent one hour in the contest and then revise at least one topic, see different approaches one problem can be asked for and revise the excel sheet I have created. Solve the problems from **DailyByte, AlgoDaily, Daily Coding Problem email communications**. Solve at least two to three interview experiences from FAANG.
