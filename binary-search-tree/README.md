@@ -51,7 +51,7 @@ Binary Search Tree (BST), is a common type of binary. The tree additionally sati
 
 An example corresponding to the definition is shown as:
 
-![Valid BST](<../.gitbook/assets/image (28) (1).png>)
+![Valid BST](<../.gitbook/assets/image (26).png>)
 
 Next, we will realize basic operations with BST, including compliance checking of BST, addition, deletion, and search. The process of deletion and compliance checking may be slightly more complicated.
 
@@ -72,7 +72,7 @@ boolean isValidBST(TreeNode root) {
 
 But such algorithm is an error. Because the key in each node must be greater than or equal to any key stored in the left sub-tree, and less than or equal to any key stored in the right sub-tree. For example, the following binary tree is not a BST, but our algorithm will make the wrong decision.
 
-![Invalid BST](<../.gitbook/assets/image (29) (1).png>)
+![Invalid BST](<../.gitbook/assets/image (27).png>)
 
 Don't panic though the algorithm is wrong. Our framework is still correct, and we didn't notice some details information. Let's refresh the definition of BST: The manipulations in root node should not only include the comparison between left and right child, but it also require a comparison of the whole left and right sub-tree. What should do? It is beyond the reach of the root node.
 
@@ -158,7 +158,7 @@ When you find the target, for example, node A. It isn't effortless for us to del
 
 The picture is excerpted from LeetCode
 
-![](<../.gitbook/assets/image (27) (1).png>)
+![](<../.gitbook/assets/image (28).png>)
 
 ```java
 if (root.left == null && root.right == null)
@@ -169,7 +169,7 @@ if (root.left == null && root.right == null)
 
 The picture is excerpted from LeetCode
 
-![](<../.gitbook/assets/image (26) (1).png>)
+![](<../.gitbook/assets/image (30).png>)
 
 ```java
 // After excluding the Situation 1
@@ -181,7 +181,7 @@ if (root.right == null) return root.left;
 
 The picture is excerpted from LeetCode
 
-![](<../.gitbook/assets/image (67) (1).png>)
+![](<../.gitbook/assets/image (29).png>)
 
 ```java
 if (root.left != null && root.right != null) {

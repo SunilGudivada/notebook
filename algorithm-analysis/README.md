@@ -52,40 +52,40 @@ With this in mind, lets take a look at some common growth rates. Keep in mind th
 
 A constant resource need is one where the resource need does not grow. That is processing 1 piece of data takes the same amount of resource as processing 1 million pieces of data. The graph of such a growth rate looks like a horizontal line
 
-![](<../.gitbook/assets/image (31) (1).png>)
+![](<../.gitbook/assets/image (33).png>)
 
 ### Logarithmic
 
 A logrithmic growth rate is a growth rate where the resource needs grows by one unit each time the data is doubled. This effectively means that as the amount of data gets bigger, the curve describing the growth rate gets flatter (closer to horizontal but never reaching it). The following graph shows what a curve of this nature would look like.
 
-![](<../.gitbook/assets/image (47) (1).png>)
+![](<../.gitbook/assets/image (34).png>)
 
 ### Linear
 
 A linear growth rate is a growth rate where the resource needs and the amount of data is directly proportional to each other. That is the growth rate can be described as a straight line that is not horizontal.
 
-![](<../.gitbook/assets/image (59) (1).png>)
+![](<../.gitbook/assets/image (35).png>)
 
 ### Loglinear (Linearithmic)
 
 A loglinear (sometimes called linearithmic) growth rate is a slightly curved line. the curve is more pronounced for lower values than higher ones
 
-![](<../.gitbook/assets/image (44) (1).png>)
+![](<../.gitbook/assets/image (36).png>)
 
 ### Quadratic
 
 A quadratic growth rate is one that can be described by a parabola.
 
-![](<../.gitbook/assets/image (82) (1).png>)
+![](<../.gitbook/assets/image (37).png>)
 
 ### Cubic
 
 While this may look very similar to the quadratic curve, it grows significantly faster
 
-![](<../.gitbook/assets/image (61) (1).png>)
+![](<../.gitbook/assets/image (39).png>)
 
 ### Exponential
 
 An exponential growth rate is one where each extra unit of data requires a doubling of resource. As you can see the growth rate starts off looking like it is flat but quickly shoots up to near vertical (note that it can't actually be vertical)
 
-![](<../.gitbook/assets/image (30) (1).png>)
+![](<../.gitbook/assets/image (38).png>)

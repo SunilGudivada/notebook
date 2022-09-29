@@ -9,7 +9,7 @@
   * **Stack** : Last In First Out - **LIFO**
   * **Queue**: First in First Out - **FIFO**
 
-![STACK, QUEUE  - INSERT , REMOVE OPERATIONS](<../.gitbook/assets/image (19) (1).png>)
+![STACK, QUEUE  - INSERT , REMOVE OPERATIONS](<../.gitbook/assets/image (21).png>)
 
 ## Bag
 

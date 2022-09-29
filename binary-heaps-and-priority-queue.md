@@ -178,7 +178,7 @@ Priority queues are implemented based on binary heap, with the main operations b
 
 Perhaps this is the power of data structure, simple operation can achieve clever functions, really admire the invention of binary heap algorithm people!
 
-![](<.gitbook/assets/image (25) (1).png>)
+![](<.gitbook/assets/image (25).png>)
 
 ## Reference
 

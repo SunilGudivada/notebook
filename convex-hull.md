@@ -1,6 +1,6 @@
 # Convex Hull
 
-![](<.gitbook/assets/image (11) (1).png>)
+![](<.gitbook/assets/image (22).png>)
 
 ```java
 import java.util.*; 

@@ -8,13 +8,13 @@ Integer array `id[]` of length `N`.
 
 Root of `i` is `id[id[id[...id[i]...]]]`.
 
-![](<../.gitbook/assets/image (20) (1).png>)
+![](<../.gitbook/assets/image (8).png>)
 
 After`union(3,5)`
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (7).png>)
 
-![](<../.gitbook/assets/image (7) (1).png>)
+![](<../.gitbook/assets/image (9).png>)
 
 ### Java Implementation
 

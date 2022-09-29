@@ -23,7 +23,7 @@
 
 Graph having two directions from any vertex in a path to another verted.
 
-![Representation of undirected Graph](<../.gitbook/assets/image (104) (1).png>)
+![Representation of undirected Graph](<../.gitbook/assets/image (95).png>)
 
 ## **Adjacency Matrix Representations**
 
@@ -33,7 +33,7 @@ Maintain a two dimensional $$v * v$$ matrix boolean array
 
 for each edge $$v - w$$ in graph: $$adj[v][w] = adj[w][v] = true$$
 
-![Adjacency Matrix representation](<../.gitbook/assets/image (94) (1).png>)
+![Adjacency Matrix representation](<../.gitbook/assets/image (96).png>)
 
 **Note:** Adjacency matrix consumes more space.
 
@@ -48,7 +48,7 @@ for each edge $$v - w$$ in graph: $$adj[v][w] = adj[w][v] = true$$
 
 In this representation , If there is path exists between any two vertices, vertices are added to vertex list.
 
-![](<../.gitbook/assets/image (99) (1).png>)
+![](<../.gitbook/assets/image (97).png>)
 
 ### Java Implementation
 
@@ -94,7 +94,7 @@ To visit a vertex $$v$$ :
 * Mark vertex $$v$$ as visited.
 * Recursively visit all unmarked vertices adjacent to $$v$$.
 
-![](<../.gitbook/assets/image (101) (1).png>)
+![](<../.gitbook/assets/image (98).png>)
 
 ### Java Implementation
 
@@ -155,7 +155,7 @@ Repeat until queue is empty
 * Remove vertex $$v$$ from queue.
 * Add to queue all unmarked vertices adjacent to $$v$$ and mark them.
 
-![](<../.gitbook/assets/image (102) (1).png>)
+![](<../.gitbook/assets/image (99).png>)
 
 ### Java Implementation
 
@@ -191,7 +191,7 @@ public class BreadthFirstPaths
 
 A **connected component** is a maximal set of connected vertices.
 
-![Connected Components](<../.gitbook/assets/image (103) (1).png>)
+![Connected Components](<../.gitbook/assets/image (100).png>)
 
 ### Algorithm
 
@@ -200,7 +200,7 @@ To visit a vertex v :
 * Mark vertex v as visited.
 * Recursively visit all unmarked vertices adjacent to v.
 
-![](<../.gitbook/assets/image (106) (1).png>)
+![](<../.gitbook/assets/image (101).png>)
 
 ### Java Implementation
 
@@ -247,4 +247,4 @@ public class CC {
 
 ## **Undirected Graph Applications**
 
-![](<../.gitbook/assets/image (108) (1).png>)
+![](<../.gitbook/assets/image (93).png>)

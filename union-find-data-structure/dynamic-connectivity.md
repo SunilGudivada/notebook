@@ -7,7 +7,7 @@ Given a set of N objects.
 * **Union command:** connect two objects.
 * **Find/connected query:** is there a path connecting the two objects?
 
-![](<../.gitbook/assets/image (9) (1).png>)
+![](../.gitbook/assets/image.png)
 
 ### Modelling the Connections
 
@@ -19,7 +19,7 @@ We assume "is connected to" is an equivalence relation:
 
 **Connected components:** Maximal set of objects that are mutually connected.
 
-![](<../.gitbook/assets/image (16) (1).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 ### **Implementing Operations**
 
@@ -27,7 +27,7 @@ We assume "is connected to" is an equivalence relation:
 
 **Union command**: Replace components containing two objects with their union.
 
-![](<../.gitbook/assets/image (13) (1).png>)
+![](<../.gitbook/assets/image (3).png>)
 
 ### Union Find Data Type - Java
 

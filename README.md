@@ -19,10 +19,10 @@ description: This is Sunil Gudivada reference documentation notebook.
 * [https://github.com/twowaits/SDE-Interview-Questions](https://github.com/twowaits/SDE-Interview-Questions)
 * [https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md](https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md)
 * [https://www.youtube.com/playlist?list=PLF206E906175C7E07](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
-* [https://www.principle.cards/](https://www.principle.cards)
+* [https://www.principle.cards/](https://www.principle.cards/)
 * [https://www.notion.so/BE-Interview-8adc74cf14ad450fab3083e0633d2821#7b7c9b724012423f9572ef0787536c6e](https://www.notion.so/BE-Interview-8adc74cf14ad450fab3083e0633d2821#7b7c9b724012423f9572ef0787536c6e)
 * [https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide](https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide)
-* **Dynamic Programming:** [https://www.linkedin.com/posts/aishwarya-mahapatra\_prepwithaish-activity-6912253243892924416-avO](https://www.linkedin.com/posts/aishwarya-mahapatra\_prepwithaish-activity-6912253243892924416-avOg)
+* **Dynamic Programming:** [https://www.linkedin.com/posts/aishwarya-mahapatra\_prepwithaish-activity-6912253243892924416-avO](https://www.linkedin.com/posts/aishwarya-mahapatra\_prepwithaish-activity-6912253243892924416-avOg?utm\_source=linkedin\_share\&utm\_medium=member\_desktop\_web)
 
 ## **Resume Templates**
 
@@ -77,7 +77,7 @@ description: This is Sunil Gudivada reference documentation notebook.
 * [Alex XU](System%20Design/Alex%20xu%20-%20System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Yu%20\(z-lib.org\).pdf) -- [**Click here to buy in Amazon**](https://www.amazon.in/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/)&#x20;
 * [DDIA](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/tree/master/System%20Design/DDIA) ( Designing Data-Intensive Applications ) **--** [**Click here to Buy in Amazon**](https://www.amazon.in/gp/product/9352135245/ref=ppx\_yo\_dt\_b\_asin\_title\_o00\_s00?ie=UTF8\&psc=1)****
 * [Gaurav sen Youtube videos](https://www.youtube.com/c/GauravSensei)
-* [Algo Expert](https://algoexpert.io)
+* [Algo Expert](https://algoexpert.io/)
 * [https://sre.google/workbook/non-abstract-design/](https://sre.google/workbook/non-abstract-design/)
 
 ## :link: Telegram channels

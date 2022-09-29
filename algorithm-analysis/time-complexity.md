@@ -30,12 +30,12 @@ Similar to upper bound, a lower bound is not something that only applies to best
 
 To prove this, what we need to argue is simply that there is at least one set of input of size n for which f(n) is the lower bound (at least c\*f(n) steps must be taken to handle that particular input).
 
-![Common Data Structure Operations](<../.gitbook/assets/image (21) (1).png>)
+![Common Data Structure Operations](<../.gitbook/assets/image (17).png>)
 
-![Array Sorting algorithms](<../.gitbook/assets/image (5) (1).png>)
+![Array Sorting algorithms](<../.gitbook/assets/image (20).png>)
 
-![BIG-0 Cheat sheet](<../.gitbook/assets/image (109) (1) (1).png>)
+![BIG-0 Cheat sheet](<../.gitbook/assets/image (19).png>)
 
 ## Reference
 
-* [https://www.bigocheatsheet.com/](https://www.bigocheatsheet.com)
+* [https://www.bigocheatsheet.com/](https://www.bigocheatsheet.com/)

@@ -28,7 +28,7 @@
 24. Jeffrey Dean and Luiz André Barroso: “[The Tail at Scale](http://cacm.acm.org/magazines/2013/2/160173-the-tail-at-scale/fulltext),” _Communications of the ACM_, volume 56, number 2, pages 74–80, February 2013. [doi:10.1145/2408776.2408794](http://dx.doi.org/10.1145/2408776.2408794)
 25. Graham Cormode, Vladislav Shkapenyuk, Divesh Srivastava, and Bojian Xu: “[Forward Decay: A Practical Time Decay Model for Streaming Systems](http://dimacs.rutgers.edu/\~graham/pubs/papers/fwddecay.pdf),” at _25th IEEE International Conference on Data Engineering_ (ICDE), March 2009.
 26. Ted Dunning and Otmar Ertl: “[Computing Extremely Accurate Quantiles Using t-Digests](https://github.com/tdunning/t-digest),” _github.com_, March 2014.
-27. Gil Tene: “[HdrHistogram](http://www.hdrhistogram.org),” _hdrhistogram.org_.
+27. Gil Tene: “[HdrHistogram](http://www.hdrhistogram.org/),” _hdrhistogram.org_.
 28. Baron Schwartz: “[Why Percentiles Don’t Work the Way You Think](https://orangematter.solarwinds.com/2016/11/18/why-percentiles-dont-work-the-way-you-think/),” _solarwinds.com_, November 18, 2016.
 29. James Hamilton: “[On Designing and Deploying Internet-Scale Services](https://www.usenix.org/legacy/events/lisa07/tech/full\_papers/hamilton/hamilton.pdf),” at _21st Large Installation System Administration Conference_ (LISA), November 2007.
 30. Brian Foote and Joseph Yoder: “[Big Ball of Mud](http://www.laputan.org/pub/foote/mud.pdf),” at _4th Conference on Pattern Languages of Programs_ (PLoP), September 1997.

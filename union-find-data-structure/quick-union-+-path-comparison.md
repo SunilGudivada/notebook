@@ -2,13 +2,13 @@
 
 ## Quick Union + path comparison
 
-![](<../.gitbook/assets/image (12) (1).png>)
+![](<../.gitbook/assets/image (13).png>)
 
-![](<../.gitbook/assets/image (10) (1).png>)
+![](<../.gitbook/assets/image (14).png>)
 
-![](<../.gitbook/assets/image (15) (1).png>)
+![](<../.gitbook/assets/image (15).png>)
 
-![](<../.gitbook/assets/image (18) (1).png>)
+![](<../.gitbook/assets/image (16).png>)
 
 ### Java Implementation
 

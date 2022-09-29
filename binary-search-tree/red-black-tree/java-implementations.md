@@ -22,13 +22,13 @@ private boolean isRed(Node x){
 }
 ```
 
-![](<../../.gitbook/assets/image (74) (1).png>)
+![](<../../.gitbook/assets/image (63).png>)
 
 ## Search Operation
 
 **Observation**. Search is the same as for elementary BST ( ignore color ).
 
-![](<../../.gitbook/assets/image (35) (1).png>)
+![](<../../.gitbook/assets/image (62).png>)
 
 ```java
 public class redBlackTree {
@@ -49,9 +49,9 @@ public class redBlackTree {
 
 ### Left Rotation
 
-![](<../../.gitbook/assets/image (79) (1).png>)
+![](<../../.gitbook/assets/image (64).png>)
 
-![](<../../.gitbook/assets/image (51) (1).png>)
+![](<../../.gitbook/assets/image (70).png>)
 
 ```java
 private TreeNode rotateLeft(TreeNode h)
@@ -70,9 +70,9 @@ private TreeNode rotateLeft(TreeNode h)
 
 **Invariants:** Maintains symmetric order and perfect black balance.
 
-![](<../../.gitbook/assets/image (81) (1).png>)
+![](<../../.gitbook/assets/image (66).png>)
 
-![](<../../.gitbook/assets/image (54) (1).png>)
+![](<../../.gitbook/assets/image (67).png>)
 
 ```java
 private TreeNode rotateRight(TreeNode h)
@@ -89,9 +89,9 @@ private TreeNode rotateRight(TreeNode h)
 
 ### Color Flip
 
-![](<../../.gitbook/assets/image (78) (1).png>)
+![](<../../.gitbook/assets/image (68).png>)
 
-![](<../../.gitbook/assets/image (56) (1).png>)
+![](<../../.gitbook/assets/image (69).png>)
 
 ```java
 public void colorFlip(TreeNode h){
@@ -113,11 +113,11 @@ public void colorFlip(TreeNode h){
 * Do standard BST insert; color new link red
 * If new red link is a right link, rotate left.
 
-![Explanation for inserting a node in 2-node](<../../.gitbook/assets/image (38) (1).png>)
+![Explanation for inserting a node in 2-node](<../../.gitbook/assets/image (72).png>)
 
 **Example**: Insert ' C '
 
-![Example for inserting a node in 2-node](<../../.gitbook/assets/image (46) (1).png>)
+![Example for inserting a node in 2-node](<../../.gitbook/assets/image (74).png>)
 
 ### Case 2: Insert into 3-node
 
@@ -126,11 +126,11 @@ public void colorFlip(TreeNode h){
 * Flip colors to pass red link up one level.
 * Rotate to make lean left (if needed).
 
-![Explanation for inserting a node in 3-node](<../../.gitbook/assets/image (64) (1).png>)
+![Explanation for inserting a node in 3-node](<../../.gitbook/assets/image (75).png>)
 
 **Example**: Inserting ' H '
 
-![Example for inserting a node in 3-node Red Black Tree](<../../.gitbook/assets/image (55) (1).png>)
+![Example for inserting a node in 3-node Red Black Tree](<../../.gitbook/assets/image (76).png>)
 
 ### Passing red links up the tree
 
@@ -142,7 +142,7 @@ public void colorFlip(TreeNode h){
 
 **Example:**
 
-![](<../../.gitbook/assets/image (36) (1).png>)
+![](<../../.gitbook/assets/image (77).png>)
 
 ### Java Implementation
 

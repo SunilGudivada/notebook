@@ -22,7 +22,7 @@
 
 ## Adjacency List Representation
 
-![](<../.gitbook/assets/image (98) (1).png>)
+![](<../.gitbook/assets/image (103).png>)
 
 ### Java Implementation
 
@@ -74,9 +74,9 @@ Depth-first search search visits each vertex exactly once. Three vertex ordering
 * **Postorder**: Put the vertex on a queue after the recursive calls.
 * **Reverse postorder**: Put the vertex on a stack after the recursive calls.
 
-![](<../.gitbook/assets/image (95) (1).png>)
+![](<../.gitbook/assets/image (105) (2).png>)
 
-![](<../.gitbook/assets/image (93) (1).png>)
+![](<../.gitbook/assets/image (104).png>)
 
 ### **Java Implementation**
 
@@ -324,10 +324,10 @@ public class DepthFirstOrder {
 }
 ```
 
-![](<../.gitbook/assets/image (105) (1).png>)
+![](<../.gitbook/assets/image (108).png>)
 
 ## **DI-Graph Applications**
 
-![](<../.gitbook/assets/image (100) (1).png>)
+![](<../.gitbook/assets/image (102).png>)
 
 \*\*\*\*

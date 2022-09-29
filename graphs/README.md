@@ -13,7 +13,7 @@
 * **Hamilton tour:** Cycle that uses each vertex exactly once.
 * **Biconnectivity:** Vertex whose removal disconnects the graph.
 
-![](<../.gitbook/assets/image (96) (1).png>)
+![](<../.gitbook/assets/image (94).png>)
 
 ## **Graph API**
 

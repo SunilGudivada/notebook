@@ -39,9 +39,9 @@
 37. “[The Neo4j Manual v2.0.0](http://docs.neo4j.org/chunked/2.0.0/index.html),” Neo Technology, 2013.
 38. Emil Eifrem: [Twitter correspondence](https://twitter.com/emileifrem/status/419107961512804352), January 3, 2014.
 39. David Beckett and Tim Berners-Lee: “[Turtle – Terse RDF Triple Language](http://www.w3.org/TeamSubmission/turtle/),” W3C Team Submission, March 28, 2011.
-40. “[Datomic Development Resources](http://docs.datomic.com),” Metadata Partners, LLC, 2013.
+40. “[Datomic Development Resources](http://docs.datomic.com/),” Metadata Partners, LLC, 2013.
 41. W3C RDF Working Group: “[Resource Description Framework (RDF)](http://www.w3.org/RDF/),” _w3.org_, 10 February 2004.
-42. “[Apache Jena](http://jena.apache.org),” Apache Software Foundation.
+42. “[Apache Jena](http://jena.apache.org/),” Apache Software Foundation.
 43. Steve Harris, Andy Seaborne, and Eric Prud'hommeaux: “[SPARQL 1.1 Query Language](http://www.w3.org/TR/sparql11-query/),” W3C Recommendation, March 2013.
 44. Todd J. Green, Shan Shan Huang, Boon Thau Loo, and Wenchao Zhou: “[Datalog and Recursive Query Processing](http://blogs.evergreen.edu/sosw/files/2014/04/Green-Vol5-DBS-017.pdf),” _Foundations and Trends in Databases_, volume 5, number 2, pages 105–195, November 2013. [doi:10.1561/1900000017](http://dx.doi.org/10.1561/1900000017)
 45. Stefano Ceri, Georg Gottlob, and Letizia Tanca: “[What You Always Wanted to Know About Datalog (And Never Dared to Ask)](https://www.researchgate.net/profile/Letizia\_Tanca/publication/3296132\_What\_you\_always\_wanted\_to\_know\_about\_Datalog\_and\_never\_dared\_to\_ask/links/0fcfd50ca2d20473ca000000.pdf),” _IEEE Transactions on Knowledge and Data Engineering_, volume 1, number 1, pages 146–166, March 1989. [doi:10.1109/69.43410](http://dx.doi.org/10.1109/69.43410)

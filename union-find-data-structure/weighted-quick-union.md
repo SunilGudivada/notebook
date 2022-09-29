@@ -5,9 +5,9 @@
 * Keep track of size of each tree (number of objects).
 * Balance by linking root of smaller tree to root of larger tree.
 
-![Comparison between Quick Union and Weighted Quick Union](<../.gitbook/assets/image (3) (1).png>)
+![Comparison between Quick Union and Weighted Quick Union](<../.gitbook/assets/image (10).png>)
 
-![](<../.gitbook/assets/image (8) (1).png>)
+![](<../.gitbook/assets/image (11).png>)
 
 **Data structure** Same as quick-union, but maintain extra array `sz[i]` to count number of objects in the tree rooted at `i`.
 
