@@ -116,6 +116,10 @@
 * [Programming Language and Fundementals](preparation-manual/programming-language-and-fundementals.md)
 * [Best Practices and Experience](preparation-manual/best-practices-and-experience.md)
 
+## Web Applications
+
+* [Coding Guidelines Web App](web-applications/about.md)
+
 ## Miscellaneous
 
 * [My Preparation for Tech Giants](miscellaneous/my-preparation-for-tech-giants.md)
