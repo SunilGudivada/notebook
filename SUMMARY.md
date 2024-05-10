@@ -130,4 +130,3 @@
 
 * [Github](https://github.com/SunilGudivada/Data-Structures-and-Algorithms)
 * [LinkedIn](https://www.linkedin.com/in/sunil0385/)
-* [leetcode](https://leetcode.com/sunilgudivada/)
