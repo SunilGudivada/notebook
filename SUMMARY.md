@@ -124,6 +124,7 @@
 
 ## Miscellaneous
 
+* [90 Days Preparation Schedule](miscellaneous/90-days-preparation-schedule.md)
 * [My Preparation for Tech Giants](miscellaneous/my-preparation-for-tech-giants.md)
 * [Top Product Based Companies](miscellaneous/top-product-based-companies.md)
 
