@@ -4,6 +4,7 @@
 
 ## DSA <a href="#data-structures-and-algorithms" id="data-structures-and-algorithms"></a>
 
+* [Topics](data-structures-and-algorithms/topics.md)
 * [Introduction](data-structures-and-algorithms/introduction.md)
 * [Algorithm analysis](data-structures-and-algorithms/algorithm-analysis/README.md)
   * [Asymptotic Notation](data-structures-and-algorithms/algorithm-analysis/time-complexity.md)
