@@ -122,6 +122,11 @@
 
 * [Typescript Guidelines](web-applications/typescript-guidelines.md)
 
+## Research Papers <a href="#paper" id="paper"></a>
+
+* [Research Papers](paper/research-papers/README.md)
+  * [Real-Time Data Infrastructure at Uber](paper/research-papers/real-time-data-infrastructure-at-uber.md)
+
 ## Miscellaneous
 
 * [90 Days Preparation Schedule](miscellaneous/90-days-preparation-schedule.md)
