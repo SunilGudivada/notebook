@@ -1,5 +1,9 @@
 # Real-Time Data Infrastructure at Uber
 
+####
+
+{% file src="../../.gitbook/assets/Paper - Real time infrastructure at Uber.pdf" %}
+
 #### Key Points:
 
 1. **Architecture and Components:**

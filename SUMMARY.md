@@ -126,6 +126,7 @@
 
 * [Research Papers](paper/research-papers/README.md)
   * [Real-Time Data Infrastructure at Uber](paper/research-papers/real-time-data-infrastructure-at-uber.md)
+  * [Scaling Memcache at Facebook](paper/research-papers/scaling-memcache-at-facebook.md)
 
 ## Miscellaneous
 
