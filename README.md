@@ -9,6 +9,7 @@ description: This is Sunil Gudivada reference documentation notebook.
 ## **Important links for preparation**
 
 * [<mark style="color:green;">**https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU**</mark>](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+* [https://leetcode.com/discuss/interview-question/5366542/All-leetcode-articles-on-coding-patterns-summarized-in-one-page.](https://leetcode.com/discuss/interview-question/5366542/All-leetcode-articles-on-coding-patterns-summarized-in-one-page.)
 * [https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode](https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode)
 * [https://github.com/black-shadows/Cheat-Sheets](https://github.com/black-shadows/Cheat-Sheets)
 * [https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
