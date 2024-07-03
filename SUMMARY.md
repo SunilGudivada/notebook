@@ -118,6 +118,21 @@
 * [Programming Language and Fundementals](preparation-manual/programming-language-and-fundementals.md)
 * [Best Practices and Experience](preparation-manual/best-practices-and-experience.md)
 
+## System Design
+
+* [Key Concepts](system-design/key-concepts/README.md)
+  * [🌐 Scalability](system-design/key-concepts/scalability.md)
+  * [🌐 Latency Vs Throughput](system-design/key-concepts/latency-vs-throughput.md)
+  * [🌐 CAP Theorem](system-design/key-concepts/cap-theorem.md)
+  * [🌐 ACID Transactions](system-design/key-concepts/acid-transactions.md)
+  * [🌐 Rate limiting](system-design/key-concepts/rate-limiting.md)
+  * [🌐 API Design](system-design/key-concepts/api-design.md)
+  * [🌐 Strong Vs eventual consistency](system-design/key-concepts/strong-vs-eventual-consistency.md)
+  * [🌐 Distributed tracing](system-design/key-concepts/distributed-tracing.md)
+  * [🌐 Synchronous Vs asynchronous Communication](system-design/key-concepts/synchronous-vs-asynchronous-communication.md)
+  * [🌐 Batch Processing Vs Stream Processing](system-design/key-concepts/batch-processing-vs-stream-processing.md)
+  * [🌐 Fault Tolerance](system-design/key-concepts/fault-tolerance.md)
+
 ## Web Applications
 
 * [Typescript Guidelines](web-applications/typescript-guidelines.md)
