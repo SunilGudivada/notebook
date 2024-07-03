@@ -35,3 +35,7 @@ coverY: 0
 * **Performance Optimization**:
   * **Eviction Policies**: Utilizing Least Recently Used (LRU) eviction policies within each slab class ensures efficient memory use by discarding the least used items first​.
   * **High Availability**: The design incorporates mechanisms to handle server failures gracefully, ensuring high availability and reliability of the caching system​​.
+
+
+
+Ref: [https://www.usenix.org/conference/nsdi13/technical-sessions/presentation/nishtala](https://www.usenix.org/conference/nsdi13/technical-sessions/presentation/nishtala)
