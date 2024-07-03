@@ -68,56 +68,56 @@ In system design, there's often a trade-off between latency and throughput:
 
 #### General Understanding
 
-* [ ] Define latency and throughput. How do they differ?
-* [ ] Why is it important to balance latency and throughput in a system?
-* [ ] Can you explain the relationship between latency and throughput?
+* Define latency and throughput. How do they differ?
+* Why is it important to balance latency and throughput in a system?
+* Can you explain the relationship between latency and throughput?
 
 #### Latency
 
-* [ ] What factors can contribute to high latency in a system?
-* [ ] How can you reduce latency in a web application?
-* [ ] Describe a scenario where low latency is more important than high throughput.
-* [ ] What are some techniques to measure and monitor latency in a distributed system?
-* [ ] How does the geographical location of servers impact latency?
+* What factors can contribute to high latency in a system?
+* How can you reduce latency in a web application?
+* Describe a scenario where low latency is more important than high throughput.
+* What are some techniques to measure and monitor latency in a distributed system?
+* How does the geographical location of servers impact latency?
 
 #### Throughput
 
-* [ ] What factors can affect the throughput of a system?
-* [ ] How can you increase the throughput of a database system?
-* [ ] Describe a scenario where high throughput is more important than low latency.
-* [ ] What are some common bottlenecks that can limit throughput?
-* [ ] How do you measure and monitor throughput in a system?
+* What factors can affect the throughput of a system?
+* How can you increase the throughput of a database system?
+* Describe a scenario where high throughput is more important than low latency.
+* What are some common bottlenecks that can limit throughput?
+* How do you measure and monitor throughput in a system?
 
 #### Trade-offs and Design
 
-* [ ] Describe a situation where improving throughput might negatively impact latency. How would you handle this trade-off?
-* [ ] How would you design a system to optimize both latency and throughput?
-* [ ] Can you provide an example of a system where both low latency and high throughput are critical?
-* [ ] Explain how load balancing can affect both latency and throughput.
+* Describe a situation where improving throughput might negatively impact latency. How would you handle this trade-off?
+* How would you design a system to optimize both latency and throughput?
+* Can you provide an example of a system where both low latency and high throughput are critical?
+* Explain how load balancing can affect both latency and throughput.
 
 #### Real-world Scenarios
 
-* [ ] How would you design a video streaming service to handle millions of users simultaneously? What would you prioritize: latency or throughput?
-* [ ] Imagine you are designing a real-time multiplayer game. What strategies would you use to ensure low latency?
-* [ ] How would you handle a situation where a sudden spike in traffic causes high latency and low throughput in your application?
+* How would you design a video streaming service to handle millions of users simultaneously? What would you prioritize: latency or throughput?
+* Imagine you are designing a real-time multiplayer game. What strategies would you use to ensure low latency?
+* How would you handle a situation where a sudden spike in traffic causes high latency and low throughput in your application?
 
 #### Technical Solutions
 
-* [ ] What is caching, and how can it help reduce latency?
-* [ ] Explain the role of Content Delivery Networks (CDNs) in reducing latency and increasing throughput.
-* [ ] How do asynchronous processing and queuing systems impact latency and throughput?
-* [ ] Describe how sharding can be used to improve throughput in a database.
-* [ ] What is the impact of database indexing on latency and throughput?
+* What is caching, and how can it help reduce latency?
+* Explain the role of Content Delivery Networks (CDNs) in reducing latency and increasing throughput.
+* How do asynchronous processing and queuing systems impact latency and throughput?
+* Describe how sharding can be used to improve throughput in a database.
+* What is the impact of database indexing on latency and throughput?
 
 #### Performance Monitoring
 
-* [ ] What tools and techniques would you use to monitor latency and throughput in a production system?
-* [ ] How would you diagnose and troubleshoot high latency issues in a distributed system?
-* [ ] What metrics would you track to ensure your system meets performance requirements for both latency and throughput?
+* What tools and techniques would you use to monitor latency and throughput in a production system?
+* How would you diagnose and troubleshoot high latency issues in a distributed system?
+* What metrics would you track to ensure your system meets performance requirements for both latency and throughput?
 
 #### Advanced Topics
 
-* [ ] How does network latency differ from application latency, and how can each be optimized?
-* [ ] What is the role of backpressure in managing throughput in a streaming data application?
-* [ ] Explain the concept of tail latency and its importance in system performance.
-* [ ] How can microservices architecture affect latency and throughput?
+* How does network latency differ from application latency, and how can each be optimized?
+* What is the role of backpressure in managing throughput in a streaming data application?
+* Explain the concept of tail latency and its importance in system performance.
+* How can microservices architecture affect latency and throughput?
