@@ -145,7 +145,12 @@
 
 ## Interview Questions
 
-* [Google Interview Questions](interview-questions/google-interview-questions.md)
+* [Google Interview Questions](interview-questions/google-interview-questions/README.md)
+  * [L4](interview-questions/google-interview-questions/l4/README.md)
+    * [Phone Interview Questions](interview-questions/google-interview-questions/l4/phone-interview-questions.md)
+  * [L3](interview-questions/google-interview-questions/l3/README.md)
+    * [Interview Questions](interview-questions/google-interview-questions/l3/interview-questions.md)
+  * [Phone Screen Questions](interview-questions/google-interview-questions/phone-screen-questions.md)
 
 ## Miscellaneous
 
