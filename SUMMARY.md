@@ -132,6 +132,7 @@
   * [🌐 Synchronous Vs asynchronous Communication](system-design/key-concepts/synchronous-vs-asynchronous-communication.md)
   * [🌐 Batch Processing Vs Stream Processing](system-design/key-concepts/batch-processing-vs-stream-processing.md)
   * [🌐 Fault Tolerance](system-design/key-concepts/fault-tolerance.md)
+* [LinkedIn feed Design](system-design/linkedin-feed-design.md)
 
 ## Web Applications
 
@@ -145,7 +146,7 @@
 
 ## Interview Questions
 
-* [Google Interview Questions](interview-questions/google-interview-questions/README.md)
+* [Google Interview Questions](interview-questions/google-interview-questions.md)
   * [L4](interview-questions/google-interview-questions/l4/README.md)
     * [Phone Interview Questions](interview-questions/google-interview-questions/l4/phone-interview-questions.md)
   * [L3](interview-questions/google-interview-questions/l3/README.md)
