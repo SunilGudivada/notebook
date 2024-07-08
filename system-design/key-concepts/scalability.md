@@ -31,11 +31,11 @@ Scalability in system design refers to the ability of a system to handle a growi
 * <mark style="color:purple;">**Cost Efficiency**</mark>: Properly designed scalable systems can save costs by optimizing resource usage and avoiding over-provisioning.
 * <mark style="color:purple;">**Reliability and Availability**</mark>: Scalable systems often incorporate redundancy and failover mechanisms to ensure high availability and reliability.
 
-###
+
 
 ### Interview Questions
 
-**Chatgpt Prompt**
+:robot: **ChatGPT Prompt**
 
 > I am trying to understand scalability concepts in system design. What are the different interview questions interviewer can ask me ?
 
