@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Notebook](README.md)
+* [📒 Notebook](README.md)
 
 ## DSA <a href="#data-structures-and-algorithms" id="data-structures-and-algorithms"></a>
 
@@ -146,6 +146,7 @@
 
 ## Interview Questions
 
+* [Important links for preparation](interview-questions/important-links-for-preparation.md)
 * [Google Interview Questions](interview-questions/google-interview-questions.md)
   * [L4](interview-questions/google-interview-questions/l4/README.md)
     * [Phone Interview Questions](interview-questions/google-interview-questions/l4/phone-interview-questions.md)
