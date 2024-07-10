@@ -123,6 +123,7 @@
 * [Key Concepts](system-design/key-concepts/README.md)
   * [🌐 Scalability](system-design/key-concepts/scalability.md)
   * [🌐 Latency Vs Throughput](system-design/key-concepts/latency-vs-throughput.md)
+  * [🌐 Databases](system-design/key-concepts/databases.md)
   * [🌐 CAP Theorem](system-design/key-concepts/cap-theorem.md)
   * [🌐 ACID Transactions](system-design/key-concepts/acid-transactions.md)
   * [🌐 Rate limiting](system-design/key-concepts/rate-limiting.md)
