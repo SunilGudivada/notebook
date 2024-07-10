@@ -60,3 +60,48 @@ coverY: 0
     * **High Availability**: Time series databases are designed for high availability and scalability, with features such as clustering, replication, and sharding to handle large volumes of time series data.
 
 Each of these databases and caches has its own strengths and use cases, and choosing the right one depends on the specific requirements of your application, including data model, scalability, performance, and consistency needs.
+
+
+
+#### System Design Questions
+
+1. **Design a URL Shortener**
+   * How would you generate unique keys?
+   * How would you handle collisions?
+   * How would you ensure the scalability of the system?
+2. **Design a Social Media Feed (e.g., Twitter, Facebook)**
+   * How would you handle real-time updates and notifications?
+   * How would you manage the database schema for user posts and comments?
+   * How would you ensure scalability and load balancing?
+3. **Design an E-commerce Website**
+   * How would you manage the inventory and product catalog?
+   * How would you handle transactions and payments?
+   * How would you implement a recommendation system?
+4. **Design a Chat Application (e.g., WhatsApp, Slack)**
+   * How would you handle real-time messaging and notifications?
+   * How would you ensure message delivery and read receipts?
+   * How would you manage user authentication and authorization?
+5. **Design a Web Crawler**
+   * How would you manage the crawling process and handle duplicates?
+   * How would you store and index the crawled data?
+   * How would you ensure the crawler is efficient and doesn't overload servers?
+6. **Design a Ride-Sharing Service (e.g., Uber, Lyft)**
+   * How would you match drivers with riders in real-time?
+   * How would you handle surge pricing and route optimization?
+   * How would you ensure data consistency and fault tolerance?
+7. **Design a Video Streaming Service (e.g., YouTube, Netflix)**
+   * How would you handle video storage and encoding?
+   * How would you manage user subscriptions and recommendations?
+   * How would you ensure smooth streaming and handle buffering?
+8. **Design a Search Engine**
+   * How would you manage the indexing and ranking of web pages?
+   * How would you handle user queries and return relevant results?
+   * How would you ensure the search engine scales with increasing data?
+9. **Design a Notification System**
+   * How would you manage different types of notifications (e.g., email, SMS, push)?
+   * How would you ensure timely delivery and retries in case of failures?
+   * How would you handle user preferences and unsubscribes?
+10. **Design a File Storage System (e.g., Dropbox, Google Drive)**
+    * How would you handle file uploads, downloads, and synchronization?
+    * How would you manage file metadata and sharing permissions?
+    * How would you ensure data consistency and replication?
