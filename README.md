@@ -3,7 +3,7 @@ description: >-
   The Evolving Notebook: Daily Knowledge on Data Structures, Algorithms, and
   System Design
 cover: >-
-  https://images.unsplash.com/photo-1562813733-b31f71025d54?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxjb2Rpbmd8ZW58MHx8fHwxNzIwNTQ1NjY5fDA&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1575089976121-8ed7b2a54265?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxjb2Rpbmd8ZW58MHx8fHwxNzIwNTQ1NjY5fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
