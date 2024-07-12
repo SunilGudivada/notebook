@@ -63,6 +63,10 @@ Each of these databases and caches has its own strengths and use cases, and choo
 
 
 
+<figure><img src="../../.gitbook/assets/Group 5.png" alt=""><figcaption></figcaption></figure>
+
+
+
 #### System Design Questions
 
 1. **Design a URL Shortener**
