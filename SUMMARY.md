@@ -133,7 +133,9 @@
   * [🌐 Synchronous Vs asynchronous Communication](system-design/key-concepts/synchronous-vs-asynchronous-communication.md)
   * [🌐 Batch Processing Vs Stream Processing](system-design/key-concepts/batch-processing-vs-stream-processing.md)
   * [🌐 Fault Tolerance](system-design/key-concepts/fault-tolerance.md)
+* [Introduction to system design](system-design/introduction-to-system-design.md)
 * [LinkedIn feed Design](system-design/linkedin-feed-design.md)
+* [Reference Links](system-design/reference-links.md)
 
 ## Web Applications
 
