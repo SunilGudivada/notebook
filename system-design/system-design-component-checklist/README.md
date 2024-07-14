@@ -10,6 +10,10 @@ System design is a critical aspect of building scalable and efficient software s
 
 <figure><img src="../../.gitbook/assets/System Design Components.png" alt=""><figcaption><p>System design component checklist</p></figcaption></figure>
 
+PDF Version:&#x20;
+
+{% file src="../../.gitbook/assets/System Design Components - Checklist - Study sheet.pdf" %}
+
 1. **Client-Side Components**:
    * **Web Clients**: Browsers and web applications.
    * **Mobile Clients**: Android, iOS applications.\
