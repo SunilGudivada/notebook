@@ -135,6 +135,10 @@
   * [🌐 Fault Tolerance](system-design/key-concepts/fault-tolerance.md)
 * [Introduction to system design](system-design/introduction-to-system-design.md)
 * [LinkedIn feed Design](system-design/linkedin-feed-design.md)
+* [System design component checklist](system-design/system-design-component-checklist/README.md)
+  * [Azure](system-design/system-design-component-checklist/azure.md)
+  * [AWS](system-design/system-design-component-checklist/aws.md)
+  * [Google Cloud](system-design/system-design-component-checklist/google-cloud.md)
 * [Reference Links](system-design/reference-links.md)
 
 ## Web Applications

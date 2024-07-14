@@ -107,7 +107,7 @@ I see many people posting the different kinds of posts / different variations of
 
 Ultimate goal of Linkedin feed is to make user engagement, promote High Quality Content, Prioritize relevant content to users.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Source: Linked Blog</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Source: Linked Blog</p></figcaption></figure>
 
 **Flow:**
 
@@ -124,7 +124,7 @@ Ultimate goal of Linkedin feed is to make user engagement, promote High Quality 
 * **Adjust Rankings and Display Posts:** The LinkedIn system adjusts the rankings of posts and displays them to users in their feeds.
 * **User views feed:** The user views their LinkedIn feed, which now includes the ranked posts.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### References
 
