@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# LinkedIn feed Design
+# 🧊 LinkedIn feed Design
 
 I have 10k+ followers but my posts are having only 3k to 4k+ impressions. I Wondered why is that happening ? That made me to read more about the linkedin feed mechanism.
 
