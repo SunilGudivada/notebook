@@ -1,17 +1,18 @@
 ---
+description: >-
+  Hotstar first introduced Sports Bar in 2019. In the world cup 2019, 5 Billion
+  Emojis from 55.83 Million users during the ICC Cricket World Cup 2019.
 cover: ../.gitbook/assets/1_kIzYvy84FsMGW4UUlaYjXw.webp
 coverY: 0
 ---
 
 # 🏏 Scalable Emoji Broadcasting System - Hotstar
 
-Hotstar first introduced **Sports Bar** in 2019. In the world cup 2019, 5 Billion Emojis from 55.83 Million users during the ICC Cricket World Cup 2019.&#x20;
-
 Hotstar main aim was to convert the sounds and responses in the live cricket ground. These are nothing but audience reactions in a digital way of expressing emotions. Showing the mood of the audience and displaying the changing moods in real-time is challenging when you plan to receive billions of such emoji submissions during a tournament.
 
 
 
-**Key Design Principles**:&#x20;
+### **Key Design Principles**&#x20;
 
 **Scalability**: Increase the resources with increase in traffic. Hotstar achieved this by using the horizontal scaling with load balancers  and auto scaling of the resources configured
 
@@ -21,7 +22,7 @@ Hotstar main aim was to convert the sounds and responses in the live cricket gro
 
 
 
-**Envelope Calculations:**&#x20;
+### **Envelope Calculations**
 
 Assume the scenario of World cup 2019, Target was to scale upto 5 Billion Emojis from 55.83 Million users over 48 Matches.&#x20;
 
@@ -43,20 +44,20 @@ Number of Emojis per second: 34722222.3 / 3600 = 9645.06175 \~ 9646 emojis per s
 
 
 
-**Storage Calculations:**
+### **Storage Calculations**
 
 Now lets calculate the size of the emoji data we need to store:&#x20;
 
 ```json
 {
-  "emoji_id": "e12345",
-  "user_id": "u67890",
+  "emoji_id": "a32cb3ad-b7ad-4b38-b213-84a9c6365aca",
+  "user_id": "62c9fdb6-c833-4cce-a2fa-faddefa36a69",
   "timestamp": "2024-07-15T12:34:56Z",
   "emoji_type": "animation",
-  "message_id": "m123456",
-  "recipient_id": "u09876",
-  "channel_id": "c12345",
-  "event_id": "event12345",
+  "message_id": "c2459179-4585-4f7a-b287-1e52ecf895cf",
+  "recipient_id": "5bd0f171-862a-4ed9-9f3a-523314ae7598",
+  "channel_id": "b8f8d727-b29e-4ac6-aac4-6224e4c91c35",
+  "event_id": "b029d956-98da-4109-8334-4515d9e81214",
   "metadata": {
     "reaction": "cheer",
     "emotion": "happy"
@@ -65,7 +66,7 @@ Now lets calculate the size of the emoji data we need to store:&#x20;
 
 ```
 
-**Size of the emoji data is 230 B**
+Size of the emoji data is 230 B
 
 Total Emojis per second: 9646
 
@@ -77,20 +78,20 @@ Entire World it needs 23.89 \* 48 = 1146.72 GB \~ 1.2 TB
 
 For the world cup total data for the emojis would be around 1.2 TB
 
-#### Functional Requirements:
+### Functional Requirements
 
-1. Users can browse and select stickers during live cricket matches.
-2. Stickers can be sent to individuals or groups in real-time.
+1. Users can browse and select stickers during live cricket matches found in the **sports bar**.
+2. Stickers can be sent over a live&#x20;
 3. Stickers appear instantly in the live chat interface.
 
-#### Non-Functional Requirements:
+### Non-Functional Requirements
 
 1. High availability to support concurrent users during peak traffic.
 2. Low latency for real-time sticker delivery.
 3. Secure transmission and storage of sticker data.
 4. Scalable infrastructure to accommodate increasing user base and traffic.
 
-**Go through the below system design checklist:**
+### **System Components**
 
 {% content-ref url="system-design-component-checklist/" %}
 [system-design-component-checklist](system-design-component-checklist/)
@@ -155,7 +156,7 @@ _Hotstar defined the technologies in the blog mentioned in the references:_
 
 <figure><img src="../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
 
-**References**:&#x20;
+### **References**
 
 [https://blog.hotstar.com/capturing-a-billion-emojis-62114cc0b440](https://blog.hotstar.com/capturing-a-billion-emojis-62114cc0b440)\
 [https://blog.hotstar.com/building-pubsub-for-50m-concurrent-socket-connections-5506e3c3dabf](https://blog.hotstar.com/building-pubsub-for-50m-concurrent-socket-connections-5506e3c3dabf)\
