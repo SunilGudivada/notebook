@@ -102,38 +102,52 @@ _Hotstar defined the technologies in the blog mentioned in the references:_
 
 * [ ] **Client Side Components:**
   * **HTTP API**: Clients send user-submitted emojis via HTTP requests.
-  * **Local Buffer**: To handle asynchronous message sending.
+  * **Local Buffer**: To handle asynchronous message sending.\
+
 * [ ] **Service Side Components:**&#x20;
   * **Golang Producer**: Handles asynchronous message production to Kafka using Goroutines and Channels.
-  * **Python Consumer**: Consumes processed data from Kafka and normalizes it.
-* [ ] **Databases:** The system primarily relies on Kafka for message queuing and PubSub for data delivery and NoSql to store the user profile information and subscriptions.
-* [ ] **Cache:** Not required, since the data to be handled in the real time
-* [ ] **Load Balancers:** Distribute incoming API requests across multiple servers for horizontal scalability
+  * **Python Consumer**: Consumes processed data from Kafka and normalizes it.\
+
+* [ ] **Databases:** The system primarily relies on Kafka for message queuing and PubSub for data delivery and NoSql to store the user profile information and subscriptions.\
+
+* [ ] **Cache:** Not required, since the data to be handled in the real time\
+
+* [ ] **Load Balancers:** Distribute incoming API requests across multiple servers for horizontal scalability\
+
 * [ ] **Message Queues:**&#x20;
   * **Kafka**: Used for high throughput, availability, and low latency message queuing.
-  * **Knol**: Hotstar's data platform built on Kafka.
+  * **Knol**: Hotstar's data platform built on Kafka.\
+
 * [ ] **API Gateways:**&#x20;
-  * **HTTP API Gateway**: Manages incoming API requests from clients
+  * **HTTP API Gateway**: Manages incoming API requests from clients\
+
 * [ ] **Configuration Management:**
-  * **Configuration Files**: Used in Golang producer and Spark streaming jobs for flush intervals, batch durations, etc.
+  * **Configuration Files**: Used in Golang producer and Spark streaming jobs for flush intervals, batch durations, etc.\
+
 * [ ] **Monitoring and Logging:**
   * **Monitoring Tools**: Likely in place to monitor the health and performance of Kafka, Spark jobs, and PubSub.
-  * **Logging**: Implemented in Golang producer, Kafka, and PubSub for debugging and auditing purposes.
+  * **Logging**: Implemented in Golang producer, Kafka, and PubSub for debugging and auditing purposes.\
+
 * [ ] **Authentication and Authorization**
   * **API Security**: Ensure secure client-server communication.
-  * **Access Control**: Managed for Kafka, PubSub, and other internal components.
+  * **Access Control**: Managed for Kafka, PubSub, and other internal components.\
+
 * [ ] **Scalability and Reliability:**
   * **Horizontal Scalability**: Achieved with load balancers and auto-scaling mechanisms.
-  * **Reliability**: Ensured through Kafka's fault-tolerance and replication features.
+  * **Reliability**: Ensured through Kafka's fault-tolerance and replication features.\
+
 * [ ] **Networking:**
   * **Internal Network**: Ensures secure communication between various components (API gateway, Kafka, Spark, PubSub).
-  * **External Network**: Handles client interactions securely
+  * **External Network**: Handles client interactions securely\
+
 * [ ] **DevOps and CI/CD**
   * **CI/CD Pipeline**: Automates testing, deployment, and updates for various components (Golang producer, Spark jobs).
-  * **Infrastructure as Code**: Manages infrastructure deployment and scaling.
+  * **Infrastructure as Code**: Manages infrastructure deployment and scaling.\
+
 * [ ] **Analytics and Reporting**
   * **Real-Time Metrics**: Captured by Spark jobs and monitored by internal tools.
-  * **Usage Statistics**: Analyzed to measure user engagement and system performance.
+  * **Usage Statistics**: Analyzed to measure user engagement and system performance.\
+
 * [ ] &#x20;**Data Processing**
   * **Spark Streaming**: Processes and aggregates data in real-time.
   * **Golang Producer**: Manages asynchronous message production.
