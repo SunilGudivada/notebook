@@ -101,6 +101,8 @@ _Hotstar defined the technologies in the blog mentioned in the references:_
 
 {% embed url="https://blog.hotstar.com/capturing-a-billion-emojis-62114cc0b440" %}
 
+<figure><img src="../.gitbook/assets/Hot star Emoji - System Design.png" alt=""><figcaption><p>Scalable Emoji Broadcasting system, world cup - Hotstar</p></figcaption></figure>
+
 * [ ] **Client Side Components:**
   * **HTTP API**: Clients send user-submitted emojis via HTTP requests.
   * **Local Buffer**: To handle asynchronous message sending.\
