@@ -10,7 +10,18 @@ coverY: 0
 
 Hotstar main aim was to convert the sounds and responses in the live cricket ground. These are nothing but audience reactions in a digital way of expressing emotions. Showing the mood of the audience and displaying the changing moods in real-time is challenging when you plan to receive billions of such emoji submissions during a tournament.
 
+### Functional Requirements
 
+1. Users can browse and select stickers during live cricket matches found in the **sports bar**.
+2. Stickers can be sent over a live&#x20;
+3. Stickers appear instantly in the live chat interface.
+
+### Non-Functional Requirements
+
+1. High availability to support concurrent users during peak traffic.
+2. Low latency for real-time sticker delivery.
+3. Secure transmission and storage of sticker data.
+4. Scalable infrastructure to accommodate increasing user base and traffic.
 
 ### **Key Design Principles**&#x20;
 
@@ -19,8 +30,6 @@ Hotstar main aim was to convert the sounds and responses in the live cricket gro
 **Decomposition**: Breaking into small components and each being allowed to do the particular task independent of each other. &#x20;
 
 **Asynchronous:** Process execution should not block the resources and provides high concurrency.&#x20;
-
-
 
 ### **Envelope Calculations**
 
@@ -78,18 +87,7 @@ Entire World it needs 23.89 \* 48 = 1146.72 GB \~ 1.2 TB
 
 For the world cup total data for the emojis would be around 1.2 TB
 
-### Functional Requirements
 
-1. Users can browse and select stickers during live cricket matches found in the **sports bar**.
-2. Stickers can be sent over a live&#x20;
-3. Stickers appear instantly in the live chat interface.
-
-### Non-Functional Requirements
-
-1. High availability to support concurrent users during peak traffic.
-2. Low latency for real-time sticker delivery.
-3. Secure transmission and storage of sticker data.
-4. Scalable infrastructure to accommodate increasing user base and traffic.
 
 ### **System Components**
 
