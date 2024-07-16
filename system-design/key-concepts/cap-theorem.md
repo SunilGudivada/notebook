@@ -12,7 +12,7 @@ In very simple words,&#x20;
 * **Availability**: All reads contain data, but it might not be the most recent.
 * **Partition tolerance**: The system continues to operate despite network failures.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Source: Wikipedia</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Source: Wikipedia</p></figcaption></figure>
 
 In practice, distributed systems must choose which two out of the three properties they will guarantee:
 

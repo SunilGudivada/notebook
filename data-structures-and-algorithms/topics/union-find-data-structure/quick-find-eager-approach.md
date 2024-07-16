@@ -10,7 +10,7 @@
 
 **Union:** To merge components containing `p` and `q`, change all entries whose id equals `id[p]` to `id[q]`
 
-![Quick Find  - Eager Approach](<../../../.gitbook/assets/image (2) (1) (1).png>)
+![Quick Find  - Eager Approach](<../../../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 After `union(6,1)`
 

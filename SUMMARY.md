@@ -140,6 +140,7 @@
   * [Google Cloud](system-design/system-design-component-checklist/google-cloud.md)
 * [🧊 LinkedIn feed Design](system-design/linkedin-feed-design.md)
 * [🏏 Scalable Emoji Broadcasting System - Hotstar](system-design/scalable-emoji-broadcasting-system-hotstar.md)
+* [💲 UPI Payment System Design](system-design/upi-payment-system-design.md)
 * [Reference Links](system-design/reference-links.md)
 
 ## Web Applications

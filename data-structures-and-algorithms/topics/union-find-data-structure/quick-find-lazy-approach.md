@@ -12,7 +12,7 @@ Root of `i` is `id[id[id[...id[i]...]]]`.
 
 After`union(3,5)`
 
-![](<../../../.gitbook/assets/image (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
 
 ![](<../../../.gitbook/assets/image (7) (1).png>)
 
