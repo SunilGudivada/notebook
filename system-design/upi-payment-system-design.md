@@ -32,6 +32,8 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/UPI payment flow.gif" alt=""><figcaption><p>UPI Payment Flow</p></figcaption></figure>
 
+[https://drive.google.com/file/d/1qckD\_J\_v6kRAOTuZT2-rHeZkcHQ5a1wZ/view?usp=sharing](https://drive.google.com/file/d/1qckD\_J\_v6kRAOTuZT2-rHeZkcHQ5a1wZ/view?usp=sharing)
+
 ### Envelope Calculations
 
 In Jun 2024, 13.89 Billion transactions with amount of 20.27 Lakh crore with daily avg of 463 million transaction count.&#x20;
