@@ -15,6 +15,10 @@ Scalability in system design refers to the ability of a system to handle a growi
 3. <mark style="color:purple;">**Performance Scalability**</mark>: Maintaining or improving performance levels as the system scales up. This means that the system can handle more requests per second, perform more transactions, or store more data without a decrease in performance.
 4. <mark style="color:purple;">**Geographical Scalability**</mark>: Ensuring the system can operate efficiently across multiple geographic locations. This involves distributing data centers and ensuring low-latency access to users globally.
 
+<figure><img src="../../.gitbook/assets/Horizontal Scaling.png" alt=""><figcaption><p>Horizontal Scaling</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Vertical Scaling.png" alt=""><figcaption><p>Vertical Scaling</p></figcaption></figure>
+
 #### <mark style="color:blue;background-color:yellow;">Key Considerations for Scalability</mark>
 
 * <mark style="color:purple;">**Load Balancing**</mark>: Distributing incoming network traffic across multiple servers to ensure no single server becomes a bottleneck.
