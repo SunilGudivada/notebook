@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# 📈 \[Inprogress] Stock Broker System Design - Groww
+# 📈 Stock Broker System Design - Groww
 
 ## Introduction
 
