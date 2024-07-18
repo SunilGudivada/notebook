@@ -142,6 +142,7 @@
 * [🧊 LinkedIn feed Design](system-design/linkedin-feed-design.md)
 * [🏏 Scalable Emoji Broadcasting System - Hotstar](system-design/scalable-emoji-broadcasting-system-hotstar.md)
 * [💲 UPI Payment System Design](system-design/upi-payment-system-design.md)
+* [📈 \[Inprogress\] Stock Broker System Design - Groww](system-design/inprogress-stock-broker-system-design-groww.md)
 * [Reference Links](system-design/reference-links.md)
 
 ## Web Applications

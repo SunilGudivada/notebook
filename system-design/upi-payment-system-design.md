@@ -12,7 +12,7 @@ coverY: 0
 
 
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="362"><figcaption><p>Recent Post by NPCI in linkedIn</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="362"><figcaption><p>Recent Post by NPCI in linkedIn</p></figcaption></figure>
 
 ### **Functional Requirements**
 
