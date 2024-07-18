@@ -2,6 +2,18 @@
 
 Line Sweep Algorithms: [https://leetcode.com/discuss/study-guide/2166045/line-sweep-algorithms](https://leetcode.com/discuss/study-guide/2166045/line-sweep-algorithms)
 
+Graph Patterns: [https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
+
+Sliding Window Patterns: [https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/)
+
+Two Pointer Patterns: [https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days](https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days)\
+\
+Backtracking Patterns: [https://leetcode.com/problems/permutations/solutions/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)/](https://leetcode.com/problems/permutations/solutions/18239/A-general-approach-to-backtracking-questions-in-Java-\(Subsets-Permutations-Combination-Sum-Palindrome-Partioning\)/)\
+\
+Dynamic Programming Patterns: [https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns](https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns)\
+\
+
+
 ## **Important links for preparation**
 
 * [<mark style="color:green;">**https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU**</mark>](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
