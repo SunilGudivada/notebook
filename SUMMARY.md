@@ -134,6 +134,7 @@
   * [🌐 Batch Processing Vs Stream Processing](system-design/key-concepts/batch-processing-vs-stream-processing.md)
   * [🌐 Fault Tolerance](system-design/key-concepts/fault-tolerance.md)
 * [Introduction to system design](system-design/introduction-to-system-design.md)
+* [Step By Step Guide](system-design/step-by-step-guide.md)
 * [System design component checklist](system-design/system-design-component-checklist/README.md)
   * [Azure](system-design/system-design-component-checklist/azure.md)
   * [AWS](system-design/system-design-component-checklist/aws.md)
