@@ -46,7 +46,7 @@ We can't read system design for all the brokers but lets consider one by more nu
 
 ## Architecture Diagram
 
-<figure><img src="https://s2.ezgif.com/tmp/ezgif-2-1ac6ebb0c4.gif" alt=""><figcaption><p>Stock Broker System Design</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Stock Broker System Design - Architechture Diagram.gif" alt=""><figcaption><p>Stock Broker System design</p></figcaption></figure>
 
 ## List of Microservices
 
