@@ -1,4 +1,4 @@
-# Introduction to system design
+# 🖥️ Introduction to system design
 
 In common words, System design is nothing but creating the blue print for the Software, like how the civil engineer has the blue print for the Entire Building/ corporate society. This is very crucial for the development of the large scale applications,  especially those expected to handle high traffic, large amounts of data, and complex operations.
 

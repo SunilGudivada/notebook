@@ -1,4 +1,8 @@
-# Key Concepts
+---
+coverY: 0
+---
+
+# 💡 Key Concepts
 
 {% content-ref url="scalability.md" %}
 [scalability.md](scalability.md)

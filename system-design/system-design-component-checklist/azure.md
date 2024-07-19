@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Azure
+# 🔷 Azure
 
 <figure><img src="../../.gitbook/assets/System Design Components Checklist - Azure (1).png" alt=""><figcaption><p>Azure Component Checklist in system design - Study Sheet</p></figcaption></figure>
 

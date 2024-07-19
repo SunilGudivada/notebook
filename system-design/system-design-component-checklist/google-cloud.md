@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Google Cloud
+# ♦️ Google Cloud
 
 <figure><img src="../../.gitbook/assets/System Design Components Checklist - Google Cloud (1).png" alt=""><figcaption><p>Google cloud component checklist - System design </p></figcaption></figure>
 

@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# AWS
+# 🔶 AWS
 
 <figure><img src="../../.gitbook/assets/System Design Components Checklist - AWS (1).png" alt=""><figcaption><p>AWS Component checklist - System Design</p></figcaption></figure>
 

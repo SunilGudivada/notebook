@@ -120,7 +120,7 @@
 
 ## System Design
 
-* [Key Concepts](system-design/key-concepts/README.md)
+* [💡 Key Concepts](system-design/key-concepts/README.md)
   * [🌐 Scalability](system-design/key-concepts/scalability.md)
   * [🌐 Latency Vs Throughput](system-design/key-concepts/latency-vs-throughput.md)
   * [🌐 Databases](system-design/key-concepts/databases.md)
@@ -133,12 +133,13 @@
   * [🌐 Synchronous Vs asynchronous Communication](system-design/key-concepts/synchronous-vs-asynchronous-communication.md)
   * [🌐 Batch Processing Vs Stream Processing](system-design/key-concepts/batch-processing-vs-stream-processing.md)
   * [🌐 Fault Tolerance](system-design/key-concepts/fault-tolerance.md)
-* [Introduction to system design](system-design/introduction-to-system-design.md)
-* [Step By Step Guide](system-design/step-by-step-guide.md)
-* [System design component checklist](system-design/system-design-component-checklist/README.md)
-  * [Azure](system-design/system-design-component-checklist/azure.md)
-  * [AWS](system-design/system-design-component-checklist/aws.md)
-  * [Google Cloud](system-design/system-design-component-checklist/google-cloud.md)
+* [🖥️ Introduction to system design](system-design/introduction-to-system-design.md)
+* [⏱️ Step By Step Guide](system-design/step-by-step-guide.md)
+* [♨️ Emerging Technologies in System Design](system-design/emerging-technologies-in-system-design.md)
+* [☑️ System design component checklist](system-design/system-design-component-checklist/README.md)
+  * [🔷 Azure](system-design/system-design-component-checklist/azure.md)
+  * [🔶 AWS](system-design/system-design-component-checklist/aws.md)
+  * [♦️ Google Cloud](system-design/system-design-component-checklist/google-cloud.md)
 * [🧊 LinkedIn feed Design](system-design/linkedin-feed-design.md)
 * [🏏 Scalable Emoji Broadcasting System - Hotstar](system-design/scalable-emoji-broadcasting-system-hotstar.md)
 * [💲 UPI Payment System Design](system-design/upi-payment-system-design.md)

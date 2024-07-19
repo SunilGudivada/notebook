@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# System design component checklist
+# ☑️ System design component checklist
 
 System design is a critical aspect of building scalable and efficient software systems. Understanding the key components involved in system design can help in architecting robust and maintainable solutions. Here are the primary components:
 
