@@ -1,6 +1,35 @@
 # Table of contents
 
 * [📒 Notebook](README.md)
+  * [What is this about ?](readme/what-is-this-about.md)
+
+## System Design
+
+* [💡 Key Concepts](system-design/key-concepts/README.md)
+  * [🌐 Scalability](system-design/key-concepts/scalability.md)
+  * [🌐 Latency Vs Throughput](system-design/key-concepts/latency-vs-throughput.md)
+  * [🌐 Databases](system-design/key-concepts/databases.md)
+  * [🌐 CAP Theorem](system-design/key-concepts/cap-theorem.md)
+  * [🌐 ACID Transactions](system-design/key-concepts/acid-transactions.md)
+  * [🌐 Rate limiting](system-design/key-concepts/rate-limiting.md)
+  * [🌐 API Design](system-design/key-concepts/api-design.md)
+  * [🌐 Strong Vs eventual consistency](system-design/key-concepts/strong-vs-eventual-consistency.md)
+  * [🌐 Distributed tracing](system-design/key-concepts/distributed-tracing.md)
+  * [🌐 Synchronous Vs asynchronous Communication](system-design/key-concepts/synchronous-vs-asynchronous-communication.md)
+  * [🌐 Batch Processing Vs Stream Processing](system-design/key-concepts/batch-processing-vs-stream-processing.md)
+  * [🌐 Fault Tolerance](system-design/key-concepts/fault-tolerance.md)
+* [🖥️ Introduction to system design](system-design/introduction-to-system-design.md)
+* [⏱️ Step By Step Guide](system-design/step-by-step-guide.md)
+* [♨️ Emerging Technologies in System Design](system-design/emerging-technologies-in-system-design.md)
+* [☑️ System design component checklist](system-design/system-design-component-checklist/README.md)
+  * [🔷 Azure](system-design/system-design-component-checklist/azure.md)
+  * [🔶 AWS](system-design/system-design-component-checklist/aws.md)
+  * [♦️ Google Cloud](system-design/system-design-component-checklist/google-cloud.md)
+* [🧊 LinkedIn feed Design](system-design/linkedin-feed-design.md)
+* [🏏 Scalable Emoji Broadcasting System - Hotstar](system-design/scalable-emoji-broadcasting-system-hotstar.md)
+* [💲 UPI Payment System Design](system-design/upi-payment-system-design.md)
+* [📈 Stock Broker System Design - Groww](system-design/stock-broker-system-design-groww.md)
+* [🔗 Reference Links](system-design/reference-links.md)
 
 ## DSA <a href="#data-structures-and-algorithms" id="data-structures-and-algorithms"></a>
 
@@ -117,34 +146,6 @@
 * [Concurrency and Multithreading](preparation-manual/concurrency-and-multithreading.md)
 * [Programming Language and Fundementals](preparation-manual/programming-language-and-fundementals.md)
 * [Best Practices and Experience](preparation-manual/best-practices-and-experience.md)
-
-## System Design
-
-* [💡 Key Concepts](system-design/key-concepts/README.md)
-  * [🌐 Scalability](system-design/key-concepts/scalability.md)
-  * [🌐 Latency Vs Throughput](system-design/key-concepts/latency-vs-throughput.md)
-  * [🌐 Databases](system-design/key-concepts/databases.md)
-  * [🌐 CAP Theorem](system-design/key-concepts/cap-theorem.md)
-  * [🌐 ACID Transactions](system-design/key-concepts/acid-transactions.md)
-  * [🌐 Rate limiting](system-design/key-concepts/rate-limiting.md)
-  * [🌐 API Design](system-design/key-concepts/api-design.md)
-  * [🌐 Strong Vs eventual consistency](system-design/key-concepts/strong-vs-eventual-consistency.md)
-  * [🌐 Distributed tracing](system-design/key-concepts/distributed-tracing.md)
-  * [🌐 Synchronous Vs asynchronous Communication](system-design/key-concepts/synchronous-vs-asynchronous-communication.md)
-  * [🌐 Batch Processing Vs Stream Processing](system-design/key-concepts/batch-processing-vs-stream-processing.md)
-  * [🌐 Fault Tolerance](system-design/key-concepts/fault-tolerance.md)
-* [🖥️ Introduction to system design](system-design/introduction-to-system-design.md)
-* [⏱️ Step By Step Guide](system-design/step-by-step-guide.md)
-* [♨️ Emerging Technologies in System Design](system-design/emerging-technologies-in-system-design.md)
-* [☑️ System design component checklist](system-design/system-design-component-checklist/README.md)
-  * [🔷 Azure](system-design/system-design-component-checklist/azure.md)
-  * [🔶 AWS](system-design/system-design-component-checklist/aws.md)
-  * [♦️ Google Cloud](system-design/system-design-component-checklist/google-cloud.md)
-* [🧊 LinkedIn feed Design](system-design/linkedin-feed-design.md)
-* [🏏 Scalable Emoji Broadcasting System - Hotstar](system-design/scalable-emoji-broadcasting-system-hotstar.md)
-* [💲 UPI Payment System Design](system-design/upi-payment-system-design.md)
-* [📈 Stock Broker System Design - Groww](system-design/stock-broker-system-design-groww.md)
-* [Reference Links](system-design/reference-links.md)
 
 ## Web Applications
 
