@@ -99,7 +99,11 @@ _Hotstar defined the technologies in the blog mentioned in the references:_
 
 {% embed url="https://blog.hotstar.com/capturing-a-billion-emojis-62114cc0b440" %}
 
+<div data-full-width="true">
+
 <figure><img src="../.gitbook/assets/Hot star Emoji - System Design.png" alt=""><figcaption><p>Scalable Emoji Broadcasting system, world cup - Hotstar</p></figcaption></figure>
+
+</div>
 
 * [ ] **Client Side Components:**
   * **HTTP API**: Clients send user-submitted emojis via HTTP requests.
@@ -154,7 +158,11 @@ _Hotstar defined the technologies in the blog mentioned in the references:_
   * **Golang Producer**: Manages asynchronous message production.
   * **Kafka Consumer**: Normalizes data and sends it to PubSub.
 
+<div data-full-width="true">
+
 <figure><img src="../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### **References**
 

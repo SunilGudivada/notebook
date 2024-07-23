@@ -18,6 +18,8 @@
   * [🌐 Synchronous Vs asynchronous Communication](system-design/key-concepts/synchronous-vs-asynchronous-communication.md)
   * [🌐 Batch Processing Vs Stream Processing](system-design/key-concepts/batch-processing-vs-stream-processing.md)
   * [🌐 Fault Tolerance](system-design/key-concepts/fault-tolerance.md)
+* [💎 Building Blocks](system-design/building-blocks/README.md)
+  * [🔹 Message](system-design/building-blocks/message.md)
 * [🖥️ Introduction to system design](system-design/introduction-to-system-design.md)
 * [⏱️ Step By Step Guide](system-design/step-by-step-guide.md)
 * [♨️ Emerging Technologies in System Design](system-design/emerging-technologies-in-system-design.md)
@@ -29,7 +31,8 @@
 * [🏏 Scalable Emoji Broadcasting System - Hotstar](system-design/scalable-emoji-broadcasting-system-hotstar.md)
 * [💲 UPI Payment System Design](system-design/upi-payment-system-design.md)
 * [📈 Stock Broker System Design - Groww](system-design/stock-broker-system-design-groww.md)
-* [🔗 Reference Links](system-design/reference-links.md)
+* [Page](system-design/page.md)
+* [Reference Links](system-design/reference-links.md)
 
 ## DSA <a href="#data-structures-and-algorithms" id="data-structures-and-algorithms"></a>
 

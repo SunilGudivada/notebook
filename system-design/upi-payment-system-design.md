@@ -30,7 +30,11 @@ coverY: 0
 * Strong security measures to protect sensitive financial data.
 * Compliance with regulatory requirements.
 
+<div data-full-width="true">
+
 <figure><img src="../.gitbook/assets/UPI payment flow.gif" alt=""><figcaption><p>UPI Payment Flow</p></figcaption></figure>
+
+</div>
 
 [https://drive.google.com/file/d/1qckD\_J\_v6kRAOTuZT2-rHeZkcHQ5a1wZ/view?usp=sharing](https://drive.google.com/file/d/1qckD\_J\_v6kRAOTuZT2-rHeZkcHQ5a1wZ/view?usp=sharing)
 
@@ -144,7 +148,11 @@ Assume these microservices can process 200 request per second
 
 ### Components
 
+<div data-full-width="true">
+
 <figure><img src="../.gitbook/assets/UPI Payment - System Design Component Checklist.png" alt=""><figcaption><p>UPI Payment System Design - Component Checklist</p></figcaption></figure>
+
+</div>
 
 ### Tech Stack
 

@@ -10,7 +10,7 @@ coverY: 0
 
 lets first try to understand **what stock broker is** ?
 
-Share brokers are authorized members of the stock exchanges (i.e. BSE, NSE).
+Stock brokers are authorized members of the stock exchanges (i.e. BSE, NSE).
 
 They execute trades on behalf of the customers at the exchange. There are 100's of registered stock brokers in India offering stock trading to retail customers. At high-level, the **most famous stock brokers in India** are categories in 2 types:
 

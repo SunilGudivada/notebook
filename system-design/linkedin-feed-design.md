@@ -124,7 +124,11 @@ Ultimate goal of Linkedin feed is to make user engagement, promote High Quality 
 * **Adjust Rankings and Display Posts:** The LinkedIn system adjusts the rankings of posts and displays them to users in their feeds.
 * **User views feed:** The user views their LinkedIn feed, which now includes the ranked posts.
 
+<div data-full-width="true">
+
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### References
 
