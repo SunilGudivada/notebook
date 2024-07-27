@@ -31,7 +31,6 @@
 * [🏏 Scalable Emoji Broadcasting System - Hotstar](system-design/scalable-emoji-broadcasting-system-hotstar.md)
 * [💲 UPI Payment System Design](system-design/upi-payment-system-design.md)
 * [📈 Stock Broker System Design - Groww](system-design/stock-broker-system-design-groww.md)
-* [Page](system-design/page.md)
 * [Reference Links](system-design/reference-links.md)
 
 ## DSA <a href="#data-structures-and-algorithms" id="data-structures-and-algorithms"></a>

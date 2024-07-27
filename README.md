@@ -12,7 +12,7 @@ coverY: 0
 [![GitHub issues](https://img.shields.io/github/issues/SunilGudivada/Data-Structures-and-Algorithms.svg)![GitHub followers](https://img.shields.io/github/followers/SunilGudivada.svg?style=social\&label=Follow\&maxAge=2592000)](https://github.com/sunilGudivada?tab=followers) [![GitHub forks](https://img.shields.io/github/forks/SunilGudivada/Data-Structures-and-Algorithms.svg?style=social\&label=Fork\&maxAge=2592000)](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/network/) [![GitHub stars](https://img.shields.io/github/stars/SunilGudivada/Data-Structures-and-Algorithms.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/stargazers/)
 
 {% hint style="info" %}
-With&#x20;
+Knowledge is of no value unless you put into practice
 {% endhint %}
 
 Thank you for visiting my notebook. Keeping it straight. This is my learnings book and add the things regularly in this notebook about the DSA, System Design, Interview Experiences. This notebook wont contain any advertisements or premium courses, this is absolutely free.&#x20;
