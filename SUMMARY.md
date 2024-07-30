@@ -20,6 +20,7 @@
   * [🌐 Fault Tolerance](system-design/key-concepts/fault-tolerance.md)
 * [💎 Building Blocks](system-design/building-blocks/README.md)
   * [🔹 Message](system-design/building-blocks/message.md)
+  * [🔹 Cache](system-design/building-blocks/cache.md)
 * [🖥️ Introduction to system design](system-design/introduction-to-system-design.md)
 * [⏱️ Step By Step Guide](system-design/step-by-step-guide.md)
 * [♨️ Emerging Technologies in System Design](system-design/emerging-technologies-in-system-design.md)
