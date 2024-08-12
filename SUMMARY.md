@@ -34,6 +34,7 @@
 * [💲 UPI Payment System Design](system-design/upi-payment-system-design.md)
 * [📈 Stock Broker System Design - Groww](system-design/stock-broker-system-design-groww.md)
 * [🧑‍🤝‍🧑 Designing Instagram's Collaborative Content Creation - Close Friends Only](system-design/designing-instagrams-collaborative-content-creation-close-friends-only.md)
+* [🌳 Vending Machines - Over the air Systems](system-design/vending-machines-over-the-air-systems.md)
 * [Reference Links](system-design/reference-links.md)
 
 ## DSA <a href="#data-structures-and-algorithms" id="data-structures-and-algorithms"></a>
