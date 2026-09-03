@@ -115,6 +115,7 @@ Building System design studio. Click here for more: [https://bit.ly/4bcJFBb](htt
 * [DDIA](https://github.com/SunilGudivada/Data-Structures-and-Algorithms/tree/master/System%20Design/DDIA) ( Designing Data-Intensive Applications ) **--** [**Click here to Buy in Amazon**](https://www.amazon.in/gp/product/9352135245/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8\&psc=1)
 * [Gaurav sen Youtube videos](https://www.youtube.com/c/GauravSensei)
 * [Algo Expert](https://algoexpert.io/)
+* [PracHub System Design Interview Prep Guide](https://prachub.com/resources/system-design-interview-the-complete-2026-prep-guide)
 * [https://sre.google/workbook/non-abstract-design/](https://sre.google/workbook/non-abstract-design/)
 
 ### :link: Telegram channels
